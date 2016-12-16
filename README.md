@@ -1,4 +1,7 @@
-# Cloud App Hosting:	
+# List of tools that startups should use
+This list is about tools for everything. These tools are all digital i.e. either app, online service, or software. Feel free to suggest and contribute in this list.
+
+## Cloud App Hosting:	
 OpenShift by Red Hat	www.openshift.com
 AppFog	
 heroku	
@@ -7,11 +10,9 @@ GitHub pages
 BlueHost	
 DreamHost	
 Pagodabox	https://pagodabox.com/
-
-# DNS:	
+## DNS:	
 ClouDNS	
-
-# Productivity:	
+## Productivity:	
 Wunderlist - Personal task management	
 Asana - Project Management	
 Google Tasks	
@@ -21,8 +22,7 @@ Out of Milk - Grocery price list
 Toggl - Track where time is going?	
 Pomodoro Technique	
 I Done This	https://idonethis.com/cal/jawaids-personal/
-
-# Marketing:	
+## Marketing:	
 HubSpot	
 Pagemodo	http://www.pagemodo.com/
 Agora Pulse	http://www.agorapulse.com/free-facebook-marketing-tools
@@ -57,9 +57,8 @@ http://trendsmap.com/
 http://www.shortstack.com/pricing/	
 http://www.agorapulse.com/free-facebook-marketing-tools	
 http://www.postplanner.com/	
-
-# Wordpress Plugins:	
-Top plugins	http://leadin.com/top-wordpress-plugins/#.U0Q8UPmSzTd
+## Wordpress Plugins:	
+Top plugins	http://leadin.com/top-wordpress-plugins/##.U0Q8UPmSzTd
 W3 Total Cache	
 SEO by Yoast	
 All-in-One SEO	
@@ -72,33 +71,27 @@ http://wordpress.org/plugins/inboundwriter/	http://www.inboundwriter.com/
 InboundWriter	http://wordpress.org/plugins/inboundwriter
 Squirrly SEO	https://wordpress.org/plugins/squirrly-seo/
 WordPress WooThemes Plugins	http://profiles.wordpress.org/woothemes/
-
-# Performance Tools:	
+## Performance Tools:	
 http://tools.pingdom.com/fpt	pingdom.com - Website monitor
 Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 Web Page Performance Test	"http://www.webpagetest.org/
 "
 GTMetrix	http://gtmetrix.com/
-
-# CRM:	
+## CRM:	
 Insightly	
 ZohoCRM	
-
-# Chat/Support:	
+## Chat/Support:	
 Zopim	
 Olark	
-
-# Analytics:	
+## Analytics:	
 Google Analytics	
 Inspectlet	http://www.inspectlet.com/plans
 http://zoomanalytics.co/	http://zoomanalytics.co/campaigns
-
-# Notes:	
+## Notes:	
 Microsoft OneNote	
 Google Keep	
 Evernote	
-
-# Designing:	
+## Designing:	
 Photoshop	
 Microsoft Expression Design	
 http://www.fotor.com/	
@@ -106,8 +99,7 @@ http://www.photoshop.com/tools
 Pinterest for Stock photo collection	
 Create GIF -Â http://gifbrewery.com/	
 Stamp creator	http://www.speedystamps.co.uk/
-
-# Online Logo:	
+## Online Logo:	
 onlinelogomaker24.com	
 freelogoservices.com	
 graphicsprings.com	
@@ -115,16 +107,14 @@ designmantic.com
 zilliondesigns.com	
 logomaker.com	
 http://cooltext.com/	http://cooltext.com/Logo-Design?LogoID=1004460705
-
-# Development:	
+## Development:	
 NetBeans PHP	
 Sublime Text	
 Notepad++	
 Microsoft Expression Web	
 Microsoft WebMatrix	
 Microsoft VisualStudio	
-
-# Utilities:	
+## Utilities:	
 FileZilla	
 XAMPP	
 Pingdom Website Monitor	pingdom.com
