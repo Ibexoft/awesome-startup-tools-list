@@ -118,3 +118,5 @@ Microsoft VisualStudio
 FileZilla	
 XAMPP	
 Pingdom Website Monitor	pingdom.com
+## Automated Code Reviews
+Code Climate - https://codeclimate.com
