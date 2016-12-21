@@ -1,6 +1,10 @@
 # List of tools that startups should use
 This list is about tools for everything. These tools are all digital i.e. either app, online service, or software. Feel free to suggest and contribute in this list.
 
+## Git Repos
+GitHub - https://github.com
+BitBucket - https://bitbucket.com
+GitLab - https://gitlab.com
 ## Cloud App Hosting:	
 OpenShift by Red Hat	www.openshift.com
 AppFog	
@@ -10,8 +14,11 @@ GitHub pages
 BlueHost	
 DreamHost	
 Pagodabox	https://pagodabox.com/
-## DNS:	
-ClouDNS	
+Surge - http://surge.sh/
+Netlify - https://www.netlify.com/
+## DNS & SSL:	
+ClouDNS	- https://cloudns.net/
+Let's Encrypt - https://letsencrypt.org/
 ## Productivity:	
 Wunderlist - Personal task management	
 Asana - Project Management	
@@ -64,9 +71,7 @@ SEO by Yoast
 All-in-One SEO	
 Orbisius Child Theme Creator	http://wordpress.org/plugins/orbisius-child-theme-creator/
 Astoundify	"http://astoundify.com/
-
-https://wordpress.org/plugins/appthemer-crowdfunding/
-"
+https://wordpress.org/plugins/appthemer-crowdfunding/"
 http://wordpress.org/plugins/inboundwriter/	http://www.inboundwriter.com/
 InboundWriter	http://wordpress.org/plugins/inboundwriter
 Squirrly SEO	https://wordpress.org/plugins/squirrly-seo/
@@ -74,8 +79,7 @@ WordPress WooThemes Plugins	http://profiles.wordpress.org/woothemes/
 ## Performance Tools:	
 http://tools.pingdom.com/fpt	pingdom.com - Website monitor
 Google Page Insight	https://developers.google.com/speed/pagespeed/insights
-Web Page Performance Test	"http://www.webpagetest.org/
-"
+Web Page Performance Test	- http://www.webpagetest.org/
 GTMetrix	http://gtmetrix.com/
 ## CRM:	
 Insightly	
@@ -120,3 +124,12 @@ XAMPP
 Pingdom Website Monitor	pingdom.com
 ## Automated Code Reviews
 Code Climate - https://codeclimate.com
+## Testing
+Sauce Labs - https://saucelabs.com/
+Browser Stack - https://www.browserstack.com/
+## Email Service for Developers
+MailGun - http://www.mailgun.com , http://www.mailgun.com/google
+SendGrid - https://sendgrid.com
+MailChimp - https://mailchimp.com
+Mandrill - 
+AWS SES
