@@ -5,6 +5,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - GitHub - https://github.com
 - BitBucket - https://bitbucket.com
 - GitLab - https://gitlab.com
+
 ## Cloud App Hosting:	
 - OpenShift by Red Hat	www.openshift.com
 - AppFog	
@@ -16,9 +17,11 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Pagodabox	https://pagodabox.com/
 - Surge - http://surge.sh/
 - Netlify - https://www.netlify.com/
+
 ## DNS & SSL:	
 - ClouDNS	- https://cloudns.net/
 - Let's Encrypt - https://letsencrypt.org/
+
 ## Productivity:	
 - Wunderlist - Personal task management	
 - Asana - Project Management	
@@ -29,6 +32,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Toggl - Track where time is going?	
 - Pomodoro Technique	
 - I Done This	https://idonethis.com/cal/jawaids-personal/
+
 ## Marketing:	
 - HubSpot	
 - Pagemodo	http://www.pagemodo.com/
@@ -64,6 +68,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - http://www.shortstack.com/pricing/	
 - http://www.agorapulse.com/free-facebook-marketing-tools	
 - http://www.postplanner.com/	
+
 ## Wordpress Plugins:	
 - Top plugins	http://leadin.com/top-wordpress-plugins/##.U0Q8UPmSzTd
 - W3 Total Cache	
@@ -76,25 +81,31 @@ This list is about tools for everything. These tools are all digital i.e. either
 - InboundWriter	http://wordpress.org/plugins/inboundwriter
 - Squirrly SEO	https://wordpress.org/plugins/squirrly-seo/
 - WordPress WooThemes Plugins	http://profiles.wordpress.org/woothemes/
+
 ## Performance Tools:	
 - http://tools.pingdom.com/fpt	pingdom.com - Website monitor
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test	- http://www.webpagetest.org/
 - GTMetrix	http://gtmetrix.com/
+
 ## CRM:	
 - Insightly	
 - ZohoCRM	
+
 ## Chat/Support:	
 - Zopim	
 - Olark	
+
 ## Analytics:	
 - Google Analytics	
 - Inspectlet	http://www.inspectlet.com/plans
 - http://zoomanalytics.co/	http://zoomanalytics.co/campaigns
+
 ## Notes:	
 - Microsoft OneNote	
 - Google Keep	
 - Evernote	
+
 ## Designing:	
 - Photoshop	
 - Microsoft Expression Design	
@@ -103,6 +114,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Pinterest for Stock photo collection	
 - Create GIF -Â http://gifbrewery.com/	
 - Stamp creator	http://www.speedystamps.co.uk/
+
 ## Online Logo:	
 - onlinelogomaker24.com	
 - freelogoservices.com	
@@ -111,6 +123,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - zilliondesigns.com	
 - logomaker.com	
 - http://cooltext.com/	http://cooltext.com/Logo-Design?LogoID=1004460705
+
 ## Development:	
 - NetBeans PHP	
 - Sublime Text	
@@ -119,20 +132,25 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Microsoft WebMatrix	
 - Microsoft Visual Studio	(IDE)
 - Microsoft Visual Studio Code
+
 ## Utilities:	
 - FileZilla	
 - XAMPP	
 - Pingdom Website Monitor	pingdom.com
+
 ## Automated Code Reviews
 - Code Climate - https://codeclimate.com
+
 ## Testing
 - Sauce Labs - https://saucelabs.com/
 - Browser Stack - https://www.browserstack.com/
+
 ## Email Service for Developers
 - MailGun - http://www.mailgun.com , http://www.mailgun.com/google
 - SendGrid - https://sendgrid.com
 - MailChimp - https://mailchimp.com
 - Mandrill - 
 - AWS SES
+
 ## Changelog
 - Headway - https://headwayapp.co/
