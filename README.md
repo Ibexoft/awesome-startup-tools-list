@@ -1,4 +1,4 @@
-# List of tools that startups should use
+# List of tools that tech startups should be using
 This list is about tools for everything. These tools are all digital i.e. either app, online service, or software. Feel free to suggest and contribute in this list.
 
 ## Git Repos
@@ -124,7 +124,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - logomaker.com	
 - http://cooltext.com/	http://cooltext.com/Logo-Design?LogoID=1004460705
 
-## Development:	
+## Development IDE/Editors:	
 - NetBeans PHP	
 - Sublime Text	
 - Notepad++	
@@ -133,10 +133,15 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Microsoft Visual Studio	(IDE)
 - Microsoft Visual Studio Code
 
+## Development online platforms/IDEs:
+- CodeAnywhere - https://codeanywhere.com
+- Cloud9 - https://c9.io
+- Koding - https://koding.com
+
 ## Utilities:	
 - FileZilla	
 - XAMPP	
-- Pingdom Website Monitor	pingdom.com
+- Pingdom Website Monitor	- https://pingdom.com
 
 ## Automated Code Reviews
 - Code Climate - https://codeclimate.com
