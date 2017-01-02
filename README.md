@@ -125,26 +125,32 @@ This list is about tools for everything. These tools are all digital i.e. either
 - http://cooltext.com/	http://cooltext.com/Logo-Design?LogoID=1004460705
 
 ## Development IDE/Editors:	
-- NetBeans PHP	
-- Sublime Text	
-- Notepad++	
-- Microsoft Expression Web	
-- Microsoft WebMatrix	
-- Microsoft Visual Studio	(IDE)
-- Microsoft Visual Studio Code
+- Sublime Text - https://www.sublimetext.com/
+- Microsoft Visual Studio Code - https://code.visualstudio.com/
+- Microsoft Visual Studio	(IDE) - https://www.visualstudio.com/
+- NetBeans PHP - http://netbeans.org/
+- Eclipse - https://eclipse.org/
+- PHPStorm - https://www.jetbrains.com/phpstorm/
+- WebStorm - https://www.jetbrains.com/webstorm/
 
 ## Development online platforms/IDEs:
 - CodeAnywhere - https://codeanywhere.com
 - Cloud9 - https://c9.io
 - Koding - https://koding.com
 
+## Development Playgrounds
+- JSFiddle - https://jsfiddle.net
+- Plunker - https://plnkr.co/
+- CodePen - http://codepen.io/
+
 ## Utilities:	
 - FileZilla	
 - XAMPP	
 - Pingdom Website Monitor	- https://pingdom.com
 
-## Automated Code Reviews
+## Automated Code Reviews, linting, coding conventions
 - Code Climate - https://codeclimate.com
+- JSLint - Usually available as plugin for IDEs/Editors
 
 ## Testing
 - Sauce Labs - https://saucelabs.com/
