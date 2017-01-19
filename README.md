@@ -22,22 +22,29 @@ This list is about tools for everything. These tools are all digital i.e. either
 - ClouDNS	- https://cloudns.net/
 - Let's Encrypt - https://letsencrypt.org/
 
-## Productivity:	
-- Wunderlist - https://www.wunderlist.com/	
+## Productivity & Project/Task Management:
 - Asana - https://asana.com/
 - Trello - https://trello.com/
-- Toggl - https://toggl.com/	
-- Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
-- I Done This	https://idonethis.com/
+- LeanKit - https://www.leankit.com/
+- Pivotal Tracker - https://www.pivotaltracker.com	
 - Wrike - https://www.wrike.com/
 
-## Performance Tools:	
+- Wunderlist - https://www.wunderlist.com/
+- Todoist - https://todoist.com/
+
+- I Done This	https://idonethis.com/
+- Toggl - https://toggl.com/
+
+- Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+## Site Performance Tools:	
 - http://tools.pingdom.com/fpt	pingdom.com - Website monitor
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test	- http://www.webpagetest.org/
 - GTMetrix	http://gtmetrix.com/
 
 ## CRM:	
+- HubSpot CRM - https://www.hubspot.com/products/crm
 - Insightly	- https://www.insightly.com
 - ZohoCRM	- https://www.zoho.com/crm/
 
@@ -99,8 +106,10 @@ This list is about tools for everything. These tools are all digital i.e. either
 ## Changelog
 - Headway - https://headwayapp.co/
 
-## Marketing:	
+## Sales & Marketing:	
 - HubSpot	- https://www.hubspot.com/
+  - Marketing: https://www.hubspot.com/products/marketing
+  - Sales: https://www.hubspot.com/products/sales
 - Pagemodo	http://www.pagemodo.com/
 - Agora Pulse	http://www.agorapulse.com/free-facebook-marketing-tools
 - Twitter Search - https://twitter.com/search-home	
