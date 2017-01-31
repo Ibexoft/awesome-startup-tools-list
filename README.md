@@ -156,16 +156,16 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Squirrly SEO	https://wordpress.org/plugins/squirrly-seo/
 - WordPress WooThemes Plugins	http://profiles.wordpress.org/woothemes/
 
-## Designing:	
+## Images & Designing:
 - Photoshop	- http://www.adobe.com/products/photoshop.html
 - Photoshop Express - http://www.photoshop.com/tools
 - Pixlr - https://pixlr.com/
 - Microsoft Expression Design	- https://www.microsoft.com/en-pk/download/details.aspx?id=36180
-- http://www.fotor.com/	
-- http://www.photoshop.com/tools	
-- Pinterest for Stock photo collection	
+- Fotor - http://www.fotor.com/	
+- Pinterest for Stock photo collection - http://pinterest.com
 - Create GIF - http://gifbrewery.com/	
-- Stamp creator	http://www.speedystamps.co.uk/
+- Stamp creator -	http://www.speedystamps.co.uk/
+- Place Image - http://placeimg.com/
 
 ## Online Logo:	
 - onlinelogomaker24.com	
