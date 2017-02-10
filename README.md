@@ -165,7 +165,8 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Pinterest for Stock photo collection - http://pinterest.com
 - Create GIF - http://gifbrewery.com/	
 - Stamp creator -	http://www.speedystamps.co.uk/
-- Place Image - http://placeimg.com/
+- Place Image (Stock photos generator) - http://placeimg.com/
+- Pexel (High quality stock photos) - https://www.pexels.com/
 
 ## Online Logo:	
 - onlinelogomaker24.com	
