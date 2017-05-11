@@ -1,6 +1,30 @@
 # List of tools that tech startups should be using
 This list is about tools for everything. These tools are all digital i.e. either app, online service, or software. Feel free to suggest and contribute in this list.
 
+## Note taking:	
+- Microsoft OneNote	- https://www.onenote.com/
+- Evernote - https://evernote.com/
+- Google Keep	- https://keep.google.com/
+
+## Productivity & Project/Task Management:
+- Asana - https://asana.com/
+- Trello - https://trello.com/
+- Airtable - https://airtable.com/
+- Meister Task - https://meistertask.com
+- LeanKit - https://www.leankit.com/
+- Pivotal Tracker - https://www.pivotaltracker.com	
+- Wrike - https://www.wrike.com/
+
+- Wunderlist - https://www.wunderlist.com/ (Replaced by Microsoft Todo)
+- Microsoft Todo - https://todo.microsoft.com (Replacing Wunderlist)
+- Todoist - https://todoist.com/
+
+- I Done This	https://idonethis.com/
+
+## Time Tracking and Management:
+- Toggl - https://toggl.com/
+- Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
+
 ## Git Repos
 - GitHub - https://github.com
 - BitBucket - https://bitbucket.com
@@ -10,35 +34,23 @@ This list is about tools for everything. These tools are all digital i.e. either
 - OpenShift by Red Hat	www.openshift.com
 - AppFog - https://console.appfog.com
 - heroku - https://www.heroku.com/
-- Google Cloud - https://cloud.google.com/
 - GitHub pages - https://pages.github.com/
 - BlueHost - https://www.bluehost.com/
 - DreamHost	- https://www.dreamhost.com/
 - Pagodabox	https://pagodabox.com/
 - Surge - http://surge.sh/
 - Netlify - https://www.netlify.com/
+- Amazon AWS - https://aws.amazon.com
+- Microsoft Azure - https://azure.microsoft.com
+- Google Cloud - https://cloud.google.com/
 
-## DNS & SSL:	
+## DNS, CDN, & SSL:
+- CloudFlare - https://www.cloudflare.com/
 - ClouDNS	- https://cloudns.net/
 - Let's Encrypt - https://letsencrypt.org/
 
-## Productivity & Project/Task Management:
-- Asana - https://asana.com/
-- Trello - https://trello.com/
-- LeanKit - https://www.leankit.com/
-- Pivotal Tracker - https://www.pivotaltracker.com	
-- Wrike - https://www.wrike.com/
-
-- Wunderlist - https://www.wunderlist.com/
-- Todoist - https://todoist.com/
-
-- I Done This	https://idonethis.com/
-- Toggl - https://toggl.com/
-
-- Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
-
 ## Site Performance Tools:	
-- http://tools.pingdom.com/fpt	pingdom.com - Website monitor
+- Pingdom http://tools.pingdom.com/fpt	pingdom.com - Website monitor
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test	- http://www.webpagetest.org/
 - GTMetrix	http://gtmetrix.com/
@@ -56,20 +68,17 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Google Analytics - https://analytics.google.com
 - Inspectlet	http://www.inspectlet.com/plans
 - http://zoomanalytics.co/	http://zoomanalytics.co/campaigns
-
-## Notes:	
-- Microsoft OneNote	- https://www.onenote.com/
-- Evernote - https://evernote.com/
-- Google Keep	- https://keep.google.com/
+- New Relic https://newrelic.com/
 
 ## Development IDE/Editors:	
 - Sublime Text - https://www.sublimetext.com/
 - Microsoft Visual Studio Code - https://code.visualstudio.com/
 - Microsoft Visual Studio	(IDE) - https://www.visualstudio.com/
-- NetBeans PHP - http://netbeans.org/
-- Eclipse - https://eclipse.org/
+- Atom - https://atom.io/
 - PHPStorm - https://www.jetbrains.com/phpstorm/
 - WebStorm - https://www.jetbrains.com/webstorm/
+- NetBeans PHP - http://netbeans.org/
+- Eclipse - https://eclipse.org/
 
 ## Development online platforms/IDEs:
 - CodeAnywhere - https://codeanywhere.com
@@ -84,7 +93,6 @@ This list is about tools for everything. These tools are all digital i.e. either
 ## Utilities:	
 - FileZilla	- https://filezilla-project.org/
 - XAMPP	- https://www.apachefriends.org
-- Pingdom Website Monitor	- https://pingdom.com
 - WinScp - https://winscp.net
 - Putty - http://www.putty.org/
 
@@ -114,7 +122,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Agora Pulse	http://www.agorapulse.com/free-facebook-marketing-tools
 - Twitter Search - https://twitter.com/search-home	
 - MailChimp	- https://mailchimp.com/
-- SEO by Yoast	
+- SEO by Yoast for WordPress
 - Buffer App	
 - HootSuite	
 - TweetDeck	
@@ -144,18 +152,6 @@ This list is about tools for everything. These tools are all digital i.e. either
 - http://www.agorapulse.com/free-facebook-marketing-tools	
 - http://www.postplanner.com/	
 
-## Wordpress Plugins:	
-- W3 Total Cache	
-- SEO by Yoast	
-- All-in-One SEO	
-- Orbisius Child Theme Creator	http://wordpress.org/plugins/orbisius-child-theme-creator/
-- Astoundify	"http://astoundify.com/
-- https://wordpress.org/plugins/appthemer-crowdfunding/"
-- http://wordpress.org/plugins/inboundwriter/	http://www.inboundwriter.com/
-- InboundWriter	http://wordpress.org/plugins/inboundwriter
-- Squirrly SEO	https://wordpress.org/plugins/squirrly-seo/
-- WordPress WooThemes Plugins	http://profiles.wordpress.org/woothemes/
-
 ## Images & Designing:
 - Photoshop	- http://www.adobe.com/products/photoshop.html
 - Photoshop Express - http://www.photoshop.com/tools
@@ -176,3 +172,25 @@ This list is about tools for everything. These tools are all digital i.e. either
 - zilliondesigns.com	
 - logomaker.com	
 - http://cooltext.com/
+
+## Content Management Systems (CMS):
+- WordPress - https://www.wordpress.org
+- Drupal - https://www.drupal.com
+
+## Ecommerce CMS:
+- WooCommerce for WordPress - https://www.woocommerce.com
+- Magento - https://www.magento.com
+- OpenCart - https://www.opencart.com
+- Prestashop - https://www.prestashop.com
+
+## Wordpress Plugins:	
+- W3 Total Cache	
+- SEO by Yoast	
+- All-in-One SEO	
+- Orbisius Child Theme Creator	http://wordpress.org/plugins/orbisius-child-theme-creator/
+- Astoundify	"http://astoundify.com/
+- https://wordpress.org/plugins/appthemer-crowdfunding/"
+- http://wordpress.org/plugins/inboundwriter/	http://www.inboundwriter.com/
+- InboundWriter	http://wordpress.org/plugins/inboundwriter
+- Squirrly SEO	https://wordpress.org/plugins/squirrly-seo/
+- WordPress WooThemes Plugins	http://profiles.wordpress.org/woothemes/
