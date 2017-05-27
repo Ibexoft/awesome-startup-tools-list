@@ -64,6 +64,8 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Scraping Hub - https://scrapinghub.com/
 - Scrapy - https://scrapy.org/
 - Visual Scraper - http://www.visualscraper.com/
+- Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd/related
+- Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
 
 ## CRM:	
 - HubSpot CRM - https://www.hubspot.com/products/crm
