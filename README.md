@@ -55,6 +55,16 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Web Page Performance Test	- http://www.webpagetest.org/
 - GTMetrix	http://gtmetrix.com/
 
+## Web Scraping Tools
+- Import.io - https://www.import.io/
+- Web Hose - https://webhose.io/scraping-tools
+- Dexi.io - https://dexi.io/
+- Parese Hub - https://www.parsehub.com/
+- 80Legs - http://80legs.com/
+- Scraping Hub - https://scrapinghub.com/
+- Scrapy - https://scrapy.org/
+- Visual Scraper - http://www.visualscraper.com/
+
 ## CRM:	
 - HubSpot CRM - https://www.hubspot.com/products/crm
 - Insightly	- https://www.insightly.com
