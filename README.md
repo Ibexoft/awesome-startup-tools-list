@@ -31,18 +31,18 @@ This list is about tools for everything. These tools are all digital i.e. either
 - GitLab - https://gitlab.com
 
 ## Cloud App Hosting:	
+- GitHub pages - https://pages.github.com/
+- Amazon AWS - https://aws.amazon.com
+- Microsoft Azure - https://azure.microsoft.com
+- Google Cloud - https://cloud.google.com/
+- Heroku - https://www.heroku.com/
 - OpenShift by Red Hat	www.openshift.com
 - AppFog - https://console.appfog.com
-- heroku - https://www.heroku.com/
-- GitHub pages - https://pages.github.com/
 - BlueHost - https://www.bluehost.com/
 - DreamHost	- https://www.dreamhost.com/
 - Pagodabox	https://pagodabox.com/
 - Surge - http://surge.sh/
 - Netlify - https://www.netlify.com/
-- Amazon AWS - https://aws.amazon.com
-- Microsoft Azure - https://azure.microsoft.com
-- Google Cloud - https://cloud.google.com/
 
 ## DNS, CDN, & SSL:
 - CloudFlare - https://www.cloudflare.com/
@@ -59,7 +59,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Import.io - https://www.import.io/
 - Web Hose - https://webhose.io/scraping-tools
 - Dexi.io - https://dexi.io/
-- Parese Hub - https://www.parsehub.com/
+- Parse Hub - https://www.parsehub.com/
 - 80Legs - http://80legs.com/
 - Scraping Hub - https://scrapinghub.com/
 - Scrapy - https://scrapy.org/
@@ -72,15 +72,15 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Insightly	- https://www.insightly.com
 - ZohoCRM	- https://www.zoho.com/crm/
 
-## Chat/Support:	
-- Zopim	- https://www.zopim.com/
+## Customer Support/Chat:	
+- Zendesk Chat (formerly Zopim)	- https://www.zopim.com/
 - Olark	- https://www.olark.com/
 
 ## Analytics:	
 - Google Analytics - https://analytics.google.com
-- Inspectlet	http://www.inspectlet.com/plans
-- http://zoomanalytics.co/	http://zoomanalytics.co/campaigns
 - New Relic https://newrelic.com/
+- Inspectlet	http://www.inspectlet.com/plans
+- Zoom Analytics http://zoomanalytics.co/
 
 ## Development IDE/Editors:	
 - Sublime Text - https://www.sublimetext.com/
@@ -101,6 +101,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - JSFiddle - https://jsfiddle.net
 - Plunker - https://plnkr.co/
 - CodePen - http://codepen.io/
+- JSBin - https://jsbin.com/
 
 ## Utilities:	
 - FileZilla	- https://filezilla-project.org/
@@ -122,6 +123,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - MailChimp - https://mailchimp.com
 - Mandrill - http://www.mandrill.com/
 - AWS SES - https://aws.amazon.com/ses/
+- Mail Trap (for testing only) - https://mailtrap.io/
 
 ## Changelog
 - Headway - https://headwayapp.co/
@@ -130,7 +132,7 @@ This list is about tools for everything. These tools are all digital i.e. either
 - HubSpot	- https://www.hubspot.com/
   - Marketing: https://www.hubspot.com/products/marketing
   - Sales: https://www.hubspot.com/products/sales
-- Pagemodo	http://www.pagemodo.com/
+- Website Grader by HubSpot	http://grader.com/
 - Agora Pulse	http://www.agorapulse.com/free-facebook-marketing-tools
 - Twitter Search - https://twitter.com/search-home	
 - MailChimp	- https://mailchimp.com/
@@ -140,16 +142,15 @@ This list is about tools for everything. These tools are all digital i.e. either
 - TweetDeck	
 - Pocket - https://getpocket.com
 - Pinterest	
-- http://ubersuggest.org/ - Keyword Suggest	
-- http://animoto.com/ - Video creation	
-- http://www.powtoon.com/ - Video/Anime creation	
-- http://locowise.com/ - Social Media	
-- https://visualwebsiteoptimizer.com/signup.php	
+- Keyword Suggest - http://ubersuggest.org/
+- Video creation - http://animoto.com/
+- Video/Anime creation - http://www.powtoon.com/
+- Social Media - http://locowise.com/
+- Visual Website Optimizer - https://visualwebsiteoptimizer.com/
 - Tweriod	
 - http://mysiteauditor.com/	
-- http://upcity.com/free-tools/seo-report-card	
-- http://www.10khits.com/ - Free traffic increase	
-- Marketing Grader by HubSpot	http://marketing.grader.com/
+- Upcity free tools - http://upcity.com/free-tools/seo-report-card	
+- Free traffic increase - http://www.10khits.com/
 - http://www.evergage.com/free-web-personalization-cro-software	
 - WooBox	http://woobox.com/
 - addshoppers.com	
@@ -165,6 +166,9 @@ This list is about tools for everything. These tools are all digital i.e. either
 - http://www.postplanner.com/	
 
 ## Images & Designing:
+- Pagemodo	http://www.pagemodo.com
+- Canva - https://www.canva.com
+- Snappa - https://snappa.com
 - Photoshop	- http://www.adobe.com/products/photoshop.html
 - Photoshop Express - http://www.photoshop.com/tools
 - Pixlr - https://pixlr.com/
@@ -176,24 +180,33 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Place Image (Stock photos generator) - http://placeimg.com/
 - Pexel (High quality stock photos) - https://www.pexels.com/
 
+## Video making
+- Biteable - https://biteable.com
+- Powtoon - https://www.powtoon.com
+
 ## Online Logo:	
-- onlinelogomaker24.com	
-- freelogoservices.com	
-- graphicsprings.com	
-- designmantic.com	
-- zilliondesigns.com	
-- logomaker.com	
-- http://cooltext.com/
+- Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
+- Logo Joy - https://logojoy.com
+- Logaster - https://www.logaster.com/
+- Cool Text - http://cooltext.com/
+- Online Logo Maker 24 - http://onlinelogomaker24.com	
+- Free Logo Services - http://freelogoservices.com	
+- Graphic Springs - http://graphicsprings.com	
+- Design Mantic - http://designmantic.com	
+- Zillion Designs - http://zilliondesigns.com	
+- Logo Maker - http://logomaker.com	
 
 ## Content Management Systems (CMS):
 - WordPress - https://www.wordpress.org
 - Drupal - https://www.drupal.com
+- Joomla - https://www.joomla.org
 
 ## Ecommerce CMS:
 - WooCommerce for WordPress - https://www.woocommerce.com
 - Magento - https://www.magento.com
 - OpenCart - https://www.opencart.com
 - Prestashop - https://www.prestashop.com
+- Shopify - https://www.shopify.com
 
 ## Wordpress Plugins:	
 - W3 Total Cache	
@@ -206,3 +219,6 @@ This list is about tools for everything. These tools are all digital i.e. either
 - InboundWriter	http://wordpress.org/plugins/inboundwriter
 - Squirrly SEO	https://wordpress.org/plugins/squirrly-seo/
 - WordPress WooThemes Plugins	http://profiles.wordpress.org/woothemes/
+
+## Accounting & Finance
+- Wave Apps - https://www.waveapps.com
