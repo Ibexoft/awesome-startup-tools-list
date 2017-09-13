@@ -1,29 +1,5 @@
-# List of tools that tech startups should be using
-This list is about tools for everything. These tools are all digital i.e. either app, online service, or software. Feel free to suggest and contribute in this list.
-
-## Note taking:	
-- Microsoft OneNote	- https://www.onenote.com/
-- Evernote - https://evernote.com/
-- Google Keep	- https://keep.google.com/
-
-## Productivity & Project/Task Management:
-- Asana - https://asana.com/
-- Trello - https://trello.com/
-- Airtable - https://airtable.com/
-- Meister Task - https://meistertask.com
-- LeanKit - https://www.leankit.com/
-- Pivotal Tracker - https://www.pivotaltracker.com	
-- Wrike - https://www.wrike.com/
-
-- Wunderlist - https://www.wunderlist.com/ (Replaced by Microsoft Todo)
-- Microsoft Todo - https://todo.microsoft.com (Replacing Wunderlist)
-- Todoist - https://todoist.com/
-
-- I Done This	https://idonethis.com/
-
-## Time Tracking and Management:
-- Toggl - https://toggl.com/
-- Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
+# List of FREE tools Startups should be using
+This is a curated list about tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e. either app, online service, or downloadable software. Most of them are either free or have limited free option that is enough for startups. Feel free to suggest and contribute in this list.
 
 ## Git Repos
 - GitHub - https://github.com
@@ -66,21 +42,6 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Visual Scraper - http://www.visualscraper.com/
 - Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd/related
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
-
-## CRM:	
-- HubSpot CRM - https://www.hubspot.com/products/crm
-- Insightly	- https://www.insightly.com
-- ZohoCRM	- https://www.zoho.com/crm/
-
-## Customer Support/Chat:	
-- Zendesk Chat (formerly Zopim)	- https://www.zopim.com/
-- Olark	- https://www.olark.com/
-
-## Analytics:	
-- Google Analytics - https://analytics.google.com
-- New Relic https://newrelic.com/
-- Inspectlet	http://www.inspectlet.com/plans
-- Zoom Analytics http://zoomanalytics.co/
 
 ## Development IDE/Editors:	
 - Sublime Text - https://www.sublimetext.com/
@@ -128,73 +89,37 @@ This list is about tools for everything. These tools are all digital i.e. either
 ## Changelog
 - Headway - https://headwayapp.co/
 
-## Sales & Marketing:	
-- HubSpot	- https://www.hubspot.com/
-  - Marketing: https://www.hubspot.com/products/marketing
-  - Sales: https://www.hubspot.com/products/sales
-- Website Grader by HubSpot	http://grader.com/
-- Agora Pulse	http://www.agorapulse.com/free-facebook-marketing-tools
-- Twitter Search - https://twitter.com/search-home	
-- MailChimp	- https://mailchimp.com/
-- SEO by Yoast for WordPress
-- Buffer App	
-- HootSuite	
-- TweetDeck	
+## Analytics:	
+- Google Analytics - https://analytics.google.com
+- New Relic https://newrelic.com/
+- Inspectlet	http://www.inspectlet.com/plans
+- Zoom Analytics http://zoomanalytics.co/
+
+## Note taking & Reading:	
+- Microsoft OneNote	- https://www.onenote.com/
+- Evernote - https://evernote.com/
+- Google Keep	- https://keep.google.com/
+
 - Pocket - https://getpocket.com
-- Pinterest	
-- Keyword Suggest - http://ubersuggest.org/
-- Video creation - http://animoto.com/
-- Video/Anime creation - http://www.powtoon.com/
-- Social Media - http://locowise.com/
-- Visual Website Optimizer - https://visualwebsiteoptimizer.com/
-- Tweriod	
-- http://mysiteauditor.com/	
-- Upcity free tools - http://upcity.com/free-tools/seo-report-card	
-- Free traffic increase - http://www.10khits.com/
-- http://www.evergage.com/free-web-personalization-cro-software	
-- WooBox	http://woobox.com/
-- addshoppers.com	
-- http://buzzsumo.com/	
-- https://dashboard.statichtmlapp.com/	
-- http://hashtagify.me/	
-- http://ritetag.com/	
-- https://tagboard.com/	
-- http://twitalyzer.com/5/index.asp	
-- http://trendsmap.com/	
-- http://www.shortstack.com/pricing/	
-- http://www.agorapulse.com/free-facebook-marketing-tools	
-- http://www.postplanner.com/	
 
-## Images & Designing:
-- Pagemodo	http://www.pagemodo.com
-- Canva - https://www.canva.com
-- Snappa - https://snappa.com
-- Photoshop	- http://www.adobe.com/products/photoshop.html
-- Photoshop Express - http://www.photoshop.com/tools
-- Pixlr - https://pixlr.com/
-- Microsoft Expression Design	- https://www.microsoft.com/en-pk/download/details.aspx?id=36180
-- Fotor - http://www.fotor.com/	
-- Pinterest for Stock photo collection - http://pinterest.com
-- Create GIF - http://gifbrewery.com/	
-- Stamp creator -	http://www.speedystamps.co.uk/
-- Place Image (Stock photos generator) - http://placeimg.com/
-- Pexel (High quality stock photos) - https://www.pexels.com/
+## Productivity & Project/Task Management:
+- Asana - https://asana.com/
+- Trello - https://trello.com/
+- Airtable - https://airtable.com/
+- Meister Task - https://meistertask.com
+- LeanKit - https://www.leankit.com/
+- Pivotal Tracker - https://www.pivotaltracker.com	
+- Wrike - https://www.wrike.com/
 
-## Video making
-- Biteable - https://biteable.com
-- Powtoon - https://www.powtoon.com
+- Wunderlist - https://www.wunderlist.com/ (Replaced by Microsoft Todo)
+- Microsoft Todo - https://todo.microsoft.com (Replacing Wunderlist)
+- Todoist - https://todoist.com/
 
-## Online Logo:	
-- Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
-- Logo Joy - https://logojoy.com
-- Logaster - https://www.logaster.com/
-- Cool Text - http://cooltext.com/
-- Online Logo Maker 24 - http://onlinelogomaker24.com	
-- Free Logo Services - http://freelogoservices.com	
-- Graphic Springs - http://graphicsprings.com	
-- Design Mantic - http://designmantic.com	
-- Zillion Designs - http://zilliondesigns.com	
-- Logo Maker - http://logomaker.com	
+- I Done This	https://idonethis.com/
+
+## Time Tracking and Management:
+- Toggl - https://toggl.com/
+- Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 ## Content Management Systems (CMS):
 - WordPress - https://www.wordpress.org
@@ -208,6 +133,92 @@ This list is about tools for everything. These tools are all digital i.e. either
 - Prestashop - https://www.prestashop.com
 - Shopify - https://www.shopify.com
 
+## Accounting & Finance
+- Wave Apps - https://www.waveapps.com
+
+## CRM:	
+- HubSpot CRM - https://www.hubspot.com/products/crm
+- Insightly	- https://www.insightly.com
+- ZohoCRM	- https://www.zoho.com/crm/
+
+## Customer Support/Chat:	
+- Zendesk Chat (formerly Zopim)	- https://www.zopim.com/
+- Olark	- https://www.olark.com/
+- Facebook Messenger - https://web.facebook.com/business/products/messenger-for-business
+- WhatsApp - https://www.whatsapp.com/
+
+## Social Media
+- Facebook - http://facebook.com
+- Twitter - http://twitter.com
+- LinkedIn - http://linkedin.com
+- Google+ - http://plus.google.com
+- Instagram - http://instagram.com
+- Pinterest	- https://www.pinterest.com/
+- YouTube - http://youtube.com
+
+## Sales & Marketing:	
+- HubSpot	- https://www.hubspot.com/
+  - Marketing: https://www.hubspot.com/products/marketing
+  - Sales: https://www.hubspot.com/products/sales
+- Website Grader by HubSpot	http://grader.com
+- Buffer App - https://buffer.com
+- HootSuite	- https://hootsuite.com
+- TweetDeck	- https://tweetdeck.twitter.com
+- CrowdFire - https://www.crowdfireapp.com
+- Uber Keyword Suggest - http://ubersuggest.org/
+- Social Media - http://locowise.com/
+- Visual Website Optimizer - https://visualwebsiteoptimizer.com/
+- Tweriod	- http://www.tweriod.com/
+- My Site Auditor - http://mysiteauditor.com
+- Upcity free tools - http://upcity.com/free-tools/seo-report-card	
+- Free traffic increase - http://www.10khits.com/
+- WooBox	http://woobox.com/
+- Add Shoppers - http://addshoppers.com	
+- BuzzSumo - http://buzzsumo.com/	
+- Static html app - https://statichtmlapp.com/	
+- Hashtagify - http://hashtagify.me/	
+- Ritetag - http://ritetag.com/	
+- Tagboard - https://tagboard.com/	
+- Twitalyzer - http://twitalyzer.com/5/index.asp	
+- Trendsmap - http://trendsmap.com/	
+- Shortstack - http://www.shortstack.com
+- Post Planner - http://www.postplanner.com/	
+
+## Video making:
+- Biteable - https://biteable.com
+- Powtoon - https://www.powtoon.com
+- Animoto - http://animoto.com/
+
+## Stock Photos:
+- Pexels - https://www.pexels.com/
+- Shopify Burst - https://burst.shopify.com/
+- Unsplash - https://unsplash.com
+- Place Image (Stock photos generator) - http://placeimg.com/
+
+## Online Logo:	
+- Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
+- Logo Joy - https://logojoy.com
+- Logaster - https://www.logaster.com/
+- Cool Text - http://cooltext.com/
+- Online Logo Maker 24 - http://onlinelogomaker24.com	
+- Free Logo Services - http://freelogoservices.com	
+- Graphic Springs - http://graphicsprings.com	
+- Design Mantic - http://designmantic.com	
+- Zillion Designs - http://zilliondesigns.com	
+- Logo Maker - http://logomaker.com	
+
+## Designing & Editing:
+- Pagemodo	http://www.pagemodo.com
+- Canva - https://www.canva.com
+- Snappa - https://snappa.com
+- Photoshop	- http://www.adobe.com/products/photoshop.html
+- Photoshop Express - http://www.photoshop.com/tools
+- Pixlr - https://pixlr.com/
+- Microsoft Expression Design	- https://www.microsoft.com/en-pk/download/details.aspx?id=36180
+- Fotor - http://www.fotor.com/	
+- Create GIF - http://gifbrewery.com/	
+- Stamp creator -	http://www.speedystamps.co.uk/
+
 ## Wordpress Plugins:	
 - W3 Total Cache	
 - SEO by Yoast	
@@ -219,6 +230,3 @@ This list is about tools for everything. These tools are all digital i.e. either
 - InboundWriter	http://wordpress.org/plugins/inboundwriter
 - Squirrly SEO	https://wordpress.org/plugins/squirrly-seo/
 - WordPress WooThemes Plugins	http://profiles.wordpress.org/woothemes/
-
-## Accounting & Finance
-- Wave Apps - https://www.waveapps.com
