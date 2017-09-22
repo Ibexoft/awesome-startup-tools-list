@@ -218,6 +218,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Fotor - http://www.fotor.com/	
 - Create GIF - http://gifbrewery.com/	
 - Stamp creator -	http://www.speedystamps.co.uk/
+- Method Draw (SVG Editor) - http://editor.method.ac
 
 ## Wordpress Plugins:	
 - W3 Total Cache	
