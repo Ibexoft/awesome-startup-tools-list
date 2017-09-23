@@ -219,6 +219,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Create GIF - http://gifbrewery.com/	
 - Stamp creator -	http://www.speedystamps.co.uk/
 - Method Draw (SVG Editor) - http://editor.method.ac
+- AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
 
 ## Wordpress Plugins:	
 - W3 Total Cache	
