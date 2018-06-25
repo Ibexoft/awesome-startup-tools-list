@@ -66,6 +66,7 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ## Utilities:	
 - FileZilla	- https://filezilla-project.org/
+- Laragon - https://laragon.org/
 - XAMPP	- https://www.apachefriends.org
 - WinScp - https://winscp.net
 - Putty - http://www.putty.org/
