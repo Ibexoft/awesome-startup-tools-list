@@ -100,7 +100,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - Microsoft OneNote	- https://www.onenote.com/
 - Evernote - https://evernote.com/
 - Google Keep	- https://keep.google.com/
-
 - Pocket - https://getpocket.com
 
 ## Productivity & Project/Task Management:
@@ -111,11 +110,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - LeanKit - https://www.leankit.com/
 - Pivotal Tracker - https://www.pivotaltracker.com	
 - Wrike - https://www.wrike.com/
-
 - Wunderlist - https://www.wunderlist.com/ (Replaced by Microsoft Todo)
 - Microsoft Todo - https://todo.microsoft.com (Replacing Wunderlist)
 - Todoist - https://todoist.com/
-
 - I Done This	https://idonethis.com/
 
 ## Attendance, Time Tracking and Management:
