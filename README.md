@@ -115,13 +115,14 @@ This is a curated list about tools for everything from productivity to hosting t
 - Todoist - https://todoist.com/
 - I Done This	https://idonethis.com/
 
-## Attendance, Time Tracking and Management:
+## Attendance, Time Tracking and Visitor Management:
 - Toggl - https://toggl.com/
 - PrimaERP - https://primaerp.com
 - ClockIt - https://clockit.io/
 - Zoho People - https://www.zoho.com/people
 - Bitrix24 HR System - https://www.bitrix24.com/uses/free-hr-system.php
 - Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
+- Vizitor - https://www.vizitorapp.com/
 
 ## Content Management Systems (CMS):
 - WordPress - https://www.wordpress.org
