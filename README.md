@@ -104,6 +104,7 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ## Productivity & Project/Task Management:
 - Asana - https://asana.com/
+- Basecamp - https://basecamp.com/
 - Trello - https://trello.com/
 - Airtable - https://airtable.com/
 - Meister Task - https://meistertask.com
@@ -167,6 +168,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - HootSuite	- https://hootsuite.com
 - TweetDeck	- https://tweetdeck.twitter.com
 - CrowdFire - https://www.crowdfireapp.com
+- QuickTwit - https://quicktwit.com
 - Uber Keyword Suggest - http://ubersuggest.org/
 - Social Media - http://locowise.com/
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com/
@@ -190,6 +192,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Biteable - https://biteable.com
 - Powtoon - https://www.powtoon.com
 - Animoto - http://animoto.com/
+- Openshot - https://www.openshot.org
 
 ## Stock Photos:
 - Pexels - https://www.pexels.com/
