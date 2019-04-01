@@ -115,6 +115,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Microsoft Todo - https://todo.microsoft.com (Replacing Wunderlist)
 - Todoist - https://todoist.com/
 - I Done This	https://idonethis.com/
+- Taskade -	https://www.taskade.com/ 
 
 ## Attendance, Time Tracking and Management:
 - Toggl - https://toggl.com/
