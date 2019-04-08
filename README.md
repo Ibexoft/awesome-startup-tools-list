@@ -116,6 +116,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Todoist - https://todoist.com/
 - I Done This	https://idonethis.com/
 - Taskade -	https://www.taskade.com/ 
+- Nozbe - https://nozbe.com/
 
 ## Attendance, Time Tracking and Management:
 - Toggl - https://toggl.com/
