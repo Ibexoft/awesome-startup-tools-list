@@ -146,7 +146,11 @@ This is a curated list about tools for everything from productivity to hosting t
 - Insightly	- https://www.insightly.com
 - ZohoCRM	- https://www.zoho.com/crm/
 
-## Customer Support/Chat:	
+## Enterprise Team Chat
+- Mattermost - https://mattermost.com/
+- Rocker.Chat - https://rocket.chat/
+
+## Customer Support/Live Chat:	
 - Zendesk Chat (formerly Zopim)	- https://www.zopim.com/
 - Olark	- https://www.olark.com/
 - Facebook Messenger - https://web.facebook.com/business/products/messenger-for-business
