@@ -148,6 +148,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - ZohoCRM	- https://www.zoho.com/crm/
 
 ## Enterprise Team Chat
+- Slack - https://slack.com/
+- Microsoft Teams - https://teams.microsoft.com/
 - Mattermost - https://mattermost.com/
 - Rocker.Chat - https://rocket.chat/
 
