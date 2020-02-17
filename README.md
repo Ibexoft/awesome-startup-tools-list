@@ -39,7 +39,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - 80Legs - http://80legs.com/
 - Scraping Hub - https://scrapinghub.com/
 - Scrapy - https://scrapy.org/
-- Visual Scraper - http://www.visualscraper.com/
 - Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd/related
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
 
