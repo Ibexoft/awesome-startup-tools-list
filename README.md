@@ -96,6 +96,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - New Relic https://newrelic.com/
 - Inspectlet	http://www.inspectlet.com/plans
 - Zoom Analytics http://zoomanalytics.co/
+- LiveSession - https://livesession.io/
 
 ## Note taking & Reading:	
 - Microsoft OneNote	- https://www.onenote.com/
