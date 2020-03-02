@@ -151,7 +151,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Slack - https://slack.com/
 - Microsoft Teams - https://teams.microsoft.com/
 - Mattermost - https://mattermost.com/
-- Rocker.Chat - https://rocket.chat/
+- Rocket.Chat - https://rocket.chat/
 
 ## Customer Support/Live Chat:	
 - Zendesk Chat (formerly Zopim)	- https://www.zopim.com/
