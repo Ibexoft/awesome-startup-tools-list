@@ -56,6 +56,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - CodeAnywhere - https://codeanywhere.com
 - Cloud9 - https://c9.io
 - Koding - https://koding.com
+- Humanitec - https://humanitec.com
 
 ## Development Playgrounds
 - JSFiddle - https://jsfiddle.net
