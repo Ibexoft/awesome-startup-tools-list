@@ -204,11 +204,12 @@ This is a curated list about tools for everything from productivity to hosting t
 - Animoto - http://animoto.com/
 - Openshot - https://www.openshot.org
 
-## Stock Photos:
+## Stock Photos/Illustrations:
 - Pexels - https://www.pexels.com/
 - Shopify Burst - https://burst.shopify.com/
 - Unsplash - https://unsplash.com
 - Place Image (Stock photos generator) - http://placeimg.com/
+- Undraw - https://undraw.co/illustrations
 
 ## Online Logo:	
 - Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
