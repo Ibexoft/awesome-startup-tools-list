@@ -73,6 +73,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - XAMPP	- https://www.apachefriends.org
 - WinScp - https://winscp.net
 - Putty - http://www.putty.org/
+- EVA (Email Verification API) - http://eva.pingutil.com/
 
 ### Automated Code Reviews, linting, coding conventions
 - Code Climate - https://codeclimate.com
