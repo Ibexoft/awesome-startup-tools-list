@@ -9,7 +9,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - BitBucket - https://bitbucket.com
 - GitLab - https://gitlab.com
 
-### Cloud App Hosting:	
+### Cloud App Hosting:
 - GitHub pages - https://pages.github.com/
 - Amazon AWS - https://aws.amazon.com
 - Microsoft Azure - https://azure.microsoft.com
@@ -18,20 +18,20 @@ This is a curated list about tools for everything from productivity to hosting t
 - OpenShift by Red Hat	www.openshift.com
 - AppFog - https://console.appfog.com
 - BlueHost - https://www.bluehost.com/
-- DreamHost	- https://www.dreamhost.com/
+- DreamHost - https://www.dreamhost.com/
 - Pagodabox	https://pagodabox.com/
 - Surge - http://surge.sh/
 - Netlify - https://www.netlify.com/
 
 ### DNS, CDN, & SSL:
 - CloudFlare - https://www.cloudflare.com/
-- ClouDNS	- https://cloudns.net/
+- ClouDNS - https://cloudns.net/
 - Let's Encrypt - https://letsencrypt.org/
 
-### Site Performance Tools:	
+### Site Performance Tools:
 - Pingdom http://tools.pingdom.com/fpt	pingdom.com - Website monitor
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
-- Web Page Performance Test	- http://www.webpagetest.org/
+- Web Page Performance Test - http://www.webpagetest.org/
 - GTMetrix	http://gtmetrix.com/
 
 ### Web Scraping Tools
@@ -45,7 +45,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd/related
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
 
-### Development IDE/Editors:	
+### Development IDE/Editors:
 - Sublime Text - https://www.sublimetext.com/
 - Microsoft Visual Studio Code - https://code.visualstudio.com/
 - Microsoft Visual Studio	(IDE) - https://www.visualstudio.com/
@@ -67,10 +67,10 @@ This is a curated list about tools for everything from productivity to hosting t
 - CodePen - http://codepen.io/
 - JSBin - https://jsbin.com/
 
-### Utilities:	
-- FileZilla	- https://filezilla-project.org/
+### Utilities:
+- FileZilla - https://filezilla-project.org/
 - Laragon - https://laragon.org/
-- XAMPP	- https://www.apachefriends.org
+- XAMPP - https://www.apachefriends.org
 - WinScp - https://winscp.net
 - Putty - http://www.putty.org/
 
@@ -107,7 +107,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Prestashop - https://www.prestashop.com
 - Shopify - https://www.shopify.com
 
-### Analytics:	
+### Analytics:
 - Google Analytics - https://analytics.google.com
 - Heatly - https://www.heatlyanalytics.com
 - New Relic https://newrelic.com/
@@ -120,8 +120,8 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
-- Insightly	- https://www.insightly.com
-- ZohoCRM	- https://www.zoho.com/crm/
+- Insightly - https://www.insightly.com
+- ZohoCRM - https://www.zoho.com/crm/
 
 ### Team Chat
 - Slack - https://slack.com/
@@ -129,9 +129,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Mattermost - https://mattermost.com/
 - Rocket.Chat - https://rocket.chat/
 
-### Customer Support/Live Chat:	
-- Zendesk Chat (formerly Zopim)	- https://www.zopim.com/
-- Olark	- https://www.olark.com/
+### Customer Support/Live Chat:
+- Zendesk Chat (formerly Zopim) - https://www.zopim.com/
+- Olark - https://www.olark.com/
 - Facebook Messenger - https://web.facebook.com/business/products/messenger-for-business
 - WhatsApp - https://www.whatsapp.com/
 
@@ -141,44 +141,41 @@ This is a curated list about tools for everything from productivity to hosting t
 - LinkedIn - http://linkedin.com
 - Google+ - http://plus.google.com
 - Instagram - http://instagram.com
-- Pinterest	- https://www.pinterest.com/
+- Pinterest - https://www.pinterest.com/
 - YouTube - http://youtube.com
 
-### Sales & Marketing:	
-- HubSpot	- https://www.hubspot.com/
+### Sales & Marketing:
+- HubSpot - https://www.hubspot.com/
   - Marketing: https://www.hubspot.com/products/marketing
   - Sales: https://www.hubspot.com/products/sales
 - Website Grader by HubSpot	http://grader.com
 - Buffer App - https://buffer.com
-- HootSuite	- https://hootsuite.com
-- TweetDeck	- https://tweetdeck.twitter.com
+- HootSuite - https://hootsuite.com
+- TweetDeck - https://tweetdeck.twitter.com
 - CrowdFire - https://www.crowdfireapp.com
-- QuickTwit - https://quicktwit.com
-- Uber Keyword Suggest - http://ubersuggest.org/
+- Ubersuggest - http://ubersuggest.org/
 - Social Media - http://locowise.com/
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com/
-- Tweriod	- http://www.tweriod.com/
+- Tweriod - http://www.tweriod.com/
 - My Site Auditor - http://mysiteauditor.com
-- Upcity free tools - http://upcity.com/free-tools/seo-report-card	
 - Free traffic increase - http://www.10khits.com/
-- WooBox	http://woobox.com/
-- Add Shoppers - http://addshoppers.com	
-- BuzzSumo - http://buzzsumo.com/	
-- Static html app - https://statichtmlapp.com/	
-- Hashtagify - http://hashtagify.me/	
-- Ritetag - http://ritetag.com/	
-- Tagboard - https://tagboard.com/	
-- Twitalyzer - http://twitalyzer.com/5/index.asp	
-- Trendsmap - http://trendsmap.com/	
+- WooBox - http://woobox.com/
+- Add Shoppers - http://addshoppers.com
+- BuzzSumo - http://buzzsumo.com/
+- Static html app - https://statichtmlapp.com/
+- Hashtagify - http://hashtagify.me/
+- Ritetag - http://ritetag.com/
+- Tagboard - https://tagboard.com/
+- Trendsmap - http://trendsmap.com/
 - Shortstack - http://www.shortstack.com
-- Post Planner - http://www.postplanner.com/	
+- Post Planner - http://www.postplanner.com/
 
 ## Productivity, Management, Organization
 
-### Note taking & Reading:	
-- Microsoft OneNote	- https://www.onenote.com/
+### Note taking & Reading:
+- Microsoft OneNote - https://www.onenote.com/
 - Evernote - https://evernote.com/
-- Google Keep	- https://keep.google.com/
+- Google Keep - https://keep.google.com/
 - Pocket - https://getpocket.com
 
 ### Project/Task Management:
@@ -188,13 +185,13 @@ This is a curated list about tools for everything from productivity to hosting t
 - Airtable - https://airtable.com/
 - Meister Task - https://meistertask.com
 - LeanKit - https://www.leankit.com/
-- Pivotal Tracker - https://www.pivotaltracker.com	
+- Pivotal Tracker - https://www.pivotaltracker.com
 - Wrike - https://www.wrike.com/
 - Wunderlist - https://www.wunderlist.com/ (Replaced by Microsoft Todo)
 - Microsoft Todo - https://todo.microsoft.com (Replacing Wunderlist)
 - Todoist - https://todoist.com/
 - I Done This	https://idonethis.com/
-- Taskade -	https://www.taskade.com/ 
+- Taskade - https://www.taskade.com/
 - Nozbe - https://nozbe.com/
 
 ### Attendance, Time Tracking and Management:
@@ -221,28 +218,27 @@ This is a curated list about tools for everything from productivity to hosting t
 - Undraw - https://undraw.co/illustrations
 - DrawKit - https://www.drawkit.io/
 
-### Online Logo:	
+### Online Logo:
 - Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
 - Logo Joy - https://logojoy.com
 - Logaster - https://www.logaster.com/
 - Cool Text - http://cooltext.com/
-- Online Logo Maker 24 - http://onlinelogomaker24.com	
-- Free Logo Services - http://freelogoservices.com	
-- Graphic Springs - http://graphicsprings.com	
-- Design Mantic - http://designmantic.com	
-- Zillion Designs - http://zilliondesigns.com	
-- Logo Maker - http://logomaker.com	
+- Online Logo Maker 24 - http://onlinelogomaker24.com
+- Free Logo Services - http://freelogoservices.com
+- Graphic Springs - http://graphicsprings.com
+- Design Mantic - http://designmantic.com
+- Zillion Designs - http://zilliondesigns.com
+- Logo Maker - http://logomaker.com
 
 ### Designing & Editing:
 - Pagemodo	http://www.pagemodo.com
 - Canva - https://www.canva.com
 - Snappa - https://snappa.com
-- Photoshop	- http://www.adobe.com/products/photoshop.html
+- Photoshop - http://www.adobe.com/products/photoshop.html
 - Photoshop Express - http://www.photoshop.com/tools
 - Pixlr - https://pixlr.com/
-- Microsoft Expression Design	- https://www.microsoft.com/en-pk/download/details.aspx?id=36180
-- Fotor - http://www.fotor.com/	
-- Create GIF - http://gifbrewery.com/	
-- Stamp creator -	http://www.speedystamps.co.uk/
+- Fotor - http://www.fotor.com/
+- Create GIF - http://gifbrewery.com/
+- Stamp creator - http://www.speedystamps.co.uk/
 - Method Draw (SVG Editor) - http://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
