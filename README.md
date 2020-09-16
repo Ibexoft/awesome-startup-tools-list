@@ -44,6 +44,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Scrapy - https://scrapy.org/
 - Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd/related
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
+- Scraping API: https://www.abstractapi.com/web-scraping-api
 
 ### Development IDE/Editors:
 - Sublime Text - https://www.sublimetext.com/
@@ -89,6 +90,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Mandrill - http://www.mandrill.com/
 - AWS SES - https://aws.amazon.com/ses/
 - Mail Trap (for testing only) - https://mailtrap.io/
+- Email Validation API - https://www.abstractapi.com/email-verification-validation-api
 
 ### Changelog
 - Headway - https://headwayapp.co/
@@ -242,3 +244,4 @@ This is a curated list about tools for everything from productivity to hosting t
 - Stamp creator - http://www.speedystamps.co.uk/
 - Method Draw (SVG Editor) - http://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
+- Image Compression and Optimization API - https://www.abstractapi.com/image-processing-optimization-api
