@@ -42,7 +42,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - 80Legs - http://80legs.com/
 - Scraping Hub - https://scrapinghub.com/
 - Scrapy - https://scrapy.org/
-- Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd/related
+- Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
 - Scraping API: https://www.abstractapi.com/web-scraping-api
 
