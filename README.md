@@ -181,8 +181,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Pocket - https://getpocket.com
 
 ### Project/Task Management:
+- Jira - https://www.atlassian.com/software/jira
 - Asana - https://asana.com/
-- Basecamp - https://basecamp.com/
 - Trello - https://trello.com/
 - Airtable - https://airtable.com/
 - Meister Task - https://meistertask.com
@@ -192,6 +192,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Wunderlist - https://www.wunderlist.com/ (Replaced by Microsoft Todo)
 - Microsoft Todo - https://todo.microsoft.com (Replacing Wunderlist)
 - Todoist - https://todoist.com/
+- Basecamp - https://basecamp.com/
 - I Done This	https://idonethis.com/
 - Taskade - https://www.taskade.com/
 - Nozbe - https://nozbe.com/
