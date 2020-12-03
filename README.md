@@ -44,7 +44,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Scrapy - https://scrapy.org/
 - Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
-- Scraping API: https://www.abstractapi.com/web-scraping-api
+- Scraping API - https://www.abstractapi.com/web-scraping-api
+- Phantombustervhttps://phantombuster.com/
 
 ### Development IDE/Editors:
 - Sublime Text - https://www.sublimetext.com/
@@ -116,6 +117,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Inspectlet	http://www.inspectlet.com/plans
 - Zoom Analytics http://zoomanalytics.co/
 - LiveSession - https://livesession.io/
+- Smartlook - https://www.smartlook.com/
 
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
@@ -145,6 +147,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Instagram - http://instagram.com
 - Pinterest - https://www.pinterest.com/
 - YouTube - http://youtube.com
+- Quora - https://www.quora.com/
 
 ### Sales & Marketing:
 - HubSpot - https://www.hubspot.com/
@@ -171,6 +174,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Trendsmap - http://trendsmap.com/
 - Shortstack - http://www.shortstack.com
 - Post Planner - http://www.postplanner.com/
+- QApop - https://www.qapop.com/
 
 ## Productivity, Management, Organization
 
@@ -196,6 +200,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - I Done This	https://idonethis.com/
 - Taskade - https://www.taskade.com/
 - Nozbe - https://nozbe.com/
+- Feedbear - https://www.feedbear.com/
 
 ### Attendance, Time Tracking and Management:
 - Toggl - https://toggl.com/
