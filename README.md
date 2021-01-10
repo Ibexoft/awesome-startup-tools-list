@@ -10,18 +10,24 @@ This is a curated list about tools for everything from productivity to hosting t
 - GitLab - https://gitlab.com
 
 ### Cloud App Hosting:
-- GitHub pages - https://pages.github.com/
 - Amazon AWS - https://aws.amazon.com
 - Microsoft Azure - https://azure.microsoft.com
-- Google Cloud - https://cloud.google.com/
-- Heroku - https://www.heroku.com/
-- OpenShift by Red Hat	www.openshift.com
+- Google Cloud - https://cloud.google.com
+- Digital Ocean - https://digitalocean.com
+- Linode - https://linode.com
+- Vultr - https://vultr.com
+- Heroku - https://www.heroku.com
+- OpenShift by Red Hat	https://www.openshift.com
 - AppFog - https://console.appfog.com
-- BlueHost - https://www.bluehost.com/
-- DreamHost - https://www.dreamhost.com/
-- Pagodabox	https://pagodabox.com/
-- Surge - http://surge.sh/
-- Netlify - https://www.netlify.com/
+- BlueHost - https://www.bluehost.com
+- DreamHost - https://www.dreamhost.com
+
+####Static Site Hosting:
+- GitHub pages - https://pages.github.com
+- Google FireBase - https://firebase.google.com/products/hosting
+- Surge - https://surge.sh
+- Netlify - https://www.netlify.com
+- Vercel - https://vercel.com
 
 ### DNS, CDN, & SSL:
 - CloudFlare - https://www.cloudflare.com/
