@@ -22,7 +22,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - BlueHost - https://www.bluehost.com
 - DreamHost - https://www.dreamhost.com
 
-####Static Site Hosting:
+#### Static Site Hosting:
 - GitHub pages - https://pages.github.com
 - Google FireBase - https://firebase.google.com/products/hosting
 - Surge - https://surge.sh
