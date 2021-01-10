@@ -122,8 +122,12 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
+- Capsule CRM - https://capsulecrm.com
 - Insightly - https://www.insightly.com
+- Bitrix24 (CRM version) - https://www.bitrix24.com/tools/crm/
 - ZohoCRM - https://www.zoho.com/crm/
+- Google Contacts (can be used as lightweight CRM) - http://contacts.google.com
+- Zoho Contact Manager (can be used as lightweight CRM) - https://www.zoho.com/contactmanager
 
 ### Team Chat
 - Slack - https://slack.com/
@@ -135,7 +139,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Zendesk Chat (formerly Zopim) - https://www.zopim.com/
 - Olark - https://www.olark.com/
 - Facebook Messenger - https://web.facebook.com/business/products/messenger-for-business
-- WhatsApp - https://www.whatsapp.com/
+- WhatsApp for Business - https://www.whatsapp.com/
 
 ### Social Media
 - Facebook - http://facebook.com
