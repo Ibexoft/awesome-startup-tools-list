@@ -134,6 +134,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - ZohoCRM - https://www.zoho.com/crm/
 - Google Contacts (can be used as lightweight CRM) - http://contacts.google.com
 - Zoho Contact Manager (can be used as lightweight CRM) - https://www.zoho.com/contactmanager
+- GoDial (Simple CRM with Automatic Call Dialer) - https://godial.cc
 
 ### Team Chat
 - Slack - https://slack.com/
@@ -214,6 +215,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Zoho People - https://www.zoho.com/people
 - Bitrix24 HR System - https://www.bitrix24.com/uses/free-hr-system.php
 - Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
+- Regular.li - https://regular.li
 
 ## Graphics, Design, and Media
 
