@@ -4,6 +4,10 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ## Tech
 
+### Idea Validation
+- AreYouInterested - https://areyouinterested.co/
+- SurveyWave - http://surveywave.xyz/
+
 ### Git Repos
 - GitHub - https://github.com
 - BitBucket - https://bitbucket.com
@@ -140,6 +144,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Microsoft Teams - https://teams.microsoft.com/
 - Mattermost - https://mattermost.com/
 - Rocket.Chat - https://rocket.chat/
+- Twist - https://twist.com/
 
 ### Customer Support/Live Chat:
 - Zendesk Chat (formerly Zopim) - https://www.zopim.com/
@@ -183,6 +188,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Post Planner - http://www.postplanner.com/
 
 ## Productivity, Management, Organization
+- Todoist - https://todoist.com/
+- Notion - https://www.notion.so/
 
 ### Note taking & Reading:
 - Microsoft OneNote - https://www.onenote.com/
@@ -230,6 +237,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Place Image (Stock photos generator) - http://placeimg.com/
 - Undraw - https://undraw.co/illustrations
 - DrawKit - https://www.drawkit.io/
+- Excalidraw - https://excalidraw.com/
+- Icons8 - https://icons8.com/
 
 ### Online Logo:
 - Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
