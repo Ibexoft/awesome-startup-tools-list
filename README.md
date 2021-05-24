@@ -195,13 +195,12 @@ This is a curated list about tools for everything from productivity to hosting t
 - Post Planner - http://www.postplanner.com/
 
 ## Productivity, Management, Organization
-- Todoist - https://todoist.com/
-- Notion - https://www.notion.so/
 
 ### Note taking & Reading:
 - Microsoft OneNote - https://www.onenote.com/
-- Evernote - https://evernote.com/
+- Notion - https://www.notion.so/
 - Google Keep - https://keep.google.com/
+- Evernote - https://evernote.com/
 - Pocket - https://getpocket.com
 
 ### Project/Task Management:
