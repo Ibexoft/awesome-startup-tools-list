@@ -78,6 +78,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - CodePen - http://codepen.io/
 - JSBin - https://jsbin.com/
 
+### Resource Management Tools
+- Respresso - https://respresso.io/
+
 ### Utilities:
 - FileZilla - https://filezilla-project.org/
 - Laragon - https://laragon.org/
