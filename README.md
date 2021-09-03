@@ -103,7 +103,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Mandrill - http://www.mandrill.com/
 - AWS SES - https://aws.amazon.com/ses/
 - Mail Trap (for testing only) - https://mailtrap.io/
-- Email Validation API - https://www.abstractapi.com/email-verification-validation-api
+- Email Validation API - https://www.abstractapi.com/email-verification-validation-api\
+- Mailazy - Transactional email service provider. https://mailazy.com/
 
 ### Notification (Push, SMS etc) Service for Developers
 
