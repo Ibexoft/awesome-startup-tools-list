@@ -4,10 +4,6 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ## Tech
 
-### Idea Validation
-- AreYouInterested - https://areyouinterested.co/
-- SurveyWave - http://surveywave.xyz/
-
 ### Git Repos
 - GitHub - https://github.com
 - BitBucket - https://bitbucket.com
@@ -117,6 +113,10 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ## Business, Marketing, Sales, Finance
 
+### Idea Validation
+- AreYouInterested - https://areyouinterested.co/
+- SurveyWave - http://surveywave.xyz/
+
 ### Content Management Systems (CMS):
 - WordPress - https://www.wordpress.org
 - Drupal - https://www.drupal.com
@@ -166,7 +166,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - Facebook - http://facebook.com
 - Twitter - http://twitter.com
 - LinkedIn - http://linkedin.com
-- Google+ - http://plus.google.com
 - Instagram - http://instagram.com
 - Pinterest - https://www.pinterest.com/
 - YouTube - http://youtube.com
