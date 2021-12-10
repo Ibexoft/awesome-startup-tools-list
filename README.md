@@ -10,6 +10,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - GitLab - https://gitlab.com
 
 ### Cloud App Hosting:
+- Brainboard - https://www.brainboard.co
 - Amazon AWS - https://aws.amazon.com
 - Microsoft Azure - https://azure.microsoft.com
 - Google Cloud - https://cloud.google.com
