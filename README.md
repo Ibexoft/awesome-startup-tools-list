@@ -53,9 +53,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Scraping API: https://www.abstractapi.com/web-scraping-api
 
 ### Development IDE/Editors:
-- Sublime Text - https://www.sublimetext.com/
 - Microsoft Visual Studio Code - https://code.visualstudio.com/
 - Microsoft Visual Studio	(IDE) - https://www.visualstudio.com/
+- Sublime Text - https://www.sublimetext.com/
 - Atom - https://atom.io/
 - PHPStorm - https://www.jetbrains.com/phpstorm/
 - WebStorm - https://www.jetbrains.com/webstorm/
@@ -90,7 +90,6 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### Testing
 - Sauce Labs - https://saucelabs.com/
-- Browser Stack - https://www.browserstack.com/
 
 ### Email Service for Developers
 - MailGun - http://www.mailgun.com , http://www.mailgun.com/google
@@ -102,11 +101,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
 
 ### Notification (Push, SMS etc) Service for Developers
-
 - OneSignal - https://onesignal.com
 - Pusher - https://pusher.com
 - Twilio - https://www.twilio.com
-
 
 ### Changelog
 - Headway - https://headwayapp.co/
@@ -147,7 +144,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - Bitrix24 (CRM version) - https://www.bitrix24.com/tools/crm/
 - ZohoCRM - https://www.zoho.com/crm/
 - Google Contacts (can be used as lightweight CRM) - http://contacts.google.com
-- Zoho Contact Manager (can be used as lightweight CRM) - https://www.zoho.com/contactmanager
 
 ### Team Chat
 - Slack - https://slack.com/
@@ -180,7 +176,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - TweetDeck - https://tweetdeck.twitter.com
 - CrowdFire - https://www.crowdfireapp.com
 - Ubersuggest - http://ubersuggest.org/
-- Social Media - http://locowise.com/
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com/
 - Tweriod - http://www.tweriod.com/
 - My Site Auditor - http://mysiteauditor.com
@@ -200,33 +195,31 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### Note taking & Reading:
 - Microsoft OneNote - https://www.onenote.com/
-- Notion - https://www.notion.so/
 - Google Keep - https://keep.google.com/
 - Evernote - https://evernote.com/
 - Pocket - https://getpocket.com
 
 ### Project/Task Management:
 - Jira - https://www.atlassian.com/software/jira
-- Asana - https://asana.com/
-- Trello - https://trello.com/
-- Airtable - https://airtable.com/
+- Asana - https://asana.com
+- Trello - https://trello.com
+- Airtable - https://airtable.com
+- Basecamp - https://basecamp.com
+- Wrike - https://www.wrike.com
+- ClickUp - https://clickup.com
+- Monday - https://monday.com
 - Meister Task - https://meistertask.com
-- LeanKit - https://www.leankit.com/
 - Pivotal Tracker - https://www.pivotaltracker.com
-- Wrike - https://www.wrike.com/
-- Wunderlist - https://www.wunderlist.com/ (Replaced by Microsoft Todo)
 - Microsoft Todo - https://todo.microsoft.com (Replacing Wunderlist)
-- Todoist - https://todoist.com/
-- Basecamp - https://basecamp.com/
-- I Done This	https://idonethis.com/
-- Taskade - https://www.taskade.com/
-- Nozbe - https://nozbe.com/
+- Todoist - https://todoist.com
+- Taskade - https://www.taskade.com
+- Nozbe - https://nozbe.com
+- I Done This	https://idonethis.com
 
 ### Attendance, Time Tracking and Management:
 - Toggl - https://toggl.com/
 - PrimaERP - https://primaerp.com
 - ClockIt - https://clockit.io/
-- Zoho People - https://www.zoho.com/people
 - Bitrix24 HR System - https://www.bitrix24.com/uses/free-hr-system.php
 - Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
 
@@ -239,9 +232,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Openshot - https://www.openshot.org
 
 ### Stock Photos/Illustrations:
+- Unsplash - https://unsplash.com
 - Pexels - https://www.pexels.com/
 - Shopify Burst - https://burst.shopify.com/
-- Unsplash - https://unsplash.com
 - Place Image (Stock photos generator) - http://placeimg.com/
 - Undraw - https://undraw.co/illustrations
 - DrawKit - https://www.drawkit.io/
