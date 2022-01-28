@@ -90,6 +90,7 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### Testing
 - Sauce Labs - https://saucelabs.com/
+- LambdaTest - https://www.lambdatest.com/
 
 ### Email Service for Developers
 - MailGun - http://www.mailgun.com , http://www.mailgun.com/google
