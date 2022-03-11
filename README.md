@@ -128,7 +128,6 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### Analytics:
 - Google Analytics - https://analytics.google.com
-- Heatly - https://www.heatlyanalytics.com
 - New Relic https://newrelic.com/
 - Inspectlet	http://www.inspectlet.com/plans
 - Zoom Analytics http://zoomanalytics.co/
