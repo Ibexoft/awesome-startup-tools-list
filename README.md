@@ -189,6 +189,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Trendsmap - http://trendsmap.com/
 - Shortstack - http://www.shortstack.com
 - Post Planner - http://www.postplanner.com/
+- Aeroleads - https://aeroleads.com/
 
 ## Productivity, Management, Organization
 
