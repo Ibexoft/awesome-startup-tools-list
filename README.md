@@ -10,17 +10,15 @@ This is a curated list about tools for everything from productivity to hosting t
 - GitLab - https://gitlab.com
 
 ### Cloud App Hosting:
-- Amazon AWS - https://aws.amazon.com
-- Microsoft Azure - https://azure.microsoft.com
-- Google Cloud - https://cloud.google.com
-- Digital Ocean - https://digitalocean.com
-- Linode - https://linode.com
-- Vultr - https://vultr.com
-- Heroku - https://www.heroku.com
-- OpenShift by Red Hat	https://www.openshift.com
-- AppFog - https://console.appfog.com
-- BlueHost - https://www.bluehost.com
-- DreamHost - https://www.dreamhost.com
+- Amazon AWS (Free tier available) - https://aws.amazon.com
+- Microsoft Azure (Free tier available) - https://azure.microsoft.com
+- Google Cloud (Free tier available) - https://cloud.google.com
+- Digital Ocean (Free tier available) - https://digitalocean.com
+- Linode (Paid plan) - https://linode.com
+- Vultr (Paid plan) - https://vultr.com
+- Heroku (Paid plan) - https://www.heroku.com
+- BlueHost (Paid plan) - https://www.bluehost.com
+- DreamHost (Paid plan) - https://www.dreamhost.com
 
 #### Static Site Hosting:
 - GitHub pages - https://pages.github.com
@@ -56,10 +54,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Microsoft Visual Studio Code - https://code.visualstudio.com/
 - Microsoft Visual Studio	(IDE) - https://www.visualstudio.com/
 - Sublime Text - https://www.sublimetext.com/
-- Atom - https://atom.io/
-- PHPStorm - https://www.jetbrains.com/phpstorm/
 - WebStorm - https://www.jetbrains.com/webstorm/
-- NetBeans PHP - http://netbeans.org/
+- NetBeans - http://netbeans.org/
 - Eclipse - https://eclipse.org/
 
 ### Development online platforms/IDEs:
@@ -75,7 +71,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - JSBin - https://jsbin.com/
 
 ### Resource Management Tools
-- Respresso - https://respresso.io/
+- Respresso - https://respresso.io
 
 ### Utilities:
 - FileZilla - https://filezilla-project.org/
@@ -92,6 +88,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Sauce Labs - https://saucelabs.com/
 
 ### Email Service for Developers
+- SendInBlue - https://www.sendinblue.com
 - MailGun - http://www.mailgun.com , http://www.mailgun.com/google
 - SendGrid - https://sendgrid.com
 - MailChimp - https://mailchimp.com
@@ -141,7 +138,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - Capsule CRM - https://capsulecrm.com
 - Insightly - https://www.insightly.com
 - Bitrix24 (CRM version) - https://www.bitrix24.com/tools/crm/
-- ZohoCRM - https://www.zoho.com/crm/
 - Google Contacts (can be used as lightweight CRM) - http://contacts.google.com
 
 ### Team Chat
