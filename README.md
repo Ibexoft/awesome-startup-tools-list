@@ -101,6 +101,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - OneSignal - https://onesignal.com
 - Pusher - https://pusher.com
 - Twilio - https://www.twilio.com
+- Pushover - https://pushover.net/
 
 ### Changelog
 - Headway - https://headwayapp.co/
