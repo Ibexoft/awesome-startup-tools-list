@@ -88,6 +88,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Sauce Labs - https://saucelabs.com/
 
 ### Email Service for Developers
+- Forward Email - https://forwardemail.net , @forwardemail
 - SendInBlue - https://www.sendinblue.com
 - MailGun - http://www.mailgun.com , http://www.mailgun.com/google
 - SendGrid - https://sendgrid.com
