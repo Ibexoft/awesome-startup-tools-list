@@ -96,6 +96,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - AWS SES - https://aws.amazon.com/ses/
 - Mail Trap (for testing only) - https://mailtrap.io/
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
+- Campaign Cleaner - https://campaigncleaner.com/
+
 
 ### Notification (Push, SMS etc) Service for Developers
 - OneSignal - https://onesignal.com
