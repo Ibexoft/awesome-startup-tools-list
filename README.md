@@ -11,12 +11,11 @@ This is a curated list about tools for everything from productivity to hosting t
 - Azure Repos - https://azure.microsoft.com/en-us/products/devops/repos
 - Amazon AWS CodeCommit - https://aws.amazon.com/codecommit/
 
-### Cloud App Hosting:
+### Cloud and Traditional Hosting:
 - Amazon AWS (Free tier available) - https://aws.amazon.com
 - Microsoft Azure (Free tier available) - https://azure.microsoft.com
 - Google Cloud (Free tier available) - https://cloud.google.com
 - Digital Ocean (Free tier available) - https://digitalocean.com
-- Linode (Paid plan) - https://linode.com
 - Vultr (Paid plan) - https://vultr.com
 - Heroku (Paid plan) - https://www.heroku.com
 - BlueHost (Paid plan) - https://www.bluehost.com
@@ -25,9 +24,10 @@ This is a curated list about tools for everything from productivity to hosting t
 #### Static Site Hosting:
 - GitHub pages - https://pages.github.com
 - Google FireBase - https://firebase.google.com/products/hosting
-- Surge - https://surge.sh
 - Netlify - https://www.netlify.com
 - Vercel - https://vercel.com
+- Amazon S3 - https://aws.amazon.com/s3/
+- Surge - https://surge.sh
 
 ### DNS, CDN, & SSL:
 - CloudFlare - https://www.cloudflare.com/
