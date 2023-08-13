@@ -59,6 +59,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Eclipse - https://eclipse.org/
 
 ### Development online platforms/IDEs:
+- VS Code for Web - https://vscode.dev
 - CodeAnywhere - https://codeanywhere.com
 - Cloud9 - https://c9.io
 - Koding - https://koding.com
