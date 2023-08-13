@@ -8,6 +8,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - GitHub - https://github.com
 - BitBucket - https://bitbucket.com
 - GitLab - https://gitlab.com
+- Azure Repos - https://azure.microsoft.com/en-us/products/devops/repos
+- Amazon AWS CodeCommit - https://aws.amazon.com/codecommit/
 
 ### Cloud App Hosting:
 - Amazon AWS (Free tier available) - https://aws.amazon.com
