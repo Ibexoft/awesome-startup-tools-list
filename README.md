@@ -60,7 +60,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - NetBeans - http://netbeans.org/
 - Eclipse - https://eclipse.org/
 
-### Development online platforms/IDEs:
+### Online Development Platforms/IDEs:
 - VS Code for Web - https://vscode.dev
 - CodeAnywhere - https://codeanywhere.com
 - Cloud9 - https://c9.io
@@ -191,11 +191,22 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ## Productivity, Management, Organization
 
-### Note taking & Reading:
-- Microsoft OneNote - https://www.onenote.com/
-- Google Keep - https://keep.google.com/
-- Evernote - https://evernote.com/
+### Note-taking & Reading:
+- Microsoft OneNote - https://www.onenote.com (part of MS Office - https://www.office.com)
+- Google Keep - https://keep.google.com
 - Pocket - https://getpocket.com
+
+### Documentation:
+- Atlassian Confluence - https://www.atlassian.com/software/confluence
+- Microsoft Word - https://www.microsoft.com/en-us/microsoft-365/word (part of MS Office - https://www.office.com)
+- Google Docs - https://docs.google.com/document/u/0/
+- Microsoft Excel - https://www.microsoft.com/en-us/microsoft-365/excel (part of MS Office - https://www.office.com)
+- Google Sheets - https://docs.google.com/spreadsheets/u/0/
+
+### Storage:
+- Microsoft OneDrive - https://onedrive.com
+- Google Drive - https://drive.google.com
+- Amazon S3 - https://aws.amazon.com/pm/serv-s3/
 
 ### Project/Task Management:
 - Jira - https://www.atlassian.com/software/jira
