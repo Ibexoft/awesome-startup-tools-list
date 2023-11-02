@@ -59,6 +59,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - WebStorm - https://www.jetbrains.com/webstorm/
 - NetBeans - http://netbeans.org/
 - Eclipse - https://eclipse.org/
+- CodeLobster - https://codelobster.com/
 
 ### Online Development Platforms/IDEs:
 - VS Code for Web - https://vscode.dev
