@@ -128,10 +128,11 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### Analytics:
 - Google Analytics - https://analytics.google.com
-- New Relic https://newrelic.com/
-- Inspectlet	http://www.inspectlet.com/plans
-- Zoom Analytics http://zoomanalytics.co/
+- New Relic - https://newrelic.com/
+- Inspectlet - http://www.inspectlet.com/plans
+- Zoom Analytics - http://zoomanalytics.co/
 - LiveSession - https://livesession.io/
+- Amplitude - https://amplitude.com/
 
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
