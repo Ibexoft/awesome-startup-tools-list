@@ -224,6 +224,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Monday - https://monday.com
 - Meister Task - https://meistertask.com
 - Pivotal Tracker - https://www.pivotaltracker.com
+- Shortcut - https://www.shortcut.com
 
 ### Attendance, Time Tracking and Management:
 - Toggl - https://toggl.com/
