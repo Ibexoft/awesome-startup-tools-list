@@ -73,9 +73,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - CodePen - http://codepen.io/
 - JSBin - https://jsbin.com/
 
-### Resource Management Tools
-- Respresso - https://respresso.io
-
 ### Utilities:
 - FileZilla - https://filezilla-project.org/
 - Laragon - https://laragon.org/
@@ -83,12 +80,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - WinScp - https://winscp.net
 - Putty - http://www.putty.org/
 
-### Automated Code Reviews, linting, coding conventions
-- Code Climate - https://codeclimate.com
-- JSLint - Usually available as plugin for IDEs/Editors
-
-### Testing
+### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
+- Code Climate - https://codeclimate.com
 
 ### Email Service for Developers
 - SendInBlue - https://www.sendinblue.com
