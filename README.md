@@ -227,12 +227,14 @@ This is a curated list about tools for everything from productivity to hosting t
 - Pivotal Tracker - https://www.pivotaltracker.com
 - Shortcut - https://www.shortcut.com
 
-### Attendance, Time Tracking and Management:
-- Toggl - https://toggl.com/
-- PrimaERP - https://primaerp.com
-- ClockIt - https://clockit.io/
-- Bitrix24 HR System - https://www.bitrix24.com/uses/free-hr-system.php
+### Attendance & Time Tracking:
+- Toggl - https://toggl.com
+- Jibble - https://www.jibble.io
+
+## Productivity Techniques
 - Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
+- GTD - https://todoist.com/productivity-methods/getting-things-done
+- Eisenhower Matrix - https://todoist.com/productivity-methods/eisenhower-matrix
 
 ## Graphics, Design, and Media
 
