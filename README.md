@@ -184,6 +184,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Shortstack - http://www.shortstack.com
 - Post Planner - http://www.postplanner.com/
 - Carousel Hero - https://carouselhero.com/
+- Cello - https://cello.so/
 
 ## Productivity, Management, Organization
 
