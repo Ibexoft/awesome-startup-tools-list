@@ -226,6 +226,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Toggl - https://toggl.com
 - Jibble - https://www.jibble.io
 
+### Miscellaneous
+- Freeter - https://freeter.io
+
 ## Productivity Techniques
 - Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
 - GTD - https://todoist.com/productivity-methods/getting-things-done
