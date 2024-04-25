@@ -238,6 +238,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Powtoon - https://www.powtoon.com
 - Animoto - http://animoto.com/
 - Openshot - https://www.openshot.org
+- Video captions - https://subsvideo.com
 
 ### Stock Photos/Illustrations/Icons:
 - Unsplash - https://unsplash.com
