@@ -127,6 +127,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Zoom Analytics http://zoomanalytics.co/
 - LiveSession - https://livesession.io/
 - Amplitude - https://amplitude.com/
+- Microsoft Clarity - https://clarity.microsoft.com
 
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
