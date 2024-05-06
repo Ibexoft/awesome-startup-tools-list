@@ -207,19 +207,25 @@ This is a curated list about tools for everything from productivity to hosting t
 - Amazon S3 - https://aws.amazon.com/pm/serv-s3/
 
 ### Project/Task Management:
+Good for personal tasks
 - Todoist - https://todoist.com
-- Microsoft Todo - https://todo.microsoft.com (Replacing Wunderlist)
-- ActiveCollab - https://activecollab.com
-- Teamwork - https://teamwork.com
-- ClickUp - https://clickup.com
-- Asana - https://asana.com
+- Microsoft Todo - https://todo.microsoft.com (Previously Wunderlist)
+- Any.do - https://www.any.do
+- Tick Tick - https://ticktick.com
+- Meister Task - https://meistertask.com
+- Google Tasks - Mobile app or as part of Google Calendar
+
+Good for team projects
 - Jira - https://www.atlassian.com/software/jira
 - Trello - https://trello.com
+- Asana - https://asana.com
 - Airtable - https://airtable.com
-- Basecamp - https://basecamp.com
+- Teamwork - https://teamwork.com
+- ClickUp - https://clickup.com
 - Wrike - https://www.wrike.com
 - Monday - https://monday.com
-- Meister Task - https://meistertask.com
+- ActiveCollab - https://activecollab.com
+- Basecamp - https://basecamp.com
 - Pivotal Tracker - https://www.pivotaltracker.com
 - Shortcut - https://www.shortcut.com
 
