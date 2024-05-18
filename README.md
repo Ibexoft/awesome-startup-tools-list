@@ -29,6 +29,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Amazon S3 - https://aws.amazon.com/s3/
 - Surge - https://surge.sh
 
+### Email Hosting:
+- Lark Email - https://www.larksuite.com/en_us/product/email
+
 ### DNS, CDN, & SSL:
 - CloudFlare - https://www.cloudflare.com/
 - ClouDNS - https://cloudns.net/
