@@ -88,12 +88,13 @@ This is a curated list about tools for everything from productivity to hosting t
 - Code Climate - https://codeclimate.com
 
 ### Email Service for Developers
-- SendInBlue - https://www.sendinblue.com
+- Brevo (Ex Sendinblue) - https://www.brevo.com/
 - MailGun - http://www.mailgun.com , http://www.mailgun.com/google
 - SendGrid - https://sendgrid.com
 - MailChimp - https://mailchimp.com
 - Mandrill - http://www.mandrill.com/
 - AWS SES - https://aws.amazon.com/ses/
+- Sweego - https://www.sweego.io/
 - Mail Trap (for testing only) - https://mailtrap.io/
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
 
