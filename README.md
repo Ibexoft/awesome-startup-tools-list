@@ -86,6 +86,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
 - Code Climate - https://codeclimate.com
+- TestingBot - https://testingbot.com/
 
 ### Email Service for Developers
 - Brevo (Ex Sendinblue) - https://www.brevo.com/
