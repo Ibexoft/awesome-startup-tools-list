@@ -197,6 +197,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Microsoft OneNote - https://www.onenote.com (part of MS Office - https://www.office.com)
 - Google Keep - https://keep.google.com
 - Pocket - https://getpocket.com
+- WebCull - https://webcull.com
 
 ### Documentation:
 - Atlassian Confluence - https://www.atlassian.com/software/confluence
