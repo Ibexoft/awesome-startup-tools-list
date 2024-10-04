@@ -97,6 +97,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Sweego - https://www.sweego.io/
 - Mail Trap (for testing only) - https://mailtrap.io/
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
+- Heybounce - https://www.heybounce.io
 
 ### Notification (Push, SMS etc) Service for Developers
 - OneSignal - https://onesignal.com
