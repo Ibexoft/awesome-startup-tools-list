@@ -95,6 +95,10 @@ This is a curated list about tools for everything from productivity to hosting t
 - Mandrill - http://www.mandrill.com/
 - AWS SES - https://aws.amazon.com/ses/
 - Sweego - https://www.sweego.io/
+- Elastic Email - https://elasticemail.com/
+- ForwardEmail - https://forwardemail.net/
+- MX Toolbox - https://mxtoolbox.com/SuperTool.aspx
+- DMarcian - https://dmarcian.com/dmarc-tools/
 - Mail Trap (for testing only) - https://mailtrap.io/
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
 
