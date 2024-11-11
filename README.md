@@ -79,6 +79,8 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### Utilities:
 - FileZilla - https://filezilla-project.org/
+- FreeFileSync - https://freefilesync.org/
+- CryptoMator - https://cryptomator.org/
 - Laragon - https://laragon.org/
 - XAMPP - https://www.apachefriends.org
 - WinScp - https://winscp.net
