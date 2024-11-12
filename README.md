@@ -62,6 +62,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - WebStorm - https://www.jetbrains.com/webstorm/
 - NetBeans - http://netbeans.org/
 - Eclipse - https://eclipse.org/
+- JetBrains IDEs (various): https://www.jetbrains.com/ides/
 
 ### Online Development Platforms/IDEs:
 - VS Code for Web - https://vscode.dev
@@ -78,6 +79,8 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### Utilities:
 - FileZilla - https://filezilla-project.org/
+- FreeFileSync - https://freefilesync.org/
+- CryptoMator - https://cryptomator.org/
 - Laragon - https://laragon.org/
 - XAMPP - https://www.apachefriends.org
 - WinScp - https://winscp.net
@@ -95,6 +98,10 @@ This is a curated list about tools for everything from productivity to hosting t
 - Mandrill - http://www.mandrill.com/
 - AWS SES - https://aws.amazon.com/ses/
 - Sweego - https://www.sweego.io/
+- Elastic Email - https://elasticemail.com/
+- ForwardEmail - https://forwardemail.net/
+- MX Toolbox - https://mxtoolbox.com/SuperTool.aspx
+- DMarcian - https://dmarcian.com/dmarc-tools/
 - Mail Trap (for testing only) - https://mailtrap.io/
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
 
