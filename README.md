@@ -55,8 +55,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
 - Scraping API: https://www.abstractapi.com/web-scraping-api
 
-### Development IDE/Editors:
-- Microsoft Visual Studio Code - https://code.visualstudio.com/
+### Development IDEs/Editors
+- Microsoft Visual Studio Code (VSCode) - https://code.visualstudio.com/
 - Microsoft Visual Studio	(IDE) - https://www.visualstudio.com/
 - Sublime Text - https://www.sublimetext.com/
 - WebStorm - https://www.jetbrains.com/webstorm/
@@ -64,12 +64,18 @@ This is a curated list about tools for everything from productivity to hosting t
 - Eclipse - https://eclipse.org/
 - JetBrains IDEs (various): https://www.jetbrains.com/ides/
 
-### Online Development Platforms/IDEs:
-- VS Code for Web - https://vscode.dev
+### Online Development Platforms/IDEs
+- Project IDX by Google - https://idx.dev
+- VSCode for Web - https://vscode.dev
+- Windsurf - https://codeium.com/windsurf
 - CodeAnywhere - https://codeanywhere.com
 - Cloud9 - https://c9.io
 - Koding - https://koding.com
 - Humanitec - https://humanitec.com
+
+#### Other Development Tools:
+- Codium - https://codeium.com
+- Qodo - https://www.qodo.ai
 
 ### Development Playgrounds
 - JSFiddle - https://jsfiddle.net
@@ -77,12 +83,15 @@ This is a curated list about tools for everything from productivity to hosting t
 - CodePen - http://codepen.io/
 - JSBin - https://jsbin.com/
 
+### Local Development Environments
+- Docker - https://www.docker.com
+- Laragon - https://laragon.org
+- XAMPP - https://www.apachefriends.org
+
 ### Utilities:
 - FileZilla - https://filezilla-project.org/
 - FreeFileSync - https://freefilesync.org/
 - CryptoMator - https://cryptomator.org/
-- Laragon - https://laragon.org/
-- XAMPP - https://www.apachefriends.org
 - WinScp - https://winscp.net
 - Putty - http://www.putty.org/
 
@@ -129,7 +138,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Magento - https://www.magento.com
 - OpenCart - https://www.opencart.com
 - Prestashop - https://www.prestashop.com
-- Shopify - https://www.shopify.com
+- Shopify (Paid) - https://www.shopify.com
 
 ### Analytics:
 - Google Analytics - https://analytics.google.com
@@ -161,7 +170,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Zendesk Chat (formerly Zopim) - https://www.zopim.com/
 - Olark - https://www.olark.com/
 - Facebook Messenger - https://web.facebook.com/business/products/messenger-for-business
-- WhatsApp for Business - https://www.whatsapp.com/
+- WhatsApp for Business - https://business.whatsapp.com
+- LiveChat - https://www.livechat.com
+- Tawk.to - https://www.tawk.to
 
 ### Social Media
 - Facebook - http://facebook.com
@@ -203,6 +214,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Note-taking & Reading:
 - Microsoft OneNote - https://www.onenote.com (part of MS Office - https://www.office.com)
 - Google Keep - https://keep.google.com
+- Capacities - https://capacities.io
 - Pocket - https://getpocket.com
 
 ### Documentation:
@@ -215,7 +227,11 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Storage:
 - Microsoft OneDrive - https://onedrive.com
 - Google Drive - https://drive.google.com
-- Amazon S3 - https://aws.amazon.com/pm/serv-s3/
+- Amazon S3 - https://aws.amazon.com/pm/serv-s3
+- DropBox https://www.dropbox.com
+- Box - https://www.box.com
+- Mega - https://mega.io
+- Proton Drive - https://proton.me/drive
 
 ### Project/Task Management:
 Good for personal tasks
@@ -234,12 +250,17 @@ Good for team projects
 - Teamwork - https://teamwork.com
 - ClickUp - https://clickup.com
 - Wrike - https://www.wrike.com
-- Monday - https://monday.com
 - ActiveCollab - https://activecollab.com
 - Basecamp - https://basecamp.com
 - Pivotal Tracker - https://www.pivotaltracker.com
 - Shortcut - https://www.shortcut.com
 - Paymo - https://www.paymoapp.com
+
+### Calendar
+- Google Calendar - https://calendar.google.com
+- Outlook Calendar - https://www.microsoft.com/en-us/microsoft-365/outlook/calendar-app
+- Proton Calendar - https://proton.me/calendar
+- Calendly - https://calendly.com
 
 ### Attendance & Time Tracking:
 - Toggl - https://toggl.com
@@ -301,3 +322,12 @@ Good for team projects
 - Method Draw (SVG Editor) - http://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
 - Image Compression and Optimization API - https://www.abstractapi.com/image-processing-optimization-api
+
+## Security and Privacy
+
+### Password Managers
+- Proton Pass - https://proton.me/pass
+- Avira PWM - https://passwords.avira.com
+
+### Virtual Private Networks (VPN)
+- Proton VPN - https://protonvpn.com
