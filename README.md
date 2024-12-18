@@ -217,12 +217,16 @@ This is a curated list about tools for everything from productivity to hosting t
 - Capacities - https://capacities.io
 - Pocket - https://getpocket.com
 
-### Documentation:
+### Documentation & Collaboration
 - Atlassian Confluence - https://www.atlassian.com/software/confluence
 - Microsoft Word - https://www.microsoft.com/en-us/microsoft-365/word (part of MS Office - https://www.office.com)
 - Google Docs - https://docs.google.com/document/u/0/
 - Microsoft Excel - https://www.microsoft.com/en-us/microsoft-365/excel (part of MS Office - https://www.office.com)
 - Google Sheets - https://docs.google.com/spreadsheets/u/0/
+- Microsoft Loop - https://www.microsoft.com/en-us/microsoft-loop
+
+### Video Recording
+- Atlassian Loop - https://www.loom.com
 
 ### Storage:
 - Microsoft OneDrive - https://onedrive.com
