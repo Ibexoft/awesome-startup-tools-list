@@ -215,16 +215,16 @@ This is a curated list about tools for everything from productivity to hosting t
 - Microsoft OneNote - https://www.onenote.com (part of MS Office - https://www.office.com)
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
-- Notion - https://www.notion.com
 - Pocket - https://getpocket.com
 
 ### Documentation & Collaboration
+- Notion - https://www.notion.com
 - Atlassian Confluence - https://www.atlassian.com/software/confluence
+- Microsoft Loop - https://www.microsoft.com/en-us/microsoft-loop
 - Microsoft Word - https://www.microsoft.com/en-us/microsoft-365/word (part of MS Office - https://www.office.com)
 - Google Docs - https://docs.google.com/document/u/0/
 - Microsoft Excel - https://www.microsoft.com/en-us/microsoft-365/excel (part of MS Office - https://www.office.com)
 - Google Sheets - https://docs.google.com/spreadsheets/u/0/
-- Microsoft Loop - https://www.microsoft.com/en-us/microsoft-loop
 
 ### Video Recording
 - Atlassian Loop - https://www.loom.com
