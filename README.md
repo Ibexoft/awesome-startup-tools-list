@@ -215,6 +215,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Microsoft OneNote - https://www.onenote.com (part of MS Office - https://www.office.com)
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
+- Notion - https://www.notion.com
 - Pocket - https://getpocket.com
 
 ### Documentation & Collaboration
