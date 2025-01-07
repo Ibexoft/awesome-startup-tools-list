@@ -1,7 +1,6 @@
 # Awesome list of FREE tools Startups should be using
 This is a curated list about tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e. either app, online service, or downloadable software. Most of them are either free or have limited free option that is enough for startups. Feel free to suggest and contribute in this list.
 
-
 ## Tech
 
 ### Git Repos
@@ -334,6 +333,7 @@ Good for team projects
 ### Password Managers
 - Proton Pass - https://proton.me/pass
 - Avira PWM - https://passwords.avira.com
+- Passbolt - https://www.passbolt.com/
 
 ### Virtual Private Networks (VPN)
 - Proton VPN - https://protonvpn.com
