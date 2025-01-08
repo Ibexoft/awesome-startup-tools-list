@@ -341,7 +341,8 @@ Good for team projects
 ### Password Managers
 - Proton Pass - https://proton.me/pass
 - Avira PWM - https://passwords.avira.com
-- Passbolt - https://www.passbolt.com/
+- Passbolt - https://www.passbolt.com
+- BitWarden - https://bitwarden.com
 
 ### Virtual Private Networks (VPN)
 - Proton VPN - https://protonvpn.com
