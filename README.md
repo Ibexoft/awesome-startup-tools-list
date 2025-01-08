@@ -4,6 +4,13 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ## Tech
 
+### Artificial Intelligence (AI)
+
+#### Chat
+- ChatGPT - https://chatgpt.com
+- Google Gemini - https://gemini.google.com
+- Microsoft CoPilot - https://copilot.microsoft.com
+
 ### Git Repos
 - GitHub - https://github.com
 - BitBucket - https://bitbucket.com
