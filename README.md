@@ -220,7 +220,7 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### Web Experimentation:
 - VWO - https://vwo.com/
-- PostHog - https://www.producthunt.com/
+- PostHog - https://posthog.com/
 - OptimalUX - https://optimalux.com/
 - Upflowy - https://www.upflowy.com/
 
