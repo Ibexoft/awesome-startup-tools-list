@@ -218,7 +218,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Carousel Hero - https://carouselhero.com/
 - Cello - https://cello.so/
 
-### Web Experimentation
+### Web Experimentation:
 - VWO - https://vwo.com/
 - PostHog - https://www.producthunt.com/
 - OptimalUX - https://optimalux.com/
