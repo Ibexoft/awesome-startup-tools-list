@@ -10,6 +10,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Gemini - https://gemini.google.com
 - Microsoft CoPilot - https://copilot.microsoft.com
 - DeepSeek - https://www.deepseek.com
+- Grok - https://grok.com
 - Claude - https://claude.ai
 
 ### Git Repos
@@ -325,7 +326,7 @@ Good for team projects
 - Logo Maker - http://logomaker.com
 
 ### Designing & Editing:
-- Pagemodo	http://www.pagemodo.com
+- Gamma (AI based) -	https://gamma.app
 - Canva - https://www.canva.com
 - Snappa - https://snappa.com
 - Photoshop - http://www.adobe.com/products/photoshop.html
