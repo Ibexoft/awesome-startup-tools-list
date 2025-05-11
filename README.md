@@ -85,7 +85,7 @@ This is a curated list about tools for everything from productivity to hosting t
 #### Other Development Tools:
 - Codium - https://codeium.com
 - Qodo - https://www.qodo.ai
-- Keploy- https://keploy.io/
+- Keploy - https://keploy.io/
 
 ### Development Playgrounds
 - JSFiddle - https://jsfiddle.net
