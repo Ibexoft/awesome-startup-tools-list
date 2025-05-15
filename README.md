@@ -288,6 +288,12 @@ Good for team projects
 - Jibble - https://www.jibble.io
 - Connecteam - https://connecteam.com/employee-time-clock-app/employee-time-tracking-app/
 
+### Idea Visualization & Brainstorming Tools
+- Miro (Unlimited Free Diagrams) - https://miro.com
+- Coggle (Unlimited Free Diagrams) - https://coggle.it
+- Y2map (Unlimited Free Diagrams) - https://y2map.com
+
+
 ## Productivity Techniques
 - Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
 - GTD - https://todoist.com/productivity-methods/getting-things-done
