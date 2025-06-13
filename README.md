@@ -30,6 +30,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Heroku (Paid plan) - https://www.heroku.com
 - BlueHost (Paid plan) - https://www.bluehost.com
 - DreamHost (Paid plan) - https://www.dreamhost.com
+- Fly.io (Paid plan) - https://fly.io
 
 #### Static Site Hosting:
 - CloudFlare Page - https://pages.cloudflare.com
@@ -66,7 +67,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Scrapy - https://scrapy.org/
 - Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
-- Scraping API: https://www.abstractapi.com/web-scraping-api
+- Scraping API - https://www.abstractapi.com/web-scraping-api
+- Browserbase - https://www.browserbase.com/
 
 ### Development IDEs/Editors
 - Microsoft Visual Studio Code (VSCode) - https://code.visualstudio.com/
@@ -126,6 +128,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - DMarcian - https://dmarcian.com/dmarc-tools/
 - Mail Trap (for testing only) - https://mailtrap.io/
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
+- Resend - https://resend.com/
 
 ### Notification (Push, SMS etc) Service for Developers
 - OneSignal - https://onesignal.com
@@ -161,6 +164,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - LiveSession - https://livesession.io/
 - Amplitude - https://amplitude.com/
 - Microsoft Clarity - https://clarity.microsoft.com
+- PostHog - https://posthog.com/
 
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
@@ -172,6 +176,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Insightly - https://www.insightly.com
 - Bitrix24 (CRM version) - https://www.bitrix24.com/tools/crm/
 - Google Contacts (can be used as lightweight CRM) - http://contacts.google.com
+- Attio - https://attio.com/
 
 ### Team Chat
 - Slack - https://slack.com/
@@ -195,6 +200,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Instagram - http://instagram.com
 - Pinterest - https://www.pinterest.com/
 - YouTube - http://youtube.com
+- TikTok - https://www.tiktok.com/
 
 ### Sales & Marketing:
 - HubSpot - https://www.hubspot.com/
@@ -222,13 +228,16 @@ This is a curated list about tools for everything from productivity to hosting t
 - Post Planner - http://www.postplanner.com/
 - Carousel Hero - https://carouselhero.com/
 - Cello - https://cello.so/
+- Social Proof Examples - https://socialproofexamples.com/
+- Website Headlines - https://websiteheadlines.com/
+- Vidclue - https://vidclue.com/
+- AnswerThePublic - https://answerthepublic.com/
 
 ### Web Experimentation:
 - VWO - https://vwo.com/
 - PostHog - https://posthog.com/
 - OptimalUX - https://optimalux.com/
 - Upflowy - https://www.upflowy.com/
-
 
 ## Productivity, Management, Organization
 
@@ -237,6 +246,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
 - Pocket - https://getpocket.com
+- Obsidian - https://obsidian.md/
 
 ### Documentation & Collaboration
 - Notion - https://www.notion.com
@@ -248,7 +258,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Sheets - https://docs.google.com/spreadsheets/u/0/
 
 ### Video Recording
-- Atlassian Loop - https://www.loom.com
+- Atlassian Loom - https://www.loom.com
 
 ### Storage:
 - Microsoft OneDrive - https://onedrive.com
@@ -258,6 +268,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Box - https://www.box.com
 - Mega - https://mega.io
 - Proton Drive - https://proton.me/drive
+- Cloudflare R2 - https://www.cloudflare.com/developer-platform/products/r2/
 
 ### Project/Task Management:
 Good for personal tasks
@@ -312,6 +323,7 @@ Good for team projects
 - Animoto - http://animoto.com/
 - Openshot - https://www.openshot.org
 - Video captions - https://subsvideo.com
+- VEED - https://www.veed.io/
 
 ### Stock Photos/Illustrations/Icons:
 - Unsplash - https://unsplash.com
@@ -349,6 +361,7 @@ Good for team projects
 - Method Draw (SVG Editor) - http://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
 - Image Compression and Optimization API - https://www.abstractapi.com/image-processing-optimization-api
+- Figma - https://www.figma.com/
 
 ## Security and Privacy
 
