@@ -41,11 +41,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Vercel - https://vercel.com
 - Amazon S3 - https://aws.amazon.com/s3/
 - Surge - https://surge.sh
-<<<<<<< patch-1
-- Cloudflare Pages - https://pages.cloudflare.com
-=======
 - Kinsta - https://kinsta.com/static-site-hosting
->>>>>>> master
 
 ### Email Hosting:
 - Lark Email - https://www.larksuite.com/en_us/product/email
@@ -54,7 +50,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - CloudFlare - https://www.cloudflare.com/
 - ClouDNS - https://cloudns.net/
 - Let's Encrypt - https://letsencrypt.org/
-- Bunny.net - https://bunny.net/
 
 ### Site Performance Tools:
 - Pingdom http://tools.pingdom.com/fpt	pingdom.com - Website monitor
@@ -197,8 +192,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - WhatsApp for Business - https://business.whatsapp.com
 - LiveChat - https://www.livechat.com
 - Tawk.to - https://www.tawk.to
-- Front - https://front.com/
-- Intercom - https://www.intercom.com/
 
 ### Social Media
 - Facebook - http://facebook.com
@@ -246,7 +239,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - OptimalUX - https://optimalux.com/
 - Upflowy - https://www.upflowy.com/
 
-
 ## Productivity, Management, Organization
 
 ### Note-taking & Reading:
@@ -276,7 +268,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - Box - https://www.box.com
 - Mega - https://mega.io
 - Proton Drive - https://proton.me/drive
-- Backblaze - https://www.backblaze.com/
 - Cloudflare R2 - https://www.cloudflare.com/developer-platform/products/r2/
 
 ### Project/Task Management:
@@ -287,7 +278,6 @@ Good for personal tasks
 - Tick Tick - https://ticktick.com
 - Meister Task - https://meistertask.com
 - Google Tasks - Mobile app or as part of Google Calendar
-- Microsoft Planner - https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner
 
 Good for team projects
 - Jira - https://www.atlassian.com/software/jira
@@ -303,7 +293,6 @@ Good for team projects
 - Pivotal Tracker - https://www.pivotaltracker.com
 - Shortcut - https://www.shortcut.com
 - Paymo - https://www.paymoapp.com
-- Monday.com - https://monday.com
 
 ### Calendar
 - Google Calendar - https://calendar.google.com
@@ -346,7 +335,6 @@ Good for team projects
 - Excalidraw - https://excalidraw.com
 - Icons8 - https://icons8.com
 - Favicon Generator - https://favicon.io
-- Public Work - https://public.work/
 
 ### Online Logo:
 - Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
@@ -382,7 +370,6 @@ Good for team projects
 - Avira PWM - https://passwords.avira.com
 - Passbolt - https://www.passbolt.com
 - BitWarden - https://bitwarden.com
-- 1Password - https://1password.com/
 
 ### Virtual Private Networks (VPN)
 - Proton VPN - https://protonvpn.com
