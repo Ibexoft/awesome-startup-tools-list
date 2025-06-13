@@ -7,11 +7,11 @@ This is a curated list about tools for everything from productivity to hosting t
 
 #### Chat
 - ChatGPT - https://chatgpt.com
+- Claude - https://claude.ai
+- DeepSeek - https://www.deepseek.com
 - Google Gemini - https://gemini.google.com
 - Microsoft CoPilot - https://copilot.microsoft.com
-- DeepSeek - https://www.deepseek.com
 - Grok - https://grok.com
-- Claude - https://claude.ai
 
 ### Git Repos
 - GitHub - https://github.com
@@ -21,6 +21,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Amazon AWS CodeCommit - https://aws.amazon.com/codecommit/
 
 ### Cloud and Traditional Hosting:
+- Oracle Cloud - https://www.oracle.com/cloud/free/
 - Amazon AWS (Free tier available) - https://aws.amazon.com
 - Microsoft Azure (Free tier available) - https://azure.microsoft.com
 - Google Cloud (Free tier available) - https://cloud.google.com
@@ -32,13 +33,19 @@ This is a curated list about tools for everything from productivity to hosting t
 - Fly.io (Paid plan) - https://fly.io
 
 #### Static Site Hosting:
+- CloudFlare Page - https://pages.cloudflare.com
+- CloudFlare Workers - https://workers.cloudflare.com
 - GitHub pages - https://pages.github.com
 - Google FireBase - https://firebase.google.com/products/hosting
 - Netlify - https://www.netlify.com
 - Vercel - https://vercel.com
 - Amazon S3 - https://aws.amazon.com/s3/
 - Surge - https://surge.sh
+<<<<<<< patch-1
 - Cloudflare Pages - https://pages.cloudflare.com
+=======
+- Kinsta - https://kinsta.com/static-site-hosting
+>>>>>>> master
 
 ### Email Hosting:
 - Lark Email - https://www.larksuite.com/en_us/product/email
@@ -232,6 +239,13 @@ This is a curated list about tools for everything from productivity to hosting t
 - Website Headlines - https://websiteheadlines.com/
 - Vidclue - https://vidclue.com/
 - AnswerThePublic - https://answerthepublic.com/
+
+### Web Experimentation:
+- VWO - https://vwo.com/
+- PostHog - https://posthog.com/
+- OptimalUX - https://optimalux.com/
+- Upflowy - https://www.upflowy.com/
+
 
 ## Productivity, Management, Organization
 
