@@ -315,6 +315,9 @@ Good for team projects
 - GTD - https://todoist.com/productivity-methods/getting-things-done
 - Eisenhower Matrix - https://todoist.com/productivity-methods/eisenhower-matrix
 
+### Workspace & Environment
+- Study Near Me - https://studynearme.com - Directory to find laptop friendly cafes to work remote at for the day anywhere in the US
+
 ## Graphics, Design, and Media
 
 ### Video making:
