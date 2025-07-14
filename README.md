@@ -70,27 +70,35 @@ This is a curated list about tools for everything from productivity to hosting t
 - Scraping API - https://www.abstractapi.com/web-scraping-api
 - Browserbase - https://www.browserbase.com/
 
-### Development IDEs/Editors
-- Microsoft Visual Studio Code (VSCode) - https://code.visualstudio.com/
-- Microsoft Visual Studio	(IDE) - https://www.visualstudio.com/
-- Sublime Text - https://www.sublimetext.com/
-- WebStorm - https://www.jetbrains.com/webstorm/
-- NetBeans - http://netbeans.org/
-- Eclipse - https://eclipse.org/
-- JetBrains IDEs (various): https://www.jetbrains.com/ides/
+### Development IDEs/Editors (including AI-based)
+- Microsoft Visual Studio Code (VSCode) - https://code.visualstudio.com
+- Microsoft Visual Studio	(IDE) - https://www.visualstudio.com
+- Sublime Text - https://www.sublimetext.com
+- JetBrains IDEs (various): https://www.jetbrains.com/ides
+- WebStorm - https://www.jetbrains.com/webstorm
+- NetBeans - http://netbeans.org
+- Eclipse - https://eclipse.org
+- Cursor (AI based) - https://cursor.com
+- Windsurf (AI based) - https://codeium.com/windsurf
 
-### Online Development Platforms/IDEs
-- Project IDX by Google - https://idx.dev
+### Online Development Platforms/IDEs (including AI-based)
+- Firebase Studio (AI based) by Google - https://firebase.studio
 - VSCode for Web - https://vscode.dev
-- Windsurf - https://codeium.com/windsurf
 - CodeAnywhere - https://codeanywhere.com
 - Cloud9 - https://c9.io
 - Koding - https://koding.com
 - Humanitec - https://humanitec.com
+- Bolt.new (AI baseed) - https://bolt.new
+- Lovable (AI based) - https://lovable.dev
+- Replit (AI based) - https://replit.com
+- v0 by Vercel (AI based) - https://v0.dev
 
-#### Other Development Tools:
-- Codium - https://codeium.com
+### AI-based Code Agents
+- GitHub Copilot - https://github.com/features/copilot
+- Windsurf - https://windsurf.com/plugins
 - Qodo - https://www.qodo.ai
+- TabNine - https://www.tabnine.com
+- Cline - https://cline.bot
 
 ### Development Playgrounds
 - JSFiddle - https://jsfiddle.net
