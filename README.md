@@ -320,10 +320,11 @@ Good for team projects
 ### Video making:
 - Biteable - https://biteable.com
 - Powtoon - https://www.powtoon.com
-- Animoto - http://animoto.com/
+- Animoto - http://animoto.com
 - Openshot - https://www.openshot.org
 - Video captions - https://subsvideo.com
-- VEED - https://www.veed.io/
+- VEED - https://www.veed.io
+- Tavus (AI based) - https://www.tavus.io
 
 ### Stock Photos/Illustrations/Icons:
 - Unsplash - https://unsplash.com
