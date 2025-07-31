@@ -80,6 +80,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Eclipse - https://eclipse.org
 - Cursor (AI based) - https://cursor.com
 - Windsurf (AI based) - https://codeium.com/windsurf
+- AI For Developers (Directory) - https://aifordevelopers.org
 
 ### Online Development Platforms/IDEs (including AI-based)
 - Firebase Studio (AI based) by Google - https://firebase.studio
