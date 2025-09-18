@@ -266,8 +266,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Microsoft Excel - https://www.microsoft.com/en-us/microsoft-365/excel (part of MS Office - https://www.office.com)
 - Google Sheets - https://docs.google.com/spreadsheets/u/0/
 
-### Video Recording
+### Video & Screen Recording
 - Atlassian Loom - https://www.loom.com
+- LICEcap - https://www.cockos.com/licecap
 
 ### Storage:
 - Microsoft OneDrive - https://onedrive.com
