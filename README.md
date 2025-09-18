@@ -188,11 +188,12 @@ This is a curated list about tools for everything from productivity to hosting t
 - Attio - https://attio.com/
 
 ### Team Chat
-- Slack - https://slack.com/
-- Microsoft Teams - https://teams.microsoft.com/
-- Mattermost - https://mattermost.com/
-- Rocket.Chat - https://rocket.chat/
-- Twist - https://twist.com/
+- Slack - https://slack.com
+- Microsoft Teams - https://teams.microsoft.com
+- Mattermost - https://mattermost.com
+- Rocket.Chat - https://rocket.chat
+- Twist - https://twist.com
+- Google Chat - https://chat.google.com
 
 ### Customer Support/Live Chat:
 - Zendesk Chat (formerly Zopim) - https://www.zopim.com/
@@ -243,10 +244,15 @@ This is a curated list about tools for everything from productivity to hosting t
 - AnswerThePublic - https://answerthepublic.com/
 
 ### Web Experimentation:
-- VWO - https://vwo.com/
-- PostHog - https://posthog.com/
-- OptimalUX - https://optimalux.com/
-- Upflowy - https://www.upflowy.com/
+- VWO - https://vwo.com
+- PostHog - https://posthog.com
+- OptimalUX - https://optimalux.com
+- Upflowy - https://www.upflowy.com
+
+### Blogging, Writing:
+- Substack - https://substack.com
+- Medium - https://medium.com
+- Dev.to - https://dev.to
 
 ## Productivity, Management, Organization
 
