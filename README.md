@@ -194,6 +194,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Rocket.Chat - https://rocket.chat
 - Twist - https://twist.com
 - Google Chat - https://chat.google.com
+- Cushion - https://cushion.so
 
 ### Customer Support/Live Chat:
 - Zendesk Chat (formerly Zopim) - https://www.zopim.com/
