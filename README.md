@@ -52,6 +52,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Let's Encrypt - https://letsencrypt.org/
 
 ### Site Performance Tools:
+- Page Gym - https://pagegym.com
 - Pingdom http://tools.pingdom.com/fpt	pingdom.com - Website monitor
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test - http://www.webpagetest.org/
