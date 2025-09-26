@@ -94,6 +94,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Lovable (AI based) - https://lovable.dev
 - Replit (AI based) - https://replit.com
 - v0 by Vercel (AI based) - https://v0.dev
+- new.website - https://new.website
 
 ### AI-based Code Agents
 - GitHub Copilot - https://github.com/features/copilot
