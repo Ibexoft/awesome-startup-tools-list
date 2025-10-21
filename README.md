@@ -310,6 +310,7 @@ Good for team projects
 - Pivotal Tracker - https://www.pivotaltracker.com
 - Shortcut - https://www.shortcut.com
 - Paymo - https://www.paymoapp.com
+- Tenzu - https://tenzu.net/
 
 ### Calendar
 - Google Calendar - https://calendar.google.com
