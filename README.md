@@ -13,6 +13,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Microsoft CoPilot - https://copilot.microsoft.com
 - Grok - https://grok.com
 
+#### Embedding and RAG
+- Isaacus - https://isaacus.com/
+
 ### Git Repos
 - GitHub - https://github.com
 - BitBucket - https://bitbucket.com
