@@ -26,7 +26,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - Amazon AWS CodeCommit - https://aws.amazon.com/codecommit/
 
 ### Cloud and Traditional Hosting:
-- Oracle Cloud - https://www.oracle.com/cloud/free/
 - Amazon AWS (Free tier available) - https://aws.amazon.com
 - Microsoft Azure (Free tier available) - https://azure.microsoft.com
 - Google Cloud (Free tier available) - https://cloud.google.com
