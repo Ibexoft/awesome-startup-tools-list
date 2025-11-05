@@ -305,7 +305,7 @@ Good for personal tasks
 Good for team projects
 - Jira - https://www.atlassian.com/software/jira
 - Asana - https://asana.com
-- GitHub Issues - https://github.com/features/issues
+- GitHub Projects - https://github.com/projects
 - Trello - https://trello.com
 - Airtable - https://airtable.com
 - Teamwork - https://teamwork.com
