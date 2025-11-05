@@ -102,6 +102,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### AI-based Code Agents
 - GitHub Copilot - https://github.com/features/copilot
 - Windsurf - https://windsurf.com/plugins
+- Google Gemini Code Assist - https://codeassist.google
 - Qodo - https://www.qodo.ai
 - TabNine - https://www.tabnine.com
 - Cline - https://cline.bot
@@ -116,6 +117,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Docker - https://www.docker.com
 - Laragon - https://laragon.org
 - XAMPP - https://www.apachefriends.org
+- Laravel Herd - https://herd.laravel.com
+- Local (for WordPress) - https://localwp.com
 
 ### Utilities:
 - FileZilla - https://filezilla-project.org/
@@ -129,6 +132,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Code Climate - https://codeclimate.com
 
 ### Email Service for Developers
+- Resend - https://resend.com/
 - Brevo (Ex Sendinblue) - https://www.brevo.com/
 - MailGun - http://www.mailgun.com , http://www.mailgun.com/google
 - SendGrid - https://sendgrid.com
@@ -142,7 +146,6 @@ This is a curated list about tools for everything from productivity to hosting t
 - DMarcian - https://dmarcian.com/dmarc-tools/
 - Mail Trap (for testing only) - https://mailtrap.io/
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
-- Resend - https://resend.com/
 
 ### Notification (Push, SMS etc) Service for Developers
 - OneSignal - https://onesignal.com
@@ -195,10 +198,10 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Team Chat
 - Slack - https://slack.com
 - Microsoft Teams - https://teams.microsoft.com
+- Google Chat - https://chat.google.com
 - Mattermost - https://mattermost.com
 - Rocket.Chat - https://rocket.chat
 - Twist - https://twist.com
-- Google Chat - https://chat.google.com
 
 ### Customer Support/Live Chat:
 - Zendesk Chat (formerly Zopim) - https://www.zopim.com/
@@ -298,7 +301,7 @@ Good for personal tasks
 - Any.do - https://www.any.do
 - Tick Tick - https://ticktick.com
 - Meister Task - https://meistertask.com
-- Google Tasks - Mobile app or as part of Google Calendar
+- Google Tasks - https://tasks.google.com
 
 Good for team projects
 - Jira - https://www.atlassian.com/software/jira
