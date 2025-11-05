@@ -263,14 +263,13 @@ This is a curated list about tools for everything from productivity to hosting t
 ## Productivity, Management, Organization
 
 ### Note-taking & Reading:
+- Notion - https://www.notion.com
 - Microsoft OneNote - https://www.onenote.com (part of MS Office - https://www.office.com)
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
-- Pocket - https://getpocket.com
 - Obsidian - https://obsidian.md/
 
 ### Documentation & Collaboration
-- Notion - https://www.notion.com
 - Atlassian Confluence - https://www.atlassian.com/software/confluence
 - Microsoft Loop - https://www.microsoft.com/en-us/microsoft-loop
 - Microsoft Word - https://www.microsoft.com/en-us/microsoft-365/word (part of MS Office - https://www.office.com)
