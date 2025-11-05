@@ -295,6 +295,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Project/Task Management:
 Good for personal tasks
 - Todoist - https://todoist.com
+- Superlist - https://www.superlist.com
 - Microsoft Todo - https://todo.microsoft.com (Previously Wunderlist)
 - Any.do - https://www.any.do
 - Tick Tick - https://ticktick.com
