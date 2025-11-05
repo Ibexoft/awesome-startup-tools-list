@@ -12,6 +12,11 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Gemini - https://gemini.google.com
 - Microsoft CoPilot - https://copilot.microsoft.com
 - Grok - https://grok.com
+- Perplexity - https://www.perplexity.ai
+- Pi - https://pi.ai
+- Kimi - https://www.kimi.com
+- Manus - https://manus.im
+- Lumo - https://lumo.proton.me
 
 ### Git Repos
 - GitHub - https://github.com
