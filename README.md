@@ -278,6 +278,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Docs - https://docs.google.com/document/u/0/
 - Microsoft Excel - https://www.microsoft.com/en-us/microsoft-365/excel (part of MS Office - https://www.office.com)
 - Google Sheets - https://docs.google.com/spreadsheets/u/0/
+- Free Online Notepad - https://onlinenotepad101.org/
 
 ### Video & Screen Recording
 - Atlassian Loom - https://www.loom.com
