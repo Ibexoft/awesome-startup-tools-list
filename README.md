@@ -303,6 +303,7 @@ Good for personal tasks
 - Tick Tick - https://ticktick.com
 - Meister Task - https://meistertask.com
 - Google Tasks - https://tasks.google.com
+- Memorigi - https://memorigi.app
 
 Good for team projects
 - Jira - https://www.atlassian.com/software/jira
