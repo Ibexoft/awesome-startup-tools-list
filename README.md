@@ -312,11 +312,10 @@ Good for team projects
 - Teamwork - https://teamwork.com
 - ClickUp - https://clickup.com
 - Wrike - https://www.wrike.com
-- ActiveCollab - https://activecollab.com
 - Basecamp - https://basecamp.com
-- Pivotal Tracker - https://www.pivotaltracker.com
 - Shortcut - https://www.shortcut.com
 - Paymo - https://www.paymoapp.com
+- GoodDay - https://www.goodday.work
 
 ### Calendar
 - Google Calendar - https://calendar.google.com
