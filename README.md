@@ -15,6 +15,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Perplexity - https://www.perplexity.ai
 - Pi - https://pi.ai
 - Kimi - https://www.kimi.com
+- Mistral Le Chat - https://chat.mistral.ai
 - Manus - https://manus.im
 - Lumo - https://lumo.proton.me
 
