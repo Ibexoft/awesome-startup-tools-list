@@ -251,6 +251,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Website Headlines - https://websiteheadlines.com/
 - Vidclue - https://vidclue.com/
 - AnswerThePublic - https://answerthepublic.com/
+- Cobalt Studio Tools Hub - https://techchenko.github.io/cobaltstudio-products/tools/ (free no-signup generators: cold email, invoice, retainer, etc.)
 
 ### Web Experimentation:
 - VWO - https://vwo.com
