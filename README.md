@@ -252,6 +252,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Vidclue - https://vidclue.com/
 - AnswerThePublic - https://answerthepublic.com/
 - Cobalt Studio Tools Hub - https://techchenko.github.io/cobaltstudio-products/tools/ (free no-signup generators: cold email, invoice, retainer, etc.)
+- Cobalt Studio Templates Hub - https://techchenko.github.io/cobaltstudio-products/files/ (free copy/paste templates: proposals, SOW, kickoff/status emails, invoice follow-ups, etc.)
+- Cold Email Generator (Cobalt Studio) - https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/ (generate 3 short cold emails + subject lines)
+- Freelance Rate Calculator (Cobalt Studio) - https://techchenko.github.io/cobaltstudio-products/tools/rate-calculator/ (calculate hourly/project rates based on income goals and billable hours)
 
 ### Web Experimentation:
 - VWO - https://vwo.com
