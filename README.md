@@ -258,6 +258,11 @@ This is a curated list about tools for everything from productivity to hosting t
 - OptimalUX - https://optimalux.com
 - Upflowy - https://www.upflowy.com
 
+### Legal & Compliance:
+- ShipLegal - https://ship-legal.vercel.app
+- GetTerms - https://getterms.io
+- Iubenda - https://www.iubenda.com
+
 ### Blogging, Writing:
 - Substack - https://substack.com
 - Medium - https://medium.com
