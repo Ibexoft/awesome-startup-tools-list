@@ -272,6 +272,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Capacities - https://capacities.io
 - Obsidian - https://obsidian.md/
 
+### Journaling:
+- DailyWins - https://dailywins.ibexoft.com
+
 ### Documentation & Collaboration
 - Atlassian Confluence - https://www.atlassian.com/software/confluence
 - Microsoft Loop - https://www.microsoft.com/en-us/microsoft-loop
