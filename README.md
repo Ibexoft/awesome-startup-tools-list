@@ -318,6 +318,7 @@ Good for team projects
 - Shortcut - https://www.shortcut.com
 - Paymo - https://www.paymoapp.com
 - GoodDay - https://www.goodday.work
+- Taskade - https://taskade.com
 
 ### Calendar
 - Google Calendar - https://calendar.google.com
