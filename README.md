@@ -1,5 +1,5 @@
 # Awesome list of FREE tools Startups should be using
-This is a curated list about tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e. either app, online service, or downloadable software. Most of them are either free or have limited free option that is enough for startups. Feel free to suggest and contribute in this list.
+This is a curated list about tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e. either app, online service, or downloadable software. Most of them are either free or have limited free option that is enough for startups, indie hackers, entrepreneurs, individuals, or anyone to get started. Feel free to suggest and contribute in this list.
 
 ## Tech
 
@@ -267,10 +267,13 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### Note-taking & Reading:
 - Notion - https://www.notion.com
-- Microsoft OneNote - https://www.onenote.com (part of MS Office - https://www.office.com)
+- Microsoft OneNote - https://www.onenote.com (part of [Microsoft 365 Copilot](https://www.office.com))
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
-- Obsidian - https://obsidian.md/
+- Obsidian - https://obsidian.md
+
+### Journaling:
+- DailyWins - https://dailywins.ibexoft.com
 
 ### Documentation & Collaboration
 - Atlassian Confluence - https://www.atlassian.com/software/confluence
@@ -318,6 +321,7 @@ Good for team projects
 - Shortcut - https://www.shortcut.com
 - Paymo - https://www.paymoapp.com
 - GoodDay - https://www.goodday.work
+- Taskade - https://taskade.com
 
 ### Calendar
 - Google Calendar - https://calendar.google.com
