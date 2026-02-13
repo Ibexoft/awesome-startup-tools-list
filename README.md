@@ -339,6 +339,9 @@ Good for team projects
 - Jibble - https://www.jibble.io
 - Connecteam - https://connecteam.com/employee-time-clock-app/employee-time-tracking-app/
 
+### HR & Employee Engagement:
+- Brighten - https://hellobrighten.com - AI-powered employee recognition and onboarding platform. Free for up to 10 users.
+
 ## Productivity Techniques
 - Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
 - GTD - https://todoist.com/productivity-methods/getting-things-done
