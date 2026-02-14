@@ -126,6 +126,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - FreeFileSync - https://freefilesync.org/
 - CryptoMator - https://cryptomator.org/
 - WinScp - https://winscp.net
+- NexTool (228+ free browser-based developer tools) - https://nextool.app/free-tools/
 - Putty - http://www.putty.org/
 
 ### Testing and Code Insights
