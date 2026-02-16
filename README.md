@@ -322,6 +322,7 @@ Good for team projects
 - Paymo - https://www.paymoapp.com
 - GoodDay - https://www.goodday.work
 - Taskade - https://taskade.com
+- PM Skills - https://github.com/product-on-purpose/pm-skills
 
 ### Calendar
 - Google Calendar - https://calendar.google.com
