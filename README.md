@@ -392,6 +392,7 @@ Good for team projects
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
 - Image Compression and Optimization API - https://www.abstractapi.com/image-processing-optimization-api
 - Figma - https://www.figma.com/
+- BulkPicTools - https://bulkpictools.com/
 
 ## Security and Privacy
 
