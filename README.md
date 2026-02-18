@@ -183,6 +183,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Amplitude - https://amplitude.com/
 - Microsoft Clarity - https://clarity.microsoft.com
 - PostHog - https://posthog.com/
+- GEO/AEO Tracker - https://github.com/danishashko/geo-aeo-tracker
 
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
