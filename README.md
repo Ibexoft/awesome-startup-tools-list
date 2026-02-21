@@ -55,6 +55,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - CloudFlare - https://www.cloudflare.com/
 - ClouDNS - https://cloudns.net/
 - Let's Encrypt - https://letsencrypt.org/
+- SSL Certificate Monitor - https://ssl-certificate-monitor.autocompany.workers.dev - Monitor SSL/TLS certificate expiry
+- DNS Propagation Checker - https://dns-propagation-checker.autocompany.workers.dev - Check DNS propagation globally
 
 ### Site Performance Tools:
 - Page Gym - https://pagegym.com
@@ -62,6 +64,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test - http://www.webpagetest.org/
 - GTMetrix	http://gtmetrix.com/
+- Redirect Checker - https://redirect-checker.autocompany.workers.dev - Analyze HTTP redirect chains and detect loops
 
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
