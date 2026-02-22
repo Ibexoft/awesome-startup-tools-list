@@ -107,6 +107,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Qodo - https://www.qodo.ai
 - TabNine - https://www.tabnine.com
 - Cline - https://cline.bot
+- Mantra - https://mantra.gonewx.com
 
 ### Development Playgrounds
 - JSFiddle - https://jsfiddle.net
