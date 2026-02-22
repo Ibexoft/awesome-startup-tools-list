@@ -252,6 +252,12 @@ This is a curated list about tools for everything from productivity to hosting t
 - Vidclue - https://vidclue.com/
 - AnswerThePublic - https://answerthepublic.com/
 
+### Developer Marketing & Advertising:
+- daily.dev Ads - https://business.daily.dev - Advertise to 1M+ developers through native feed ads and newsletter sponsorships
+- Carbon Ads - https://www.carbonads.net/ - Developer-focused ad network
+- BuySellAds - https://www.buysellads.com/ - Advertising marketplace for tech audiences
+- EthicalAds - https://www.ethicalads.io/ - Privacy-focused developer advertising
+
 ### Web Experimentation:
 - VWO - https://vwo.com
 - PostHog - https://posthog.com
