@@ -251,6 +251,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Website Headlines - https://websiteheadlines.com/
 - Vidclue - https://vidclue.com/
 - AnswerThePublic - https://answerthepublic.com/
+- [IndieStack](https://indiestack.fly.dev/) - Curated directory of indie-built SaaS alternatives. Find affordable tools across 100+ categories.
 
 ### Web Experimentation:
 - VWO - https://vwo.com
@@ -404,8 +405,3 @@ Good for team projects
 
 ### Virtual Private Networks (VPN)
 - Proton VPN - https://protonvpn.com
-
-
-## Sales & Marketing
-
-- [IndieStack](https://indiestack.fly.dev/) - Curated directory of indie-built SaaS alternatives. Find affordable tools across 100+ categories.
