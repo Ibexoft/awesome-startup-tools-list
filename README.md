@@ -404,3 +404,8 @@ Good for team projects
 
 ### Virtual Private Networks (VPN)
 - Proton VPN - https://protonvpn.com
+
+
+## Sales & Marketing
+
+- [IndieStack](https://indiestack.fly.dev/) - Curated directory of indie-built SaaS alternatives. Find affordable tools across 100+ categories.
