@@ -19,6 +19,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Manus - https://manus.im
 - Lumo - https://lumo.proton.me
 
+#### AI Assistants for Business
+- AI Assistant for SMBs - https://openclawapp.netlify.app/assistant/ - Managed AI assistant service that executes tasks autonomously (calls, emails, reports, bookings) for small businesses. Integrates with business tools, learns workflows, runs 24/7.
+
 ### Git Repos
 - GitHub - https://github.com
 - BitBucket - https://bitbucket.com
