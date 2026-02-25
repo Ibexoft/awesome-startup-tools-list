@@ -394,6 +394,12 @@ Good for team projects
 - Figma - https://www.figma.com/
 - BulkPicTools - https://bulkpictools.com/
 
+## E-Signatures and Document Signing
+
+- Gatherly - https://gatherly.shop
+- DocuSign - https://docusign.com
+- Docuseal - https://docuseal.co
+
 ## Security and Privacy
 
 ### Password Managers
@@ -401,6 +407,9 @@ Good for team projects
 - Avira PWM - https://passwords.avira.com
 - Passbolt - https://www.passbolt.com
 - BitWarden - https://bitwarden.com
+
+### Developer Secrets Management
+- KeyEnv - https://keyenv.dev
 
 ### Virtual Private Networks (VPN)
 - Proton VPN - https://protonvpn.com
