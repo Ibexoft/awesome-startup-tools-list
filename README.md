@@ -62,6 +62,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test - http://www.webpagetest.org/
 - GTMetrix	http://gtmetrix.com/
+- API Status Check - https://apistatuscheck.com - Real-time status monitoring for 250+ APIs. Free.
 
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
@@ -131,6 +132,12 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
 - Code Climate - https://codeclimate.com
+
+### Accessibility Testing:
+- WAVE - https://wave.webaim.org/ - Free web accessibility evaluation tool
+- axe DevTools - https://www.deque.com/axe/devtools/ - Industry-standard accessibility testing
+- RatedWithAI - https://ratedwithai.com - AI-powered WCAG 2.2 accessibility scanner. Free tier.
+- Pa11y - https://pa11y.org/ - Open-source automated accessibility testing
 
 ### Email Service for Developers
 - Resend - https://resend.com/
