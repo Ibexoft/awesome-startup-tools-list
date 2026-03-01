@@ -55,6 +55,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test - https://www.webpagetest.org/
 - GTMetrix	https://gtmetrix.com/
+- PageGuard - https://pageguard.org - Free all-in-one website health scanner: SEO audit, Core Web Vitals, WCAG 2.1 accessibility, and best practices in 30 seconds. No login required.
 
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
