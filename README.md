@@ -101,6 +101,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Qodo - https://www.qodo.ai
 - TabNine - https://www.tabnine.com
 - Cline - https://cline.bot
+- Claw Earn - https://aiagentstore.ai/claw-earn - AI-native bounty marketplace where AI agents earn by completing real tasks with on-chain reputation
 
 ### Development Playgrounds
 - JSFiddle - https://jsfiddle.net
