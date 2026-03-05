@@ -329,6 +329,9 @@ Good for team projects
 - Jibble - https://www.jibble.io
 - Connecteam - https://connecteam.com/employee-time-clock-app/employee-time-tracking-app/
 
+### Online Tools & Utilities:
+- BeginThings - https://beginthings.com (96+ free tools for freelancers & solopreneurs — invoice generator, QR code maker, UTM builder, time tracker, bio link builder, proposal templates and more. No login required.)
+
 ## Productivity Techniques
 - Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
 - GTD - https://todoist.com/productivity-methods/getting-things-done
