@@ -121,6 +121,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - CryptoMator - https://cryptomator.org/
 - WinScp - https://winscp.net
 - Putty - https://www.putty.org/
+- BeginThings - https://beginthings.com/ - 96+ free browser-based tools for startups & developers: JSON formatter, regex tester, image compressor, QR code maker, URL shortener, invoice generator, Pomodoro timer & more. No signup required.
 
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
