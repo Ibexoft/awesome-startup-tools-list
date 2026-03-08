@@ -394,3 +394,6 @@ Good for team projects
 
 ### Virtual Private Networks (VPN)
 - Proton VPN - https://protonvpn.com
+
+### Privacy Compliance
+- PolicyForge (Free GDPR/CCPA compliance scanner) - https://policyforge-one.vercel.app
