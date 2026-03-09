@@ -55,6 +55,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test - https://www.webpagetest.org/
 - GTMetrix	https://gtmetrix.com/
+- GEOScore - https://geoscoreai.com - AI search visibility scanner that checks how websites perform in AI search engines (ChatGPT, Perplexity, Gemini). Free scan with 11 technical checks.
 
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
