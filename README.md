@@ -334,6 +334,8 @@ Good for team projects
 - GTD - https://todoist.com/productivity-methods/getting-things-done
 - Eisenhower Matrix - https://todoist.com/productivity-methods/eisenhower-matrix
 
+| [SlackClaw](https://slackclaw.ai) | AI agent hosting for Slack — run OpenClaw agents with per-channel permissions, audit logging, and credit-based pricing | Freemium |
+
 ## Graphics, Design, and Media
 
 ### Video making:
