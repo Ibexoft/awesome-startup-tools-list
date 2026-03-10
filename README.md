@@ -241,6 +241,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Website Headlines - https://websiteheadlines.com
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
+- GEOScore AI - https://geoscoreai.com - Free AI search visibility scanner that checks 11 GEO signals (robots.txt, llms.txt, structured data, citation readiness) for AI search engines
 
 ### Web Experimentation:
 - VWO - https://vwo.com
