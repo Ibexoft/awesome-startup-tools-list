@@ -192,6 +192,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Mattermost - https://mattermost.com
 - Rocket.Chat - https://rocket.chat
 - Twist - https://twist.com
+- HeyRobyn - https://heyrobyn.ai - Native Mac unified inbox for email, Slack, and GitHub
 
 ### Customer Support/Live Chat:
 - Zendesk Chat (formerly Zopim) - https://www.zopim.com/
