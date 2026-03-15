@@ -42,6 +42,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Kinsta - https://kinsta.com/static-site-hosting
 
 ### Email Hosting:
+* [Nubo Email](https://nubo.email) - Privacy-first business email with organization-based pricing. Calendar, drive, video meetings included.
 - Lark Email - https://www.larksuite.com/en_us/product/email
 
 ### DNS, CDN, & SSL:
