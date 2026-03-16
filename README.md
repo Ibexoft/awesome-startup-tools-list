@@ -55,6 +55,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test - https://www.webpagetest.org/
 - GTMetrix	https://gtmetrix.com/
+- Foglift - https://foglift.io - Free SEO, GEO (AI search readiness), performance, security, and accessibility analyzer with API
 
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
