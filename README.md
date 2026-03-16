@@ -176,6 +176,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- KeepRule - https://keeprule.com - AI-powered investment discipline tracking from 26 legendary investors including Buffett, Munger, and Dalio
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
