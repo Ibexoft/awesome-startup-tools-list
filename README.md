@@ -220,6 +220,7 @@ This is a curated list about tools for everything from productivity to hosting t
   - Website Grader - https://grader.com
 - Buffer App - https://buffer.com
 - HootSuite - https://hootsuite.com
+- SocialBu - https://socialbu.com
 - CrowdFire - https://www.crowdfireapp.com
 - Ubersuggest - https://ubersuggest.org
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com
