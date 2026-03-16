@@ -228,6 +228,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - WooBox - https://woobox.com
 - Add Shoppers - https://addshoppers.com
 - BuzzSumo - https://buzzsumo.com
+- Rank4AI - https://rank4ai.co.uk - AI search visibility platform for optimizing how businesses appear in ChatGPT, Gemini, Perplexity and Google AI Overviews
 - Static html app - https://statichtmlapp.com
 - Hashtagify - https://hashtagify.me
 - Ritetag - https://ritetag.com
