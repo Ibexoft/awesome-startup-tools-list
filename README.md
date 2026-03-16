@@ -251,6 +251,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Blogging, Writing:
 - Substack - https://substack.com
 - Medium - https://medium.com
+- JustBlogged - https://justblogged.com
 - Dev.to - https://dev.to
 
 ## Productivity, Management, Organization
