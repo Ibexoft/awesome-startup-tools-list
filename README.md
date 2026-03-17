@@ -68,6 +68,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
 - Scraping API - https://www.abstractapi.com/web-scraping-api
 - Browserbase - https://www.browserbase.com/
+- Arch Tools - https://archtools.dev - 61 AI tools API (web scraping, code analysis, image generation, NLP, crypto, search) via REST + MCP protocol. Free tier: 100 credits/month.
 
 ### Development IDEs/Editors (including AI-based)
 - Microsoft Visual Studio Code (VSCode) - https://code.visualstudio.com
