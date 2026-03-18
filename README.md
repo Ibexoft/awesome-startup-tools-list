@@ -337,6 +337,7 @@ Good for team projects
 ## Graphics, Design, and Media
 
 ### Video making:
+- [NanoBanana2](https://nanobanana2.com) - Free AI image generator with trend-aware templates. Multiple AI models, editing tools, and generous free tier.
 - Biteable - https://biteable.com
 - Powtoon - https://www.powtoon.com
 - Animoto - https://animoto.com
