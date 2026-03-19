@@ -92,6 +92,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Replit (AI based) - https://replit.com
 - v0 by Vercel (AI based) - https://v0.dev
 - Firebase Studio (AI based) by Google - https://firebase.studio
+- Suriya (AI based, Thai SME app builder) - https://suriya.ai
 - Google AI Studio - https://aistudio.google.com
 
 ### AI-based Code Agents
