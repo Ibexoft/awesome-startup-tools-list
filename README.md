@@ -68,6 +68,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
 - Scraping API - https://www.abstractapi.com/web-scraping-api
 - Browserbase - https://www.browserbase.com/
+- ApifyForge - https://apifyforge.com - 300+ web scraping, lead generation, and data intelligence tools with pay-per-event pricing. Includes contact scrapers, email finders, lead qualifiers, and 93 MCP servers for AI agents.
 
 ### Development IDEs/Editors (including AI-based)
 - Microsoft Visual Studio Code (VSCode) - https://code.visualstudio.com
