@@ -57,6 +57,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Let's Encrypt - https://letsencrypt.org/
 
 ### Site Performance Tools:
+- API Status Check - https://apistatuscheck.com - Real-time uptime monitoring dashboard for 215+ APIs and services
 - Page Gym - https://pagegym.com
 - Pingdom http://tools.pingdom.com/fpt	pingdom.com - Website monitor
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
