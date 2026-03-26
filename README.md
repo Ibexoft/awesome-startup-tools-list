@@ -174,8 +174,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - PostHog - https://posthog.com/
 
 ### Accounting & Finance
-- Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- Texas Business Grants - https://texasbusinessgrants.com
+- Wave Apps - https://www.waveapps.com
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
