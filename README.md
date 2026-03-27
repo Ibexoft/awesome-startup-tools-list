@@ -161,6 +161,10 @@ This is a curated list about tools for everything from productivity to hosting t
 - OpenCart - https://www.opencart.com
 - Prestashop - https://www.prestashop.com
 
+### AI eCommerce Tools:
+- Creatop (AI TikTok script generator & viral video analyzer for eCommerce) - https://www.creatop.ai
+- Awesome eCommerce Skills (82+ open-source AI workflow skills for eCommerce & TikTok Shop) - https://awesome-ecommerce-skills.com
+
 ## Business, Marketing, Sales, Finance
 
 ### Analytics:
@@ -376,7 +380,7 @@ Good for team projects
 - Photoshop Express - https://www.photoshop.com/tools
 - Pixlr - https://pixlr.com/
 - Fotor - https://www.fotor.com/
-- Create GIF - https://gifbrewery.com/
+- Create GIF - https://gifbrewery.com/
 - Stamp creator - https://www.speedystamps.co.uk/
 - Method Draw (SVG Editor) - https://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
