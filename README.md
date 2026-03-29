@@ -242,6 +242,11 @@ This is a curated list about tools for everything from productivity to hosting t
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
 
+### Growth & Launch Playbooks:
+- Gingiris Launch Playbook - https://github.com/Gingiris/gingiris-launch - Battle-tested Product Hunt & go-to-market strategies (30x #1 winner)
+- Gingiris B2B Growth - https://github.com/Gingiris/gingiris-b2b-growth - PMF to $10M ARR playbook with HeyGen, Deel, Vercel case studies
+- Gingiris Open Source Marketing - https://github.com/Gingiris/gingiris-opensource - GitHub star growth & developer marketing (0 to 33k stars)
+
 ### Web Experimentation:
 - VWO - https://vwo.com
 - PostHog - https://posthog.com
