@@ -214,6 +214,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Bluesky - https://bsky.app
 
 ### Sales & Marketing:
+- Gingiris Growth Playbooks - https://github.com/Gingiris - Product Hunt launch (30x #1), open source marketing (0→33k stars), B2B SaaS growth, ASO playbooks
 - HubSpot - https://www.hubspot.com
   - Marketing - https://www.hubspot.com/products/marketing
   - Sales - https://www.hubspot.com/products/sales
