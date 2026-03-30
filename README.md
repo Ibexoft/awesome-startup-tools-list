@@ -218,6 +218,7 @@ This is a curated list about tools for everything from productivity to hosting t
   - Marketing - https://www.hubspot.com/products/marketing
   - Sales - https://www.hubspot.com/products/sales
   - Website Grader - https://grader.com
+- EnrichAnything - https://www.enrichanything.com - Source-backed lead-list and market research builder for niche outbound and growth workflows.
 - Buffer App - https://buffer.com
 - HootSuite - https://hootsuite.com
 - CrowdFire - https://www.crowdfireapp.com
