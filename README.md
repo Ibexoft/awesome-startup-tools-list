@@ -116,6 +116,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Local (for WordPress) - https://localwp.com
 
 ### Utilities:
+- Kitmul - https://kitmul.com - 100+ free AI-powered browser tools (PDF, image, video, text, developer tools). No signup needed.
 - FileZilla - https://filezilla-project.org/
 - FreeFileSync - https://freefilesync.org/
 - CryptoMator - https://cryptomator.org/
