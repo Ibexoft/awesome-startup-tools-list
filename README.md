@@ -122,6 +122,14 @@ This is a curated list about tools for everything from productivity to hosting t
 - WinScp - https://winscp.net
 - Putty - https://www.putty.org/
 
+### Developer APIs & Toolkits
+- QRMint - https://qrmint.dev - Free QR code generator API
+- LinkShrink - https://linkshrink.dev - Free URL shortener API
+- PageShot - https://pageshot.dev - Free screenshot API
+- PDFSpark - https://pdfspark.dev - Free PDF generation API
+- OGForge - https://ogforge.dev - Free OG image generation API
+- FreeKit - https://freekit.dev - Free developer toolkit
+
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
 - Code Climate - https://codeclimate.com
@@ -176,6 +184,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- Faktuj - https://faktuj.pl - Free Polish invoice generator
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
