@@ -49,6 +49,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - ClouDNS - https://cloudns.net/
 - Let's Encrypt - https://letsencrypt.org/
 
+### Maps & Geolocation:
+- MapAtlas - https://mapatlas.eu
+
 ### Site Performance Tools:
 - Page Gym - https://pagegym.com
 - Pingdom https://tools.pingdom.com/fpt	pingdom.com - Website monitor
