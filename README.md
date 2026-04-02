@@ -219,6 +219,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Sales & Marketing:
 - HubSpot - https://www.hubspot.com
   - Marketing - https://www.hubspot.com/products/marketing
+  - Product submission discovery - https://github.com/SeeleAI/submission-site-discovery
   - Sales - https://www.hubspot.com/products/sales
   - Website Grader - https://grader.com
 - Buffer App - https://buffer.com
