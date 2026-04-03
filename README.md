@@ -58,6 +58,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test - https://www.webpagetest.org/
 - GTMetrix	https://gtmetrix.com/
+- Shopify Schema Validator - https://podifai.com/tools/shopify-schema-validator
 
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
@@ -163,6 +164,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Magento - https://www.magento.com
 - OpenCart - https://www.opencart.com
 - Prestashop - https://www.prestashop.com
+- Shopify Theme Detector - https://podifai.com/tools/shopify-theme-detector
 
 ## Business, Marketing, Sales, Finance
 
@@ -387,6 +389,7 @@ Good for team projects
 - Figma - https://www.figma.com/
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
+- PNG Maker (AI based) - https://podifai.com/tools/png-maker
 
 ## Security and Privacy
 
