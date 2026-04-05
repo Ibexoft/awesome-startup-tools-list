@@ -179,6 +179,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- CalcFi - https://calcfi.app - 312+ free financial calculators (mortgage, tax, FIRE, debt payoff). No signup, no ads.
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
