@@ -244,6 +244,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Website Headlines - https://websiteheadlines.com
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
+- Overloop CLI (AI outbound sales engine) - https://github.com/sortlist/overloop-cli
+- Signals CLI (B2B intent signal monitoring) - https://github.com/sortlist/signals-cli
 
 ### Web Experimentation:
 - VWO - https://vwo.com
