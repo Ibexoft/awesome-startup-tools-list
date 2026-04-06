@@ -396,5 +396,8 @@ Good for team projects
 - Passbolt - https://www.passbolt.com
 - BitWarden - https://bitwarden.com
 
+### AI Compliance
+- asqav - https://asqav.com - Open-source AI compliance scanner for CI/CD pipelines. Detects EU AI Act violations, prompt injection risks, and missing guardrails. Available as GitHub Action and Python SDK.
+
 ### Virtual Private Networks (VPN)
 - Proton VPN - https://protonvpn.com
