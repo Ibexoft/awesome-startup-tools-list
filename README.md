@@ -289,7 +289,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Mega - https://mega.io
 - Proton Drive - https://proton.me/drive
 - Cloudflare R2 - https://www.cloudflare.com/developer-platform/products/r2/
-- Dioveo - https://dioveo.com - Gmail attachment manager to find, extract, and organize email attachments, with bulk download and auto-upload to Google Drive, Dropbox, or OneDrive.
+- Dioveo - https://dioveo.com
 
 ### Project/Task Management:
 Good for personal tasks
