@@ -1,6 +1,7 @@
 # Awesome list of FREE tools Startups should be using
 This is a curated list about tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e. either app, online service, or downloadable software. Most of them are either free or have limited free option that is enough for startups, indie hackers, entrepreneurs, individuals, or anyone to get started. Feel free to suggest and contribute in this list.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. Automate development, security, and business workflows. MIT licensed.
 ## Tech
 
 ### Artificial Intelligence (AI) Chat
