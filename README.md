@@ -289,6 +289,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Mega - https://mega.io
 - Proton Drive - https://proton.me/drive
 - Cloudflare R2 - https://www.cloudflare.com/developer-platform/products/r2/
+- Dioveo - https://dioveo.com - Gmail attachment manager to find, extract, and organize email attachments, with bulk download and auto-upload to Google Drive, Dropbox, or OneDrive.
 
 ### Project/Task Management:
 Good for personal tasks
@@ -379,7 +380,7 @@ Good for team projects
 - Photoshop Express - https://www.photoshop.com/tools
 - Pixlr - https://pixlr.com/
 - Fotor - https://www.fotor.com/
-- Create GIF - https://gifbrewery.com/
+- Create GIF - https://gifbrewery.com/
 - Stamp creator - https://www.speedystamps.co.uk/
 - Method Draw (SVG Editor) - https://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
