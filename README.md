@@ -1,5 +1,16 @@
 # Awesome list of FREE tools Startups should be using
-This is a curated list about tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e. either app, online service, or downloadable software. Most of them are either free or have limited free option that is enough for startups, indie hackers, entrepreneurs, individuals, or anyone to get started. Feel free to suggest and contribute in this list.
+This is a curated list about tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e. either app, online service, or downloadable software. Most of them are either free or have limited free option that is enough for startups, indie hackers, entrepreneurs, individuals, or anyone to get started. Feel free to suggest and contribute in this list. 
+
+> **📢 For Contributors — Please Read Before Submitting a PR**
+>
+> This list receives a high volume of tool recommendations. To keep
+> quality high, submissions are now held to a strict editorial standard.
+> **We only accept tools that are credible, established, and hosted on a
+> custom domain.** GitHub repo links, Netlify/Vercel/platform subdomains,
+> and newly launched tools with no track record are rejected automatically.
+>
+> The list is also undergoing a quality cleanup — some older entries that
+> no longer meet the bar are being removed.
 
 ## Tech
 
