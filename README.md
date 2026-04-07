@@ -105,6 +105,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - TabNine - https://www.tabnine.com
 - Cline - https://cline.bot
 
+### AI Skills & Personas Marketplace
+- RemoteOpenClaw - https://remoteopenclaw.com
 ### Development Playgrounds
 - JSFiddle - https://jsfiddle.net
 - Plunker - https://plnkr.co/
