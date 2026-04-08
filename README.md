@@ -239,6 +239,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com
 - Tweriod - https://www.tweriod.com
 - My Site Auditor - https://mysiteauditor.com
+- AuditZap - https://auditzap.io - AI-powered website audit tool with code-level fix instructions ranked by revenue impact.
 - WooBox - https://woobox.com
 - Add Shoppers - https://addshoppers.com
 - BuzzSumo - https://buzzsumo.com
