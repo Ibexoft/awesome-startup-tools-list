@@ -244,7 +244,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Website Headlines - https://websiteheadlines.com
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
-- PersonaResearch - https://personaresearch.dev - Turn App Store reviews into customer personas in 2 minutes using AI
+- PersonaResearch - https://personaresearch.dev
 
 ### Web Experimentation:
 - VWO - https://vwo.com
