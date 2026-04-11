@@ -255,6 +255,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Website Headlines - https://websiteheadlines.com
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
+- toprank - https://github.com/nowork-studio/toprank (open-source Claude Code plugin — 9 SEO and Google Ads skills; rewrites meta tags, generates JSON-LD schema, and ships fixes to WordPress/Strapi/Contentful/Ghost; MIT, 107 stars)
 
 ### Web Experimentation:
 - VWO - https://vwo.com
