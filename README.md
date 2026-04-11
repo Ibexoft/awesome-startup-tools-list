@@ -255,6 +255,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Website Headlines - https://websiteheadlines.com
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
+- BulkPublish - https://www.bulkpublish.com - Social media publishing API for 11 platforms with scheduling, analytics, and AI agent support. Free tier available.
 
 ### Web Experimentation:
 - VWO - https://vwo.com
