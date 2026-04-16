@@ -199,6 +199,12 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Contacts (can be used as lightweight CRM) - https://contacts.google.com
 - Attio - https://attio.com/
 
+### Hiring & Recruitment
+- AI Dev Jobs - https://aidevboard.com
+- LinkedIn Jobs - https://www.linkedin.com/jobs/
+- Indeed - https://www.indeed.com
+- Wellfound (formerly AngelList Talent) - https://wellfound.com
+
 ### Team Chat & Communication
 - Slack - https://slack.com
 - Microsoft Teams - https://teams.microsoft.com
