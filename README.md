@@ -66,6 +66,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Site Performance Tools:
 - Page Gym - https://pagegym.com
 - Pingdom https://tools.pingdom.com/fpt	pingdom.com - Website monitor
+- Snaplert - https://snaplert.com - Website change monitoring with AI-powered visual diffs and email alerts
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test - https://www.webpagetest.org/
 - GTMetrix	https://gtmetrix.com/
