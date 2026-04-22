@@ -255,7 +255,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Website Headlines - https://websiteheadlines.com
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
-- AuditWidget - https://auditwidget.app/?utm_source=awesome-startup-tools-list&utm_medium=github - Embeddable SEO audit widget for agency sites; captures visitor emails as leads. White-label ready, free plan available.
+- AuditWidget - https://auditwidget.app/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome-startup-tools-list - Embeddable SEO audit widget for agency sites; captures visitor emails as leads. White-label ready, free plan available.
 
 ### Web Experimentation:
 - VWO - https://vwo.com
