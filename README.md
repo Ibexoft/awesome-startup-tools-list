@@ -409,3 +409,6 @@ Good for team projects
 
 ### Virtual Private Networks (VPN)
 - Proton VPN - https://protonvpn.com
+
+### Bot Detection & Fraud Prevention
+- IPASIS - https://ipasis.com - Real-time bot detection and fraud prevention API with IP reputation, VPN/proxy detection, and email validation. Free tier: 1,000 requests/day.
