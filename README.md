@@ -1,7 +1,7 @@
 # Awesome list of FREE tools Startups should be using
 This is a curated list about tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e. either app, online service, or downloadable software. Most of them are either free or have limited free option that is enough for startups, indie hackers, entrepreneurs, individuals, or anyone to get started. Feel free to suggest and contribute in this list. 
 
-> **ð¢ For Contributors â Please Read Before Submitting a PR**
+> **📢 For Contributors — Please Read Before Submitting a PR**
 >
 > This list receives a high volume of tool recommendations. To keep
 > quality high, submissions are now held to a strict editorial standard.
@@ -9,7 +9,7 @@ This is a curated list about tools for everything from productivity to hosting t
 > custom domain.** GitHub repo links, Netlify/Vercel/platform subdomains,
 > and newly launched tools with no track record are rejected automatically.
 >
-> The list is also undergoing a quality cleanup â some older entries that
+> The list is also undergoing a quality cleanup — some older entries that
 > no longer meet the bar are being removed.
 
 ## Tech
@@ -391,7 +391,7 @@ Good for team projects
 - Photoshop Express - https://www.photoshop.com/tools
 - Pixlr - https://pixlr.com/
 - Fotor - https://www.fotor.com/
-- Create GIF -Â https://gifbrewery.com/
+- Create GIF - https://gifbrewery.com/
 - Stamp creator - https://www.speedystamps.co.uk/
 - Method Draw (SVG Editor) - https://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
