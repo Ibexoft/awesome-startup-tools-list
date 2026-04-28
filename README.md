@@ -130,6 +130,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Local (for WordPress) - https://localwp.com
 
 ### Utilities:
+- [Remove Audio](https://remove-audio.com) - Free browser-based tool to remove audio from video files. No sign-up, no uploads, batch up to 20 clips. WebAssembly-powered.
 - FileZilla - https://filezilla-project.org/
 - FreeFileSync - https://freefilesync.org/
 - CryptoMator - https://cryptomator.org/
