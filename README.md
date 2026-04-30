@@ -92,6 +92,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - NetBeans - https://netbeans.org
 - Eclipse - https://eclipse.org
 - Windsurf (AI-based) - https://codeium.com/windsurf
+- - [JSON Schema Generator Pro](https://sargam79.github.io/Tool/json-schema-generator-pro.html) - Free online tool to generate and validate JSON schema instantly.
 
 ### Online Development Platforms/IDEs
 - VSCode for Web - https://vscode.dev
