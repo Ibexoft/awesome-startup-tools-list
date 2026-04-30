@@ -358,6 +358,7 @@ Good for team projects
 - Video captions - https://subsvideo.com
 - VEED - https://www.veed.io
 - Tavus (AI based) - https://www.tavus.io
+- Cyber Collector (Telegram bot) - https://t.me/cybercollectorbot — Free bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
 
 ### Stock Photos/Illustrations/Icons:
 - Unsplash - https://unsplash.com
