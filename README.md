@@ -14,6 +14,8 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ## Tech
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free no-signup web utilities for founders: domain name generator (RDAP availability), OG image generator, favicon generator, color palette, SEO meta tags, AI background remover. 6 tools live, more added daily.
+
 ### Artificial Intelligence (AI) Chat
 - Claude - https://claude.ai
 - ChatGPT - https://chatgpt.com
@@ -409,3 +411,4 @@ Good for team projects
 
 ### Virtual Private Networks (VPN)
 - Proton VPN - https://protonvpn.com
+
