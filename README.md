@@ -383,6 +383,7 @@ Good for team projects
 - Logo Maker - https://logomaker.com
 
 ### Designing & Editing:
+- igly.ai (AI Image Editor) - https://igly.ai — Free AI image editing platform for background removal, inpainting, upscaling, and generative fill. [Demo Video](https://www.youtube.com/watch?v=HB2E1WZ12is)
 - Gamma (AI based) -	https://gamma.app
 - Canva - https://www.canva.com
 - Snappa - https://snappa.com
