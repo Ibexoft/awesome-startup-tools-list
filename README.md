@@ -190,6 +190,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- AI Invoice Maker (free invoice generator with AI payment reminders, no signup) - https://ainvoicemaker.com
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
