@@ -139,6 +139,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
 - Code Climate - https://codeclimate.com
+- Related Repos - https://relatedrepos.com
 
 ### Email Service for Developers
 - Resend - https://resend.com/
