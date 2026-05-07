@@ -268,6 +268,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Dev.to - https://dev.to
 
 ## Productivity, Management, Organization
+- [TypoGuard](https://https://chromewebstore.google.com/detail/typoguard-ai-spell-check/khbenciagmckicfldgibdkmklidnmpck) - AI-powered real-time spell check correction and grammar assistant for Google Chrome.
 
 ### Note-taking & Reading:
 - Notion - https://www.notion.com
