@@ -37,6 +37,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Amazon AWS - https://aws.amazon.com
 - Microsoft Azure - https://azure.microsoft.com
 - Google Cloud - https://cloud.google.com
+- DeployBase - https://deploybase.io
 - Digital Ocean - https://digitalocean.com
 - Render - https://render.com
 - Vultr - https://www.vultr.com/free-tier-program/
@@ -208,6 +209,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Twist - https://twist.com
 
 ### Customer Support/Live Chat:
+- DeskLeap - https://deskleap.io
 - Zendesk Chat (formerly Zopim) - https://www.zopim.com/
 - Olark - https://www.olark.com/
 - Facebook Messenger - https://web.facebook.com/business/products/messenger-for-business
