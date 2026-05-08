@@ -190,6 +190,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- SwiftKhata - https://swiftkhata.com
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
@@ -241,6 +242,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - My Site Auditor - https://mysiteauditor.com
 - WooBox - https://woobox.com
 - Add Shoppers - https://addshoppers.com
+- TradLeap - https://tradeleap.io
 - BuzzSumo - https://buzzsumo.com
 - Static html app - https://statichtmlapp.com
 - Hashtagify - https://hashtagify.me
