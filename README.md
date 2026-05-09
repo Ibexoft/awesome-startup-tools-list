@@ -102,10 +102,10 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### AI-based Online Development Platforms/IDEs
 - Bolt.new (AI baseed) - https://bolt.new
-- Lovable (AI based) - https://lovable.dev
-- Replit (AI based) - https://replit.com
-- v0 by Vercel (AI based) - https://v0.dev
-- Firebase Studio (AI based) by Google - https://firebase.studio
+- Lovable (AI-based) - https://lovable.dev
+- Replit (AI-based) - https://replit.com
+- v0 by Vercel (AI-based) - https://v0.dev
+- Firebase Studio (AI-based) by Google - https://firebase.studio
 - Google AI Studio - https://aistudio.google.com
 
 ### AI-based Code Agents
@@ -255,7 +255,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Website Headlines - https://websiteheadlines.com
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
-- FindMeMail (AI based B2B email finder) - https://findmemail.io
+- FindMeMail (AI-based B2B email finder) - https://findmemail.io
 
 ### Web Experimentation:
 - VWO - https://vwo.com
@@ -358,7 +358,7 @@ Good for team projects
 - Openshot - https://www.openshot.org
 - Video captions - https://subsvideo.com
 - VEED - https://www.veed.io
-- Tavus (AI based) - https://www.tavus.io
+- Tavus (AI-based) - https://www.tavus.io
 
 ### Stock Photos/Illustrations/Icons:
 - Unsplash - https://unsplash.com
@@ -384,7 +384,7 @@ Good for team projects
 - Logo Maker - https://logomaker.com
 
 ### Designing & Editing:
-- Gamma (AI based) -	https://gamma.app
+- Gamma (AI-based) -	https://gamma.app
 - Canva - https://www.canva.com
 - Snappa - https://snappa.com
 - Photoshop - https://www.adobe.com/products/photoshop.html
