@@ -136,6 +136,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - WinScp - https://winscp.net
 - Putty - https://www.putty.org/
 
+- [Bytepane](https://bytepane.com/) - Free dev tools suite (50+ utilities). JSON formatter, regex tester (with ReDoS detection), base64, JWT, hash generators, color converters, plus cheatsheets for 50+ languages. All client-side.
+
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
 - Code Climate - https://codeclimate.com
