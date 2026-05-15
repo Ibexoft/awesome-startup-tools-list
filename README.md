@@ -183,6 +183,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Inspectlet	https://www.inspectlet.com/plans
 - Zoom Analytics https://zoomanalytics.co/
 - LiveSession - https://livesession.io/
+- Discury - https://discury.io/
 - Amplitude - https://amplitude.com/
 - Microsoft Clarity - https://clarity.microsoft.com
 - PostHog - https://posthog.com/
