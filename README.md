@@ -256,6 +256,8 @@ This is a curated list about tools for everything from productivity to hosting t
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
 
+- The SEO Autopilot - https://the-seo-autopilot.com
+
 ### Web Experimentation:
 - VWO - https://vwo.com
 - PostHog - https://posthog.com
