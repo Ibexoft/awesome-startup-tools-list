@@ -178,6 +178,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ## Business, Marketing, Sales, Finance
 
 ### Analytics:
+- [WebCoreLab](https://webcorelab.com) — 272-check AI SEO audit + GEO/AEO visibility tracking for startups. ChatGPT/Claude/Perplexity citation optimization.
 - Google Analytics - https://analytics.google.com
 - New Relic https://newrelic.com/
 - Inspectlet	https://www.inspectlet.com/plans
