@@ -115,6 +115,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Qodo - https://www.qodo.ai
 - TabNine - https://www.tabnine.com
 - Cline - https://cline.bot
+- Markus - https://markus.global - Open-source AI workforce platform that deploys autonomous agents to automate development, operations, and business workflows for startups.
 
 ### Development Playgrounds
 - JSFiddle - https://jsfiddle.net
