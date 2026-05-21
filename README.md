@@ -239,7 +239,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com
 - Tweriod - https://www.tweriod.com
 - My Site Auditor - https://mysiteauditor.com
-- Beton Inspector (open-source revenue intelligence; scores leads from product + CRM signals, self-hostable) - https://github.com/getbeton/inspector
+- Beton Inspector (open-source revenue intelligence; scores leads from product + CRM signals, self-hostable) - https://getbeton.ai
 - WooBox - https://woobox.com
 - Add Shoppers - https://addshoppers.com
 - BuzzSumo - https://buzzsumo.com
