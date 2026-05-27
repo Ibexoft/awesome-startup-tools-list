@@ -398,6 +398,7 @@ Good for team projects
 - Figma - https://www.figma.com/
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
+- PhotoRestore.ai (AI Photo Restoration) - https://photorestore.ai
 
 ## Security and Privacy
 
