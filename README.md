@@ -13,6 +13,7 @@ This is a curated list about tools for everything from productivity to hosting t
 > no longer meet the bar are being removed.
 
 ## Tech
+- [LaunchGrid](https://launchgrid.online/) — A completely free resource hub to map out baseline tech stacks using pure free trials.
 
 ### Artificial Intelligence (AI) Chat
 - Claude - https://claude.ai
