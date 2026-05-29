@@ -236,6 +236,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - HootSuite - https://hootsuite.com
 - CrowdFire - https://www.crowdfireapp.com
 - Ubersuggest - https://ubersuggest.org
+- crawlgraph - https://crawlgraph.com (free backlink intelligence using the public Common Crawl web graph; $99 lifetime, no monthly)
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com
 - Tweriod - https://www.tweriod.com
 - My Site Auditor - https://mysiteauditor.com
