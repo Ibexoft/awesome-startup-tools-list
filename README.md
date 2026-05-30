@@ -226,6 +226,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Threads - https://www.threads.com
 - Mastodon - https://joinmastodon.org
 - Bluesky - https://bsky.app
+- [LinkPost](https://linkpost.gg) - AI-powered LinkedIn post writer that predicts virality before publishing using 1M+ posts and 300+ factors.
 
 ### Sales & Marketing:
 - HubSpot - https://www.hubspot.com
