@@ -398,6 +398,7 @@ Good for team projects
 - Figma - https://www.figma.com/
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
+- TinyTools - https://tinytools-smoky.vercel.app/
 
 ## Security and Privacy
 
