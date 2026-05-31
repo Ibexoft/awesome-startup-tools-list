@@ -191,6 +191,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
 
+### Calculators
+- SmartBizCalc - https://smartbizcalc.com - Free business calculators for small businesses and startups (taxes, pricing, break-even, contractor rates, 85+ tools)
+
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
 - Capsule CRM - https://capsulecrm.com
