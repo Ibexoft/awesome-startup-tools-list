@@ -187,6 +187,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Microsoft Clarity - https://clarity.microsoft.com
 - PostHog - https://posthog.com/
 
+### Business Formation & Legal
+- LLC Class - https://llcclass.com (Wyoming LLC registration for non-US founders; covers registered agent for LLC, EIN, and Operating Agreement)
+
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
