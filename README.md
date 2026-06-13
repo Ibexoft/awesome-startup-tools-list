@@ -385,6 +385,7 @@ Good for team projects
 ### Designing & Editing:
 - Gamma (AI based) -	https://gamma.app
 - Canva - https://www.canva.com
+- igly.ai (AI image editor for product photos, background removal, inpainting, upscaling, and generative fill) - https://igly.ai
 - Snappa - https://snappa.com
 - Photoshop - https://www.adobe.com/products/photoshop.html
 - Photoshop Express - https://www.photoshop.com/tools
