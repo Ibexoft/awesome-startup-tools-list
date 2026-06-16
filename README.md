@@ -190,6 +190,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- Ecommerce Profit Tracker PRO - https://whop.com/glm-643b/ecommerce-profit-tracker-pro-know-your-real-profit
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
