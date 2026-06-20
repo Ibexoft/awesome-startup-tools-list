@@ -266,6 +266,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Substack - https://substack.com
 - Medium - https://medium.com
 - Dev.to - https://dev.to
+- One Person Company - https://onepersoncompany.com (free skill guides, SEO playbook & AI tool comparisons for solo founders)
 
 ## Productivity, Management, Organization
 
