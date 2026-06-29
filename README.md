@@ -358,6 +358,7 @@ Good for team projects
 - Video captions - https://subsvideo.com
 - VEED - https://www.veed.io
 - Tavus (AI based) - https://www.tavus.io
+- cv.cm/v (AI based, queue-free Seedance 2.0 text/image-to-video, free credits) - https://cv.cm/v
 
 ### Stock Photos/Illustrations/Icons:
 - Unsplash - https://unsplash.com
