@@ -69,6 +69,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test - https://www.webpagetest.org/
 - GTMetrix	https://gtmetrix.com/
+- Website Speed Comparison - https://landing-five-dusky-44.vercel.app/comparar-velocidad - Compare your site's PageSpeed score vs. a competitor's using real Google PageSpeed Insights data
 
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
