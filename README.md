@@ -242,6 +242,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - WooBox - https://woobox.com
 - Add Shoppers - https://addshoppers.com
 - BuzzSumo - https://buzzsumo.com
+- GetAppNiche App Revenue Checker - https://getappniche.com/tools/app-revenue-checker
 - Static html app - https://statichtmlapp.com
 - Hashtagify - https://hashtagify.me
 - Ritetag - https://ritetag.com
