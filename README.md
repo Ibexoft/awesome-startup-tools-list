@@ -214,6 +214,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - WhatsApp for Business - https://business.whatsapp.com
 - LiveChat - https://www.livechat.com
 - Tawk.to - https://www.tawk.to
+- Knocket - https://trtc.io/solutions/knocket - Free-forever contact layer for indie developers and small teams. Live chat widget for websites and mobile apps (iOS/Android/Flutter/React Native via WebView), a shareable contact page, and a unified Telegram/email inbox. No ads, no seat limits.
 
 ### Social Media
 - Facebook - https://facebook.com
