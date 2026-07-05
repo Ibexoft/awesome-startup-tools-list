@@ -235,6 +235,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Buffer App - https://buffer.com
 - HootSuite - https://hootsuite.com
 - CrowdFire - https://www.crowdfireapp.com
+- Postlia - https://postlia.com
 - Ubersuggest - https://ubersuggest.org
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com
 - Tweriod - https://www.tweriod.com
