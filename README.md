@@ -135,6 +135,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - CryptoMator - https://cryptomator.org/
 - WinScp - https://winscp.net
 - Putty - https://www.putty.org/
+- [ConvertTool](https://converttool.org) - Free online file converter with 300+ tools for PDF, images, audio, and video. Convert instantly in your browser — no ...
 
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
