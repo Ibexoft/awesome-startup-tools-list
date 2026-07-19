@@ -135,6 +135,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - CryptoMator - https://cryptomator.org/
 - WinScp - https://winscp.net
 - Putty - https://www.putty.org/
+- Nutilz - https://nutilz.com - Free online tools (calculators, unit/text/image converters, PDF and developer utilities), no signup required
 
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
