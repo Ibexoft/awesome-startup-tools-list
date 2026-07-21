@@ -391,6 +391,7 @@ Good for team projects
 - Pixlr - https://pixlr.com/
 - Fotor - https://www.fotor.com/
 - Create GIF - https://gifbrewery.com/
+- Typing Words GIF - https://typingwordsgif.com/ - Free online typing text GIF maker
 - Stamp creator - https://www.speedystamps.co.uk/
 - Method Draw (SVG Editor) - https://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
