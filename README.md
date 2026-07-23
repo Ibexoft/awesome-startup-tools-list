@@ -186,6 +186,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Amplitude - https://amplitude.com/
 - Microsoft Clarity - https://clarity.microsoft.com
 - PostHog - https://posthog.com/
+- Apstal - https://apstal.com - AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 10K events/month.
 
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
