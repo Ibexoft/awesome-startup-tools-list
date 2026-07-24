@@ -198,6 +198,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Bitrix24 (CRM version) - https://www.bitrix24.com/tools/crm/
 - Google Contacts (can be used as lightweight CRM) - https://contacts.google.com
 - Attio - https://attio.com/
+- Dealboard (visual deal tracker, lighter than a full CRM) - https://getdealboard.com
 
 ### Team Chat & Communication
 - Slack - https://slack.com
