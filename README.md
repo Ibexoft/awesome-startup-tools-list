@@ -190,6 +190,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- SmartBizCalc - https://smartbizcalc.com
 
 ### Calculators
 - SmartBizCalc - https://smartbizcalc.com - Free business calculators for small businesses and startups (taxes, pricing, break-even, contractor rates, 85+ tools)
