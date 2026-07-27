@@ -26,6 +26,9 @@ This is a curated list about tools for everything from productivity to hosting t
 - Mistral Le Chat - https://chat.mistral.ai
 - Perplexity - https://www.perplexity.ai
 
+### AI Voice & TTS
+- CharaVox - https://charavox.com
+
 ### Git Repos
 - GitHub - https://github.com
 - BitBucket - https://bitbucket.com
