@@ -228,6 +228,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Bluesky - https://bsky.app
 
 ### Sales & Marketing:
+- SocialClaw - https://getsocialclaw.com
 - HubSpot - https://www.hubspot.com
   - Marketing - https://www.hubspot.com/products/marketing
   - Sales - https://www.hubspot.com/products/sales
