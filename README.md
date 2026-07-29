@@ -18,6 +18,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Claude - https://claude.ai
 - ChatGPT - https://chatgpt.com
 - Google Gemini - https://gemini.google.com
+- GPTGeminiGrok.AI - https://trygrokai.asia/
 - Grok - https://grok.com
 - Microsoft CoPilot - https://copilot.microsoft.com
 - Kimi - https://www.kimi.com
