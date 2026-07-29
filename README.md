@@ -357,6 +357,7 @@ Good for team projects
 - Openshot - https://www.openshot.org
 - Video captions - https://subsvideo.com
 - VEED - https://www.veed.io
+- Video Size Reducer - https://videosizereducer.org
 - Tavus (AI based) - https://www.tavus.io
 
 ### Stock Photos/Illustrations/Icons:
