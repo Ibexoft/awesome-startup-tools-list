@@ -215,6 +215,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - WhatsApp for Business - https://business.whatsapp.com
 - LiveChat - https://www.livechat.com
 - Tawk.to - https://www.tawk.to
+- Workforce Wave (AI voice agent for phone calls, appointment booking, and after-hours answering) - https://www.workforcewave.com
 
 ### Social Media
 - Facebook - https://facebook.com
