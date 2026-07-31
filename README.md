@@ -262,6 +262,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - PostHog - https://posthog.com
 - OptimalUX - https://optimalux.com
 - Upflowy - https://www.upflowy.com
+- Klinky - https://klinky.io
 
 ### Blogging, Writing:
 - Substack - https://substack.com
