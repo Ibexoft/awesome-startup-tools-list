@@ -344,6 +344,9 @@ Good for team projects
 - Jibble - https://www.jibble.io
 - Connecteam - https://connecteam.com/employee-time-clock-app/employee-time-tracking-app/
 
+### Decision Making:
+- DAUDIT - https://www.daudit.net - Decision-context engine that audits your thinking across five dimensions before committing to irreversible decisions.
+
 ## Productivity Techniques
 - Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
 - GTD - https://todoist.com/productivity-methods/getting-things-done
