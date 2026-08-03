@@ -268,6 +268,9 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Medium - https://medium.com
 - Dev.to - https://dev.to
 
+### Translation & Localization:
+- Alconost - https://alconost.com                                                                                                  - Nitro - https://nitrotranslate.com
+
 ## Productivity, Management, Organization
 
 ### Note-taking & Reading:
