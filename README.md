@@ -399,6 +399,7 @@ Good for team projects
 - Figma - https://www.figma.com/
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
+- flow-chart.io (AI based) - https://flow-chart.io
 
 ## Security and Privacy
 
