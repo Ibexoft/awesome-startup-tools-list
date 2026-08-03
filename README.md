@@ -279,6 +279,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 
 ### Journaling:
 - DailyWins - https://dailywins.ibexoft.com
+- WeekLife - https://letmethink.cc/app/weeklife/
 
 ### Documentation & Collaboration
 - Atlassian Confluence - https://www.atlassian.com/software/confluence
@@ -343,7 +344,6 @@ Good for team projects
 - Paymo - https://www.paymoapp.com
 - Jibble - https://www.jibble.io
 - Connecteam - https://connecteam.com/employee-time-clock-app/employee-time-tracking-app/
-- [WeekLife](https://letmethink.cc/app/weeklife/) - A lightweight life check-in tool for reclaiming everyday life beyond work.
 
 ## Productivity Techniques
 - Pomodoro Technique - https://en.wikipedia.org/wiki/Pomodoro_Technique
