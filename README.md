@@ -1,4 +1,5 @@
 # Awesome list of FREE tools Startups should be using
+- [ReviewPilot](https://lijustin655.github.io/review-pilot/) - Free AI review analysis for e-commerce sellers. Paste product reviews, get top complaint reasons, sentiment breakdown, and improvement actions in 30 seconds.
 This is a curated list of tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e., either app, SaaS, online service, or downloadable software. Most of them are either free or have a free plan that is enough for startups, indie hackers, entrepreneurs, individuals, or anyone to use. Feel free to suggest and contribute in this list. 
 
 > **📢 For Contributors — Please Read Before Submitting a PR**
