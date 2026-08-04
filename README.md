@@ -40,6 +40,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Digital Ocean - https://digitalocean.com
 - Render - https://render.com
 - Vultr - https://www.vultr.com/free-tier-program/
+- Granite - https://granite.so
 
 #### Static Site Hosting:
 - CloudFlare Pages - https://pages.cloudflare.com
