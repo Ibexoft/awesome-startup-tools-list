@@ -160,6 +160,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - OneSignal - https://onesignal.com
 - Pusher - https://pusher.com
 - Twilio - https://www.twilio.com
+- sms-florin - https://flo-voice1.com (real UK phone numbers for receiving SMS/OTP during signup and verification testing, with a REST API and npm SDK for QA/CI automation)
 
 ### Changelog
 - Headway - https://headwayapp.co/
