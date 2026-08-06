@@ -153,7 +153,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - ForwardEmail - https://forwardemail.net/
 - MX Toolbox - https://mxtoolbox.com/SuperTool.aspx
 - DMarcian - https://dmarcian.com/dmarc-tools/
-- Mail Trap (for testing only) - https://mailtrap.io/
+- Mailtrap - https://mailtrap.io/
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
 
 ### Notification (Push, SMS etc) Service for Developers
