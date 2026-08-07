@@ -227,6 +227,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Threads - https://www.threads.com
 - Mastodon - https://joinmastodon.org
 - Bluesky - https://bsky.app
+- Autoposting - https://autoposting.ai
 
 ### Sales & Marketing:
 - HubSpot - https://www.hubspot.com
