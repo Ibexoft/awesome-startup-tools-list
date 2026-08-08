@@ -277,6 +277,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
 - Obsidian - https://obsidian.md
+- Backscroll - https://backscroll.xyz (imports and makes searchable your ChatGPT/Claude/Gemini chat history)
 
 ### Journaling:
 - DailyWins - https://dailywins.ibexoft.com
