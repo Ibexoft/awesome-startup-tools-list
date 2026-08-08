@@ -209,6 +209,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Twist - https://twist.com
 
 ### Customer Support/Live Chat:
+- ReviewReply - https://joinreviewreply.com (free AI-generated replies to Google/Yelp/TripAdvisor reviews, no signup)
 - Zendesk Chat (formerly Zopim) - https://www.zopim.com/
 - Olark - https://www.olark.com/
 - Facebook Messenger - https://web.facebook.com/business/products/messenger-for-business
