@@ -199,6 +199,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Google Contacts (can be used as lightweight CRM) - https://contacts.google.com
 - Attio - https://attio.com/
 - Dealboard - https://getdealboard.com
+- Funding Signals - https://fundingsignals.net
 
 ### Team Chat & Communication
 - Slack - https://slack.com
