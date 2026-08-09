@@ -111,6 +111,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### AI-based Code Agents
 - GitHub Copilot - https://github.com/features/copilot
 - Windsurf - https://windsurf.com/plugins
+- Agent Island - https://agent-island.dev
 - Google Gemini Code Assist - https://codeassist.google
 - Qodo - https://www.qodo.ai
 - TabNine - https://www.tabnine.com
