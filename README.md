@@ -5,9 +5,10 @@ This is a curated list of tools for everything from productivity to hosting to d
 >
 > This list receives a high volume of tool recommendations. To keep
 > quality high, submissions are now held to a strict editorial standard.
-> **We only accept tools that are credible, established, and hosted on a
-> custom domain.** GitHub repo links, Netlify/Vercel/platform subdomains,
-> and newly launched tools with no track record are rejected automatically.
+> **We only accept tools that are credible, established, and hosted on a custom domain.
+> New or recently launched tools are generally not accepted until they have demonstrated
+> a sufficient track record of reliable operation, real-world usage, and continued availability.
+> Free trials do not qualify. Tools must offer a permanent free plan or a permanently usable free tier.**
 >
 > The list is also undergoing a quality cleanup — some older entries that
 > no longer meet the bar are being removed.
