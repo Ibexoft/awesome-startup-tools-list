@@ -238,6 +238,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - HootSuite - https://hootsuite.com
 - CrowdFire - https://www.crowdfireapp.com
 - Ubersuggest - https://ubersuggest.org
+- Mentioned (managed Reddit growth for SEO) - https://mentioned.to
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com
 - Tweriod - https://www.tweriod.com
 - My Site Auditor - https://mysiteauditor.com
