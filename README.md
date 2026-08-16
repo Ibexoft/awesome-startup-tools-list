@@ -364,6 +364,7 @@ Good for team projects
 - Video captions - https://subsvideo.com
 - VEED - https://www.veed.io
 - Tavus (AI based) - https://www.tavus.io
+- videos.social (AI based) - https://videos.social/?utm_source=ibexoft-awesome-startup-tools-list&utm_medium=directory&utm_campaign=listing-wave-d
 
 ### Stock Photos/Illustrations/Icons:
 - Unsplash - https://unsplash.com
