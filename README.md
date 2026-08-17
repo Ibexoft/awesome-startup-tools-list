@@ -405,6 +405,7 @@ Good for team projects
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
 - flow-chart.io (AI based) - https://flow-chart.io
+- OmniGIF - https://www.omnigif.com/
 
 ## Security and Privacy
 
