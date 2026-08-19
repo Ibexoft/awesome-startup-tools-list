@@ -282,6 +282,9 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Journaling:
 - DailyWins - https://dailywins.ibexoft.com
 
+### Browser Tab Management:
+- Tabox - https://www.tabox.co
+
 ### Documentation & Collaboration
 - Atlassian Confluence - https://www.atlassian.com/software/confluence
 - Microsoft Loop - https://www.microsoft.com/en-us/microsoft-loop
