@@ -234,6 +234,7 @@ This is a curated list of tools for everything from productivity to hosting to d
   - Marketing - https://www.hubspot.com/products/marketing
   - Sales - https://www.hubspot.com/products/sales
   - Website Grader - https://grader.com
+- AdMapix - https://www.admapix.com/ - AI-native ad intelligence for researching competitor ad creatives and comparing creative patterns; includes 30 lifetime Free credits without a payment method.
 - Buffer App - https://buffer.com
 - HootSuite - https://hootsuite.com
 - CrowdFire - https://www.crowdfireapp.com
