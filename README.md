@@ -201,6 +201,9 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Attio - https://attio.com/
 - Dealboard - https://getdealboard.com
 
+### Automation
+- Zapier - https://zapier.com
+
 ### Team Chat & Communication
 - Slack - https://slack.com
 - Microsoft Teams - https://teams.microsoft.com
