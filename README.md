@@ -188,6 +188,10 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Microsoft Clarity - https://clarity.microsoft.com
 - PostHog - https://posthog.com/
 
+### ERP / Business Management:
+- Odoo - https://www.odoo.com
+- Bitrix24 - https://www.bitrix24.com
+
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
@@ -196,50 +200,16 @@ This is a curated list of tools for everything from productivity to hosting to d
 - HubSpot CRM - https://www.hubspot.com/products/crm
 - Capsule CRM - https://capsulecrm.com
 - Insightly - https://www.insightly.com
-- Bitrix24 (CRM version) - https://www.bitrix24.com/tools/crm/
+- Bitrix24 CRM - https://www.bitrix24.com/tools/crm
 - Google Contacts (can be used as lightweight CRM) - https://contacts.google.com
 - Attio - https://attio.com/
 - Dealboard - https://getdealboard.com
-
-### Automation
-- Zapier - https://zapier.com
-- Make - https://www.make.com
-- IFTTT - https://ifttt.com
-- n8n - https://n8n.io
-
-### Team Chat & Communication
-- Slack - https://slack.com
-- Microsoft Teams - https://teams.microsoft.com
-- Google Chat - https://chat.google.com
-- Mattermost - https://mattermost.com
-- Rocket.Chat - https://rocket.chat
-- Twist - https://twist.com
-
-### Customer Support/Live Chat:
-- Zendesk Chat (formerly Zopim) - https://www.zopim.com/
-- Olark - https://www.olark.com/
-- Facebook Messenger - https://web.facebook.com/business/products/messenger-for-business
-- WhatsApp for Business - https://business.whatsapp.com
-- LiveChat - https://www.livechat.com
-- Tawk.to - https://www.tawk.to
-
-### Social Media
-- Facebook - https://facebook.com
-- X (Twitter) - https://x.com
-- LinkedIn - https://linkedin.com
-- Instagram - https://instagram.com
-- Pinterest - https://www.pinterest.com
-- YouTube - https://youtube.com
-- TikTok - https://www.tiktok.com
-- Threads - https://www.threads.com
-- Mastodon - https://joinmastodon.org
-- Bluesky - https://bsky.app
 
 ### Sales & Marketing:
 - HubSpot - https://www.hubspot.com
   - Marketing - https://www.hubspot.com/products/marketing
   - Sales - https://www.hubspot.com/products/sales
-  - Website Grader - https://grader.com
+  - Website Grader - https://website.grader.com
 - Buffer App - https://buffer.com
 - HootSuite - https://hootsuite.com
 - CrowdFire - https://www.crowdfireapp.com
@@ -264,6 +234,39 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
 - Where Should I Launch? - https://mydentify.com/tools/startup-directory-finder
+
+### Automation
+- Zapier - https://zapier.com
+- Make - https://www.make.com
+- IFTTT - https://ifttt.com
+- n8n - https://n8n.io
+
+### Team Chat & Communication
+- Slack - https://slack.com
+- Microsoft Teams - https://teams.microsoft.com
+- Google Chat - https://chat.google.com
+- Mattermost - https://mattermost.com
+- Rocket.Chat - https://rocket.chat
+- Twist - https://twist.com
+
+### Customer Support/Live Chat:
+- Olark - https://www.olark.com/
+- Facebook Messenger - https://web.facebook.com/business/products/messenger-for-business
+- WhatsApp for Business - https://business.whatsapp.com
+- LiveChat - https://www.livechat.com
+- Tawk.to - https://www.tawk.to
+
+### Social Media
+- Facebook - https://facebook.com
+- X (Twitter) - https://x.com
+- LinkedIn - https://linkedin.com
+- Instagram - https://instagram.com
+- Pinterest - https://www.pinterest.com
+- YouTube - https://youtube.com
+- TikTok - https://www.tiktok.com
+- Threads - https://www.threads.com
+- Mastodon - https://joinmastodon.org
+- Bluesky - https://bsky.app
 
 ### Web Experimentation:
 - VWO - https://vwo.com
