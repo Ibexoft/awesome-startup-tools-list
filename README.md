@@ -366,6 +366,7 @@ Good for team projects
 ## Graphics, Design, and Media
 
 ### Video making:
+- Google Vids - https://workspace.google.com/products/vids
 - Biteable - https://biteable.com
 - Powtoon - https://www.powtoon.com
 - Animoto - https://animoto.com
