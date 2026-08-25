@@ -193,6 +193,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Bitrix24 - https://www.bitrix24.com
 
 ### Accounting & Finance
+- Toolkit Labs Invoice - https://ytinumoc.github.io/toolkitlabs-invoice/ — free browser invoice/receipt PDF; [commercial license EUR 249](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-startup-tools-v1)
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
 
