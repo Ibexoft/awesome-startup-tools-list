@@ -136,6 +136,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - CryptoMator - https://cryptomator.org/
 - WinScp - https://winscp.net
 - Putty - https://www.putty.org/
+- A Box of Tools (browser file tools, nothing uploaded) - https://abox.tools/
 
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
