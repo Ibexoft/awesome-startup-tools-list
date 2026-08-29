@@ -133,6 +133,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - FileZilla - https://filezilla-project.org/
 - FreeFileSync - https://freefilesync.org/
 - CryptoMator - https://cryptomator.org/
+- Nutilz - https://nutilz.com
 - WinScp - https://winscp.net
 - Putty - https://www.putty.org/
 
