@@ -293,6 +293,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 
 ### Documentation & Collaboration
 - Atlassian Confluence - https://www.atlassian.com/software/confluence
+- BrandQuill - https://brandquill.app/?utm_source=github&utm_medium=directory&utm_campaign=awesome_startup_tools
 - Microsoft Loop - https://www.microsoft.com/en-us/microsoft-loop
 - Microsoft Word - https://www.microsoft.com/en-us/microsoft-365/word (part of MS Office - https://www.office.com)
 - Google Docs - https://docs.google.com/document/u/0/
