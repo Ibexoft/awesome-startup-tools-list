@@ -195,6 +195,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- Month-End Close - https://month-end-close.com/commentary-test/
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
