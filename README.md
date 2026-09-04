@@ -117,6 +117,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Qodo - https://www.qodo.ai
 - TabNine - https://www.tabnine.com
 - Cline - https://cline.bot
+- Superagent (macOS desktop app giving Claude Code and Codex a real browser, iOS Simulator, and phone companion app) - https://github.com/pungme/superagent-desktop
 
 ### Development Playgrounds
 - JSFiddle - https://jsfiddle.net
