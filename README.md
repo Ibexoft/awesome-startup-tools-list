@@ -288,6 +288,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
 - Obsidian - https://obsidian.md
+- TaskNote - https://www.task-note.com
 
 ### Journaling:
 - DailyWins - https://dailywins.ibexoft.com
