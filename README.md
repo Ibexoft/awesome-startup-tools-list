@@ -194,6 +194,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Bitrix24 - https://www.bitrix24.com
 
 ### Accounting & Finance
+- InvoiceFlowAI - https://www.orz.md/invoice-downloader/
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
 
