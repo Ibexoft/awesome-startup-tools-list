@@ -196,6 +196,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- Vecty Free Tools (franchise tax for all 50 states, burn rate and runway, tax deadline calendar, entity type and funding structure advisors; no signup) - https://vecty.ai/tools/
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
