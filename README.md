@@ -236,6 +236,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
 - Where Should I Launch? - https://mydentify.com/tools/startup-directory-finder
+- SaaS Launch Directories Explorer - https://themerchcog.github.io/saas-launch-directories-2026/
 
 ### Automation
 - Zapier - https://zapier.com
