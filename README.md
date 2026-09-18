@@ -196,6 +196,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- BusinessOS - https://businessos.biz (Encrypted, offline-first invoicing and accounting. Voice-to-invoice in 3 seconds, WhatsApp send, 40+ built-in calculators. Multi-region tax: VAT, GST, ZATCA, sales tax. Free during limited early access.)
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
