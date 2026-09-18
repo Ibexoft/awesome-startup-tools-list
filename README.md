@@ -207,6 +207,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Dealboard - https://getdealboard.com
 
 ### Sales & Marketing:
+- [marketing-engineer-playbook](https://github.com/axelfreeman/marketing-engineer-playbook) — open method for building a marketing function from scratch: offer, distribution, measurement, kill rules; with a free [kill-rule calculator](https://axelfreeman.github.io/marketing-mindset/tools/kill-rule-calculator.html) and [test-size planner](https://axelfreeman.github.io/marketing-mindset/tools/email-test-planner.html)
 - HubSpot - https://www.hubspot.com
   - Marketing - https://www.hubspot.com/products/marketing
   - Sales - https://www.hubspot.com/products/sales
