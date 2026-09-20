@@ -376,6 +376,7 @@ Good for team projects
 - Video captions - https://subsvideo.com
 - VEED - https://www.veed.io
 - Tavus (AI based) - https://www.tavus.io
+- shortshort (long video to vertical shorts) - https://www.shortshort.io
 
 ### Stock Photos/Illustrations/Icons:
 - Unsplash - https://unsplash.com
