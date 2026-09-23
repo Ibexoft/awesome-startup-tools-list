@@ -289,6 +289,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
 - Obsidian - https://obsidian.md
+- Screenpipe - https://screenpipe.com (Search locally captured screen text and audio; free plan for one device and recent history. [Current plans](https://screenpipe.com/pricing).)
 
 ### Journaling:
 - DailyWins - https://dailywins.ibexoft.com
