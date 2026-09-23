@@ -183,6 +183,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Prestashop - https://www.prestashop.com
 
 ## Business, Marketing, Sales, Finance
+- [ReelWorkshop](https://reelworkshop.com) - Remix your clips into short-form compilations for Reels, Shorts, TikTok, and Facebook.
 
 ### Analytics:
 - Google Analytics - https://analytics.google.com
