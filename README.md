@@ -212,6 +212,7 @@ This is a curated list of tools for everything from productivity to hosting to d
   - Sales - https://www.hubspot.com/products/sales
   - Website Grader - https://website.grader.com
 - Buffer App - https://buffer.com
+- SocialRoster - https://socialroster.dev - social media scheduler for TikTok, Instagram Reels, YouTube Shorts, and Facebook with bulk upload and a calendar
 - HootSuite - https://hootsuite.com
 - SocialEcho - https://www.socialecho.net/
 - CrowdFire - https://www.crowdfireapp.com
