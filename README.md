@@ -386,6 +386,7 @@ Good for team projects
 - Unsplash - https://unsplash.com
 - Pexels - https://www.pexels.com
 - Shopify Burst - https://burst.shopify.com
+- BudgetPixel (AI-generated stock images, CC BY 4.0) - https://budgetpixel.com/images
 - Place Image (Stock photos generator) - https://placeimg.com
 - Undraw - https://undraw.co/illustrations
 - DrawKit - https://www.drawkit.io
