@@ -176,6 +176,9 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Drupal - https://www.drupal.com
 - Joomla - https://www.joomla.org
 
+### Shipping & Logistics:
+- AQX Logistics - https://aqxlogistics.com
+
 ### Ecommerce CMS:
 - WooCommerce for WordPress - https://www.woocommerce.com
 - Magento - https://www.magento.com
