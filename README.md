@@ -417,6 +417,7 @@ Good for team projects
 - Stamp creator - https://www.speedystamps.co.uk/
 - Method Draw (SVG Editor) - https://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
+- FileOnTap HEIC to PNG - https://fileontap.com/heic-to-png/ - Free browser-based HEIC to PNG converter, files never uploaded.
 - Image Compression and Optimization API - https://www.abstractapi.com/image-processing-optimization-api
 - Figma - https://www.figma.com/
 - BulkPicTools - https://bulkpictools.com/
