@@ -162,6 +162,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - DMarcian - https://dmarcian.com/dmarc-tools/
 - Mailtrap - https://mailtrap.io/
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
+- Stripo - https://stripo.email
 
 ### Notification (Push, SMS etc) Service for Developers
 - OneSignal - https://onesignal.com
