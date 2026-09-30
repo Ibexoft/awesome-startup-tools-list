@@ -193,6 +193,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Amplitude - https://amplitude.com/
 - Microsoft Clarity - https://clarity.microsoft.com
 - PostHog - https://posthog.com/
+- Leakly - https://leakly.ai/
 
 ### ERP / Business Management:
 - Odoo - https://www.odoo.com
