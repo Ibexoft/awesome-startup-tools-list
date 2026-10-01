@@ -306,6 +306,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Google Docs - https://docs.google.com/document/u/0/
 - Microsoft Excel - https://www.microsoft.com/en-us/microsoft-365/excel (part of MS Office - https://www.office.com)
 - Google Sheets - https://docs.google.com/spreadsheets/u/0/
+- ExcelTool - https://exceltool.io/ - Free online Excel tools to view, edit, convert, and clean spreadsheets in the browser (no signup).
 
 ### Video & Screen Recording
 - Atlassian Loom - https://www.loom.com
