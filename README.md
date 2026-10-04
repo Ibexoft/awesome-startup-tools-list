@@ -211,6 +211,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Google Contacts (can be used as lightweight CRM) - https://contacts.google.com
 - Attio - https://attio.com/
 - Dealboard - https://getdealboard.com
+- Connections (free contact book and follow-up CRM) - https://connections.icu/personal-crm
 
 ### Sales & Marketing:
 - HubSpot - https://www.hubspot.com
