@@ -163,6 +163,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Mailtrap - https://mailtrap.io/
 - Email Validation API - https://www.abstractapi.com/email-verification-validation-api
 - Stripo - https://stripo.email
+- EpicMail - https://epicmail.org/?utm_source=ibexoft&utm_medium=referral&utm_campaign=epicmail_multi_inbox_2026&utm_content=startup_tools_list - A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. Web and Android; valid card required before adding email accounts. The Adventurer plan remains $0 unless the user upgrades.
 
 ### Notification (Push, SMS etc) Service for Developers
 - OneSignal - https://onesignal.com
