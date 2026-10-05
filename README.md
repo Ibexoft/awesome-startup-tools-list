@@ -414,6 +414,7 @@ Good for team projects
 - Photoshop Express - https://www.photoshop.com/tools
 - Pixlr - https://pixlr.com/
 - Fotor - https://www.fotor.com/
+- PicCollages - https://piccollages.com/
 - Create GIF - https://gifbrewery.com/
 - Stamp creator - https://www.speedystamps.co.uk/
 - Method Draw (SVG Editor) - https://editor.method.ac
