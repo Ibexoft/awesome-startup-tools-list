@@ -421,6 +421,7 @@ Good for team projects
 - Image Compression and Optimization API - https://www.abstractapi.com/image-processing-optimization-api
 - Figma - https://www.figma.com/
 - BulkPicTools - https://bulkpictools.com/
+- SnappyKit - https://snappykit.site (40+ free browser-based image tools: compression, 40+ conversion pairs incl. HEIC, resize, crop, filters, EXIF cleanup, batch ZIP — fully client-side, no signup)
 - EnigmaEasel - https://enigmaeasel.com/
 - flow-chart.io (AI based) - https://flow-chart.io
 
