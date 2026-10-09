@@ -219,6 +219,7 @@ This is a curated list of tools for everything from productivity to hosting to d
   - Website Grader - https://website.grader.com
 - Buffer App - https://buffer.com
 - HootSuite - https://hootsuite.com
+- PinGroupie - https://pingroupie.com
 - SocialEcho - https://www.socialecho.net/
 - CrowdFire - https://www.crowdfireapp.com
 - Ubersuggest - https://ubersuggest.org
