@@ -349,6 +349,7 @@ Good for team projects
 - Paymo - https://www.paymoapp.com
 - GoodDay - https://www.goodday.work
 - Taskade - https://taskade.com
+- Tale (open-source workspace for teams and AI agents) - https://tale.dev
 
 ### Calendar
 - Google Calendar - https://calendar.google.com
