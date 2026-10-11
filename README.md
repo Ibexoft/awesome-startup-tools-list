@@ -157,6 +157,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - AWS SES - https://aws.amazon.com/ses/
 - Sweego - https://www.sweego.io/
 - Elastic Email - https://elasticemail.com/
+- day3 - https://day3.app/
 - ForwardEmail - https://forwardemail.net/
 - MX Toolbox - https://mxtoolbox.com/SuperTool.aspx
 - DMarcian - https://dmarcian.com/dmarc-tools/
