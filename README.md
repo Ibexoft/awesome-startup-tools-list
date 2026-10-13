@@ -393,6 +393,7 @@ Good for team projects
 - Excalidraw - https://excalidraw.com
 - Icons8 - https://icons8.com
 - Favicon Generator - https://favicon.io
+- APPLORE App Icon Generator - https://applore.app/app-icon-generator
 
 ### Online Logo:
 - Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
