@@ -395,6 +395,7 @@ Good for team projects
 - Excalidraw - https://excalidraw.com
 - Icons8 - https://icons8.com
 - Favicon Generator - https://favicon.io
+- FaviconDL (extract favicons from any site + free no-key API) - https://favicondl.com
 - APPLORE App Icon Generator - https://applore.app/app-icon-generator
 
 ### Online Logo:
