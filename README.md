@@ -426,6 +426,7 @@ Good for team projects
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
 - flow-chart.io (AI based) - https://flow-chart.io
+- PixVibe (AI based) - https://pixvibe.ai
 
 ## Security and Privacy
 
