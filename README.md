@@ -141,6 +141,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
 - Code Climate - https://codeclimate.com
+- Latchkey (free for open source) - https://latchkey.dev/open-source
 
 ### Data
 - Estuary - https://estuary.dev/
