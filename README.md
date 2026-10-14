@@ -336,6 +336,7 @@ Good for personal tasks
 - Meister Task - https://meistertask.com
 - Google Tasks - https://tasks.google.com
 - Memorigi - https://memorigi.app
+- Online Lists Maker (https://onlinelistsmaker.com/) - Free online list maker, create and share lists instantly with no signup
 
 Good for team projects
 - Jira - https://www.atlassian.com/software/jira
