@@ -194,6 +194,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Amplitude - https://amplitude.com/
 - Microsoft Clarity - https://clarity.microsoft.com
 - PostHog - https://posthog.com/
+- Vaneform - https://vaneform.com/ (free website traffic & SEO lookup for competitor research)
 
 ### ERP / Business Management:
 - Odoo - https://www.odoo.com
