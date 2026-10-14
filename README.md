@@ -297,6 +297,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
 - Obsidian - https://obsidian.md
+- Supasend - https://apps.apple.com/us/app/quick-notes-supasend/id6504688166
 
 ### Journaling:
 - DailyWins - https://dailywins.ibexoft.com
