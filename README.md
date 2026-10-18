@@ -426,6 +426,7 @@ Good for team projects
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
 - flow-chart.io (AI based) - https://flow-chart.io
+- ToolKnit Color Picker - https://toolknit.com/tools/color-picker.html
 
 ## Security and Privacy
 
