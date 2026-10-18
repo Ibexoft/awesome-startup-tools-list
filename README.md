@@ -222,6 +222,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - HootSuite - https://hootsuite.com
 - PinGroupie - https://pingroupie.com
 - SocialEcho - https://www.socialecho.net/
+- JuzPost - https://www.juzpost.com
 - CrowdFire - https://www.crowdfireapp.com
 - Ubersuggest - https://ubersuggest.org
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com
