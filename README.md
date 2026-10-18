@@ -250,6 +250,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Make - https://www.make.com
 - IFTTT - https://ifttt.com
 - n8n - https://n8n.io
+- Social SDK - https://github.com/opencoredev/social-sdk
 
 ### Team Chat & Communication
 - Slack - https://slack.com
