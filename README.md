@@ -71,6 +71,8 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Web Page Performance Test - https://www.webpagetest.org/
 - GTMetrix	https://gtmetrix.com/
 
+- WatchCron - https://watchcron.com - Cron job monitoring with heartbeat pings and failure alerts. Free plan available.
+
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
 - Web Hose - https://webhose.io/scraping-tools
@@ -83,6 +85,8 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
 - Scraping API - https://www.abstractapi.com/web-scraping-api
 - Browserbase - https://www.browserbase.com/
+
+- ScreenshotRun - https://screenshotrun.com - Screenshot API for capturing website screenshots. Full page, custom viewport, batch capture.
 
 ### Development IDEs/Editors (including AI-based)
 - Microsoft Visual Studio Code (VSCode) - https://code.visualstudio.com
