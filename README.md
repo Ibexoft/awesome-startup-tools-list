@@ -66,6 +66,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 
 ### Site Performance Tools:
 - Page Gym - https://pagegym.com
+- exit1.dev - https://exit1.dev/
 - Pingdom https://tools.pingdom.com/fpt	pingdom.com - Website monitor
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
 - Web Page Performance Test - https://www.webpagetest.org/
