@@ -27,6 +27,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Mistral Le Chat - https://chat.mistral.ai
 - Perplexity - https://www.perplexity.ai
 
+- [British Accent Generator](https://britishaccent.pro/) - AI British accent text-to-speech with 262 UK voices for creators and startups.
 ### Git Repos
 - GitHub - https://github.com
 - BitBucket - https://bitbucket.com
