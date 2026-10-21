@@ -202,6 +202,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- Mode VC Founder Calculators (SAFE, 83(b)/QSBS, Waterfall, Runway) & VC Atlas - https://modevc.com/tools/
 
 ### CRM:
 - HubSpot CRM - https://www.hubspot.com/products/crm
