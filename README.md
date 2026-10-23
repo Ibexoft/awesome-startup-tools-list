@@ -55,6 +55,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 
 ### Email Hosting:
 - Lark Email - https://www.larksuite.com/en_us/product/email
+- Aster Mail - https://astermail.org
 
 ### DNS, CDN, & SSL:
 - CloudFlare - https://www.cloudflare.com/
