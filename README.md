@@ -245,6 +245,9 @@ This is a curated list of tools for everything from productivity to hosting to d
 - AnswerThePublic - https://answerthepublic.com
 - Where Should I Launch? - https://mydentify.com/tools/startup-directory-finder
 
+- LaunchAssetKit - https://launchassetkit.com
+  - Free app pricing calculator, ASO keyword checker, app store screenshot size guides and a launch checklist for indie app makers.
+
 ### Automation
 - Zapier - https://zapier.com
 - Make - https://www.make.com
