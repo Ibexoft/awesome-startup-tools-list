@@ -109,6 +109,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - v0 by Vercel (AI based) - https://v0.dev
 - Firebase Studio (AI based) by Google - https://firebase.studio
 - Google AI Studio - https://aistudio.google.com
+- doany (AI based) - https://doany.ai
 
 ### AI-based Code Agents
 - GitHub Copilot - https://github.com/features/copilot
