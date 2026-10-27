@@ -265,6 +265,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - WhatsApp for Business - https://business.whatsapp.com
 - LiveChat - https://www.livechat.com
 - Tawk.to - https://www.tawk.to
+- WishKit - https://www.wishkit.io
 
 ### Social Media
 - Facebook - https://facebook.com
