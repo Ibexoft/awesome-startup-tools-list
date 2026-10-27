@@ -52,6 +52,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Amazon S3 - https://aws.amazon.com/s3/
 - Surge - https://surge.sh
 - Kinsta - https://kinsta.com/static-site-hosting
+- Benchlight - https://benchlight.dev
 
 ### Email Hosting:
 - Lark Email - https://www.larksuite.com/en_us/product/email
