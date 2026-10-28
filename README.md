@@ -145,6 +145,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Data
 - Estuary - https://estuary.dev/
 - MotherDuck - https://motherduck.com/
+- Nhost - https://nhost.io/
 - Supabase - https://supabase.com/
 
 ### Email Services
