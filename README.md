@@ -195,6 +195,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Amplitude - https://amplitude.com/
 - Microsoft Clarity - https://clarity.microsoft.com
 - PostHog - https://posthog.com/
+- igtrackr (free Instagram follower tracker & analytics) - https://igtrackr.com/
 
 ### ERP / Business Management:
 - Odoo - https://www.odoo.com
