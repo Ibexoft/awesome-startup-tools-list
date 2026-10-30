@@ -245,6 +245,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
 - Where Should I Launch? - https://mydentify.com/tools/startup-directory-finder
+- [Free Backlink Sources](https://github.com/sherotree/free-backlink-sources) - Curated free/freemium product launch directories and backlink sources (75+), sorted by quality tier and DR. Interactive directory: https://www.uwarp.design/launch
 
 ### Automation
 - Zapier - https://zapier.com
