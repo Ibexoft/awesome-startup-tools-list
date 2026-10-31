@@ -1,0 +1,42 @@
+name: PR guidelines review
+
+# Reviews contributor pull requests against CONTRIBUTING.md and posts a
+# recommendation comment for the maintainer. It never closes, merges,
+# labels, or approves a pull request.
+#
+# pull_request_target is used so the workflow can comment on pull requests
+# opened from forks. It runs the workflow and script from the base branch;
+# the pull request's code is never checked out or executed. The pull
+# request's README.md is only read through the API as data.
+
+on:
+  pull_request_target:
+    types: [opened, reopened, synchronize, ready_for_review]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: pr-review-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  review:
+    # Never review pull requests opened by the maintainer, and skip drafts.
+    if: github.event.pull_request.user.login != 'mjawaids' && github.event.pull_request.draft == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out base branch (trusted code only)
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Review pull request against CONTRIBUTING.md
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { run } = require('./.github/scripts/review-pr.js');
+            await run({ github, context, core });

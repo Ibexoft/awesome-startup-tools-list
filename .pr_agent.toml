@@ -1,0 +1,8 @@
+# Qodo configuration: disable automatic Qodo reviews in this repository.
+# Pull requests are reviewed by .github/workflows/pr-review.yml instead.
+# See https://docs.qodo.ai/configuration/configuration-and-command-reference
+
+[github_app]
+pr_commands = []
+handle_push_trigger = false
+push_commands = []
