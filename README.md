@@ -1,17 +1,9 @@
 # Awesome list of FREE tools Startups should be using
 This is a curated list of tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e., either app, SaaS, online service, or downloadable software. Most of them are either free or have a free plan that is enough for startups, indie hackers, entrepreneurs, individuals, or anyone to use. Feel free to suggest and contribute in this list. 
 
-> **📢 For Contributors — Please Read Before Submitting a PR**
->
-> This list receives a high volume of tool recommendations. To keep
-> quality high, submissions are now held to a strict editorial standard.
-> **We only accept tools that are credible, established, and hosted on a custom domain.
-> New or recently launched tools are generally not accepted until they have demonstrated
-> a sufficient track record of reliable operation, real-world usage, and continued availability.
-> Free trials do not qualify. Tools must offer a permanent free plan or a permanently usable free tier.**
->
-> The list is also undergoing a quality cleanup — some older entries that
-> no longer meet the bar are being removed.
+> **For contributors:** this list accepts only credible, established tools hosted on their own custom domain that offer a permanent free plan or free tier. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Pull requests that do not meet the criteria are closed.
+
+> **Featured listings:** put your product in front of founders and builders using this list. Limited to 5 at any time, labelled Sponsored, and kept separate from the curated list. [Get featured](SPONSORS.md)
 
 ## Tech
 
@@ -301,7 +293,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Obsidian - https://obsidian.md
 
 ### Journaling:
-- DailyWins - https://dailywins.ibexoft.com
+- DailyWins - https://dailywins.ibexoft.com (by Ibexoft, maintainer of this list)
 
 ### Documentation & Collaboration
 - Atlassian Confluence - https://www.atlassian.com/software/confluence
