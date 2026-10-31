@@ -210,7 +210,6 @@ This is a curated list of tools for everything from productivity to hosting to d
 - My Site Auditor - https://mysiteauditor.com
 - WooBox - https://woobox.com
 - BuzzSumo - https://buzzsumo.com
-- Static html app - https://statichtmlapp.com
 - Ritetag - https://ritetag.com
 - Tagboard - https://tagboard.com
 - Shortstack - https://www.shortstack.com
@@ -222,6 +221,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
 - Where Should I Launch? - https://mydentify.com/tools/startup-directory-finder
+- Optux AI - https://optux.ai
 
 ### Automation
 - Zapier - https://zapier.com
@@ -256,9 +256,6 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Threads - https://www.threads.com
 - Mastodon - https://joinmastodon.org
 - Bluesky - https://bsky.app
-
-### Web Experimentation
-- Optux AI - https://optux.ai
 
 ### Blogging, Writing
 - Substack - https://substack.com
