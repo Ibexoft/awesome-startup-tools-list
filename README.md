@@ -21,7 +21,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 
 ### Git Repos
 - GitHub - https://github.com
-- Bitbucket - https://bitbucket.com
+- Bitbucket - https://bitbucket.org
 - GitLab - https://gitlab.com
 - Azure Repos - https://azure.microsoft.com/en-us/products/devops/repos
 - Amazon AWS CodeCommit - https://aws.amazon.com/codecommit/
@@ -43,7 +43,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Vercel - https://vercel.com
 - Amazon S3 - https://aws.amazon.com/s3/
 - Surge - https://surge.sh
-- Kinsta - https://kinsta.com/static-site-hosting
+- Sevalla - https://sevalla.com/static-site-hosting/
 
 ### Email Hosting
 - Lark Email - https://www.larksuite.com/en_us/product/email
@@ -59,17 +59,17 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Site Performance Tools
 - Page Gym - https://pagegym.com
 - Pingdom https://tools.pingdom.com/fpt	pingdom.com - Website monitor
-- Google Page Insight	https://developers.google.com/speed/pagespeed/insights
+- Google Page Insight	https://pagespeed.web.dev
 - Web Page Performance Test - https://www.webpagetest.org/
 - GTMetrix	https://gtmetrix.com/
 
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
-- Web Hose - https://webhose.io/scraping-tools
+- Webz.io - https://webz.io
 - Dexi.io - https://dexi.io/
 - Parse Hub - https://www.parsehub.com/
 - 80Legs - https://80legs.com/
-- Scraping Hub - https://scrapinghub.com/
+- Zyte Scrapy Cloud - https://www.zyte.com/pricing/?service=scrapy-cloud
 - Scrapy - https://scrapy.org/
 - Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd
 - Web Scraper - https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn
@@ -82,15 +82,11 @@ This is a curated list of tools for everything from productivity to hosting to d
 - JetBrains IDEs - https://www.jetbrains.com/ides
   - WebStorm - https://www.jetbrains.com/webstorm
 - Sublime Text - https://www.sublimetext.com
-- NetBeans - https://netbeans.org
+- NetBeans - https://netbeans.apache.org
 - Eclipse - https://eclipse.org
-- Windsurf (AI-based) - https://codeium.com/windsurf
 
 ### Online Development Platforms/IDEs
 - VSCode for Web - https://vscode.dev
-- CodeAnywhere - https://codeanywhere.com
-- Cloud9 - https://c9.io
-- Koding - https://koding.com
 - Humanitec - https://humanitec.com
 
 ### AI-based Online Development Platforms/IDEs
@@ -98,16 +94,13 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Bolt.new (AI baseed) - https://bolt.new
 - Lovable (AI based) - https://lovable.dev
 - Replit (AI based) - https://replit.com
-- v0 by Vercel (AI based) - https://v0.dev
-- Firebase Studio (AI based) by Google - https://firebase.studio
+- v0 by Vercel (AI based) - https://v0.app
 - Google AI Studio - https://aistudio.google.com
 
 ### AI-based Code Agents
 - GitHub Copilot - https://github.com/features/copilot
-- Windsurf - https://windsurf.com/plugins
-- Google Gemini Code Assist - https://codeassist.google
+- Devin Desktop (formerly Windsurf) - https://devin.ai/desktop
 - Qodo - https://www.qodo.ai
-- TabNine - https://www.tabnine.com
 - Cline - https://cline.bot
 
 ### Development Playgrounds
@@ -128,7 +121,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - FreeFileSync - https://freefilesync.org/
 - CryptoMator - https://cryptomator.org/
 - WinScp - https://winscp.net
-- Putty - https://www.putty.org/
+- PuTTY - https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
@@ -167,12 +160,11 @@ This is a curated list of tools for everything from productivity to hosting to d
 
 ### Content Management Systems (CMS)
 - WordPress - https://www.wordpress.org
-- Drupal - https://www.drupal.com
+- Drupal - https://www.drupal.org
 - Joomla - https://www.joomla.org
 
 ### Ecommerce CMS
 - WooCommerce for WordPress - https://www.woocommerce.com
-- Magento - https://www.magento.com
 - OpenCart - https://www.opencart.com
 - Prestashop - https://www.prestashop.com
 
@@ -182,7 +174,6 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Google Analytics - https://analytics.google.com
 - New Relic https://newrelic.com/
 - Inspectlet	https://www.inspectlet.com/plans
-- Zoom Analytics https://zoomanalytics.co/
 - LiveSession - https://livesession.io/
 - Amplitude - https://amplitude.com/
 - Microsoft Clarity - https://clarity.microsoft.com
@@ -215,19 +206,12 @@ This is a curated list of tools for everything from productivity to hosting to d
 - HootSuite - https://hootsuite.com
 - PinGroupie - https://pingroupie.com
 - SocialEcho - https://www.socialecho.net/
-- CrowdFire - https://www.crowdfireapp.com
 - Ubersuggest - https://ubersuggest.org
-- Visual Website Optimizer - https://visualwebsiteoptimizer.com
-- Tweriod - https://www.tweriod.com
 - My Site Auditor - https://mysiteauditor.com
 - WooBox - https://woobox.com
-- Add Shoppers - https://addshoppers.com
 - BuzzSumo - https://buzzsumo.com
-- Static html app - https://statichtmlapp.com
-- Hashtagify - https://hashtagify.me
 - Ritetag - https://ritetag.com
 - Tagboard - https://tagboard.com
-- Trendsmap - https://trendsmap.com
 - Shortstack - https://www.shortstack.com
 - Post Planner - https://www.postplanner.com
 - Carousel Hero - https://carouselhero.com
@@ -237,6 +221,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Vidclue - https://vidclue.com
 - AnswerThePublic - https://answerthepublic.com
 - Where Should I Launch? - https://mydentify.com/tools/startup-directory-finder
+- Optux AI - https://optux.ai
 
 ### Automation
 - Zapier - https://zapier.com
@@ -271,11 +256,6 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Threads - https://www.threads.com
 - Mastodon - https://joinmastodon.org
 - Bluesky - https://bsky.app
-
-### Web Experimentation
-- VWO - https://vwo.com
-- OptimalUX - https://optimalux.com
-- Upflowy - https://www.upflowy.com
 
 ### Blogging, Writing
 - Substack - https://substack.com
@@ -333,7 +313,7 @@ Good for personal tasks
 Good for team projects
 - Jira - https://www.atlassian.com/software/jira
 - Asana - https://asana.com
-- GitHub Projects - https://github.com/projects
+- GitHub Projects - https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
 - Trello - https://trello.com
 - Airtable - https://airtable.com
 - Teamwork - https://teamwork.com
@@ -374,7 +354,6 @@ Good for team projects
 - Powtoon - https://www.powtoon.com
 - Animoto - https://animoto.com
 - Openshot - https://www.openshot.org
-- Video captions - https://subsvideo.com
 - VEED - https://www.veed.io
 - Tavus (AI based) - https://www.tavus.io
 
@@ -382,9 +361,7 @@ Good for team projects
 - Unsplash - https://unsplash.com
 - Pexels - https://www.pexels.com
 - Shopify Burst - https://burst.shopify.com
-- Place Image (Stock photos generator) - https://placeimg.com
 - Undraw - https://undraw.co/illustrations
-- DrawKit - https://www.drawkit.io
 - Excalidraw - https://excalidraw.com
 - Icons8 - https://icons8.com
 - Favicon Generator - https://favicon.io
@@ -392,10 +369,8 @@ Good for team projects
 
 ### Online Logo
 - Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
-- Logo Joy - https://logojoy.com
-- Logaster - https://www.logaster.com
+- Looka - https://looka.com
 - Cool Text - https://cooltext.com
-- Online Logo Maker 24 - https://onlinelogomaker24.com
 - Free Logo Services - https://freelogoservices.com
 - Graphic Springs - https://graphicsprings.com
 - Design Mantic - https://designmantic.com
@@ -410,7 +385,6 @@ Good for team projects
 - Photoshop Express - https://www.photoshop.com/tools
 - Pixlr - https://pixlr.com/
 - Fotor - https://www.fotor.com/
-- Create GIF - https://gifbrewery.com/
 - Stamp creator - https://www.speedystamps.co.uk/
 - Method Draw (SVG Editor) - https://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
