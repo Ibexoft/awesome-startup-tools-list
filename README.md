@@ -1,4 +1,4 @@
-# Awesome list of FREE tools Startups should be using
+# Awesome list of FREE tools Startups should be using [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This is a curated list of tools for everything from productivity to hosting to development tools to designing. These tools are all digital i.e., either app, SaaS, online service, or downloadable software. Most of them are either free or have a free plan that is enough for startups, indie hackers, entrepreneurs, individuals, or anyone to use. Feel free to suggest and contribute in this list. 
 
 > **For contributors:** this list accepts only credible, established tools hosted on their own custom domain that offer a permanent free plan or free tier. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Pull requests that do not meet the criteria are closed.
@@ -21,12 +21,12 @@ This is a curated list of tools for everything from productivity to hosting to d
 
 ### Git Repos
 - GitHub - https://github.com
-- BitBucket - https://bitbucket.com
+- Bitbucket - https://bitbucket.com
 - GitLab - https://gitlab.com
 - Azure Repos - https://azure.microsoft.com/en-us/products/devops/repos
 - Amazon AWS CodeCommit - https://aws.amazon.com/codecommit/
 
-### Cloud and Traditional Hosting:
+### Cloud and Traditional Hosting
 - Amazon AWS - https://aws.amazon.com
 - Microsoft Azure - https://azure.microsoft.com
 - Google Cloud - https://cloud.google.com
@@ -34,9 +34,9 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Render - https://render.com
 - Vultr - https://www.vultr.com/free-tier-program/
 
-#### Static Site Hosting:
-- CloudFlare Pages - https://pages.cloudflare.com
-- CloudFlare Workers - https://workers.cloudflare.com
+#### Static Site Hosting
+- Cloudflare Pages - https://pages.cloudflare.com
+- Cloudflare Workers - https://workers.cloudflare.com
 - GitHub pages - https://pages.github.com
 - Google FireBase - https://firebase.google.com/products/hosting
 - Netlify - https://www.netlify.com
@@ -45,18 +45,18 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Surge - https://surge.sh
 - Kinsta - https://kinsta.com/static-site-hosting
 
-### Email Hosting:
+### Email Hosting
 - Lark Email - https://www.larksuite.com/en_us/product/email
 
-### DNS, CDN, & SSL:
-- CloudFlare - https://www.cloudflare.com/
+### DNS, CDN, & SSL
+- Cloudflare - https://www.cloudflare.com/
 - ClouDNS - https://cloudns.net/
 - Let's Encrypt - https://letsencrypt.org/
 
-### Maps & Geolocation:
+### Maps & Geolocation
 - MapAtlas - https://mapatlas.eu
 
-### Site Performance Tools:
+### Site Performance Tools
 - Page Gym - https://pagegym.com
 - Pingdom https://tools.pingdom.com/fpt	pingdom.com - Website monitor
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
@@ -123,7 +123,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Laravel Herd - https://herd.laravel.com
 - Local (for WordPress) - https://localwp.com
 
-### Utilities:
+### Utilities
 - FileZilla - https://filezilla-project.org/
 - FreeFileSync - https://freefilesync.org/
 - CryptoMator - https://cryptomator.org/
@@ -165,12 +165,12 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Changelog
 - Headway - https://headwayapp.co/
 
-### Content Management Systems (CMS):
+### Content Management Systems (CMS)
 - WordPress - https://www.wordpress.org
 - Drupal - https://www.drupal.com
 - Joomla - https://www.joomla.org
 
-### Ecommerce CMS:
+### Ecommerce CMS
 - WooCommerce for WordPress - https://www.woocommerce.com
 - Magento - https://www.magento.com
 - OpenCart - https://www.opencart.com
@@ -178,7 +178,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 
 ## Business, Marketing, Sales, Finance
 
-### Analytics:
+### Analytics
 - Google Analytics - https://analytics.google.com
 - New Relic https://newrelic.com/
 - Inspectlet	https://www.inspectlet.com/plans
@@ -188,7 +188,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Microsoft Clarity - https://clarity.microsoft.com
 - PostHog - https://posthog.com/
 
-### ERP / Business Management:
+### ERP / Business Management
 - Odoo - https://www.odoo.com
 - Bitrix24 - https://www.bitrix24.com
 
@@ -196,7 +196,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
 
-### CRM:
+### CRM
 - HubSpot CRM - https://www.hubspot.com/products/crm
 - Capsule CRM - https://capsulecrm.com
 - Insightly - https://www.insightly.com
@@ -206,7 +206,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Dealboard - https://getdealboard.com
 - EventSync - https://eventsync.io
 
-### Sales & Marketing:
+### Sales & Marketing
 - HubSpot - https://www.hubspot.com
   - Marketing - https://www.hubspot.com/products/marketing
   - Sales - https://www.hubspot.com/products/sales
@@ -252,7 +252,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Rocket.Chat - https://rocket.chat
 - Twist - https://twist.com
 
-### Customer Support/Live Chat:
+### Customer Support/Live Chat
 - Olark - https://www.olark.com/
 - Facebook Messenger - https://web.facebook.com/business/products/messenger-for-business
 - WhatsApp for Business - https://business.whatsapp.com
@@ -272,27 +272,26 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Mastodon - https://joinmastodon.org
 - Bluesky - https://bsky.app
 
-### Web Experimentation:
+### Web Experimentation
 - VWO - https://vwo.com
-- PostHog - https://posthog.com
 - OptimalUX - https://optimalux.com
 - Upflowy - https://www.upflowy.com
 
-### Blogging, Writing:
+### Blogging, Writing
 - Substack - https://substack.com
 - Medium - https://medium.com
 - Dev.to - https://dev.to
 
 ## Productivity, Management, Organization
 
-### Note-taking & Reading:
+### Note-taking & Reading
 - Notion - https://www.notion.com
 - Microsoft OneNote - https://www.onenote.com (part of [Microsoft 365 Copilot](https://www.office.com))
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
 - Obsidian - https://obsidian.md
 
-### Journaling:
+### Journaling
 - DailyWins - https://dailywins.ibexoft.com (by Ibexoft, maintainer of this list)
 
 ### Documentation & Collaboration
@@ -310,17 +309,17 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Product Demos & Tutorials
 - supademo - https://supademo.com
 
-### Storage:
+### Storage
 - Microsoft OneDrive - https://onedrive.com
 - Google Drive - https://drive.google.com
 - Amazon S3 - https://aws.amazon.com/pm/serv-s3
-- DropBox https://www.dropbox.com
+- Dropbox - https://www.dropbox.com
 - Box - https://www.box.com
 - Mega - https://mega.io
 - Proton Drive - https://proton.me/drive
 - Cloudflare R2 - https://www.cloudflare.com/developer-platform/products/r2/
 
-### Project/Task Management:
+### Project/Task Management
 Good for personal tasks
 - Todoist - https://todoist.com
 - Superlist - https://www.superlist.com
@@ -352,7 +351,7 @@ Good for team projects
 - Proton Calendar - https://proton.me/calendar
 - Calendly - https://calendly.com
 
-### Attendance & Time Tracking:
+### Attendance & Time Tracking
 - Toggl - https://toggl.com
 - Clockify - https://clockify.me
 - TimeCamp - https://www.timecamp.com
@@ -369,7 +368,7 @@ Good for team projects
 
 ## Graphics, Design, and Media
 
-### Video making:
+### Video making
 - Google Vids - https://workspace.google.com/products/vids
 - Biteable - https://biteable.com
 - Powtoon - https://www.powtoon.com
@@ -379,7 +378,7 @@ Good for team projects
 - VEED - https://www.veed.io
 - Tavus (AI based) - https://www.tavus.io
 
-### Stock Photos/Illustrations/Icons:
+### Stock Photos/Illustrations/Icons
 - Unsplash - https://unsplash.com
 - Pexels - https://www.pexels.com
 - Shopify Burst - https://burst.shopify.com
@@ -391,7 +390,7 @@ Good for team projects
 - Favicon Generator - https://favicon.io
 - APPLORE App Icon Generator - https://applore.app/app-icon-generator
 
-### Online Logo:
+### Online Logo
 - Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
 - Logo Joy - https://logojoy.com
 - Logaster - https://www.logaster.com
@@ -403,7 +402,7 @@ Good for team projects
 - Zillion Designs - https://zilliondesigns.com
 - Logo Maker - https://logomaker.com
 
-### Designing & Editing:
+### Designing & Editing
 - Gamma (AI based) -	https://gamma.app
 - Canva - https://www.canva.com
 - Snappa - https://snappa.com
