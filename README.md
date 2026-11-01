@@ -222,6 +222,8 @@ This is a curated list of tools for everything from productivity to hosting to d
 - AnswerThePublic - https://answerthepublic.com
 - Where Should I Launch? - https://mydentify.com/tools/startup-directory-finder
 - Optux AI - https://optux.ai
+- Mach GTM - https://machgtm.com (AI-powered B2B outbound sales — build ICP, research prospects, score leads, draft personalised cold outreach for software teams)
+  - MCP Server (open-source) - https://github.com/verma6uc/mach-gtm-mcp
 
 ### Automation
 - Zapier - https://zapier.com
