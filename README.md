@@ -96,6 +96,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Replit (AI based) - https://replit.com
 - v0 by Vercel (AI based) - https://v0.app
 - Google AI Studio - https://aistudio.google.com
+- WeInc (AI based) - https://we.inc
 
 ### AI-based Code Agents
 - GitHub Copilot - https://github.com/features/copilot
