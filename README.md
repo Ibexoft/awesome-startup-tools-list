@@ -394,6 +394,7 @@ Good for team projects
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
 - flow-chart.io (AI based) - https://flow-chart.io
+- Klaruvo - https://www.powersoftware.app/en-US/product/detail/klaruvo
 
 ## Security and Privacy
 
