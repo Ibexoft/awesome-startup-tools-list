@@ -222,6 +222,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - AnswerThePublic - https://answerthepublic.com
 - Where Should I Launch? - https://mydentify.com/tools/startup-directory-finder
 - Optux AI - https://optux.ai
+- CrakSEO - https://crakseo.com
 
 ### Automation
 - Zapier - https://zapier.com
