@@ -153,6 +153,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Notification (Push, SMS etc) Service for Developers
 - OneSignal - https://onesignal.com
 - Pusher - https://pusher.com
+- SuprSend - https://www.suprsend.com
 - Twilio - https://www.twilio.com
 
 ### Changelog
