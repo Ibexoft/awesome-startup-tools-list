@@ -262,6 +262,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Substack - https://substack.com
 - Medium - https://medium.com
 - Dev.to - https://dev.to
+- Coda One - https://www.codaone.ai
 
 ## Productivity, Management, Organization
 
