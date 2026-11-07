@@ -63,6 +63,9 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Web Page Performance Test - https://www.webpagetest.org/
 - GTMetrix	https://gtmetrix.com/
 
+### SEO & Keyword Tools
+- GoAnyAPI - https://goanyapi.com - SEO data API and MCP server for AI agents: keyword research and search volume, backlinks, domain rating, website traffic and Google Ads Transparency. Also usable from Claude Code, Cursor and Codex via MCP.
+
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
 - Webz.io - https://webz.io
