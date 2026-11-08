@@ -198,6 +198,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - EventSync - https://eventsync.io
 
 ### Sales & Marketing
+- AdVariq - https://advariq.com
 - HubSpot - https://www.hubspot.com
   - Marketing - https://www.hubspot.com/products/marketing
   - Sales - https://www.hubspot.com/products/sales
