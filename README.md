@@ -117,9 +117,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Local (for WordPress) - https://localwp.com
 
 ### Utilities
-- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
-- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
-- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
+- Cockpit - https://yorben.me
 - FileZilla - https://filezilla-project.org/
 - FreeFileSync - https://freefilesync.org/
 - CryptoMator - https://cryptomator.org/
