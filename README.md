@@ -264,7 +264,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Dev.to - https://dev.to
 
 ## Productivity, Management, Organization
-- Needle - https://yorben.me/#needle - Native Now Playing indicator beside the Mac Dock
+- Needle - https://yorben.me/#needle
 
 ### Note-taking & Reading
 - Notion - https://www.notion.com
