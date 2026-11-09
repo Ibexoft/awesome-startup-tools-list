@@ -186,6 +186,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- Soluqube - https://soluqube.com/tools/ssp-allocation-calculator - Free ASC 606 & Ind AS 115 standalone selling price (SSP) allocation calculator and contract revenue schedule engine for startups.
 
 ### CRM
 - HubSpot CRM - https://www.hubspot.com/products/crm
