@@ -1,8 +1,10 @@
 name: PR guidelines review
 
-# Reviews contributor pull requests against CONTRIBUTING.md and posts a
-# recommendation comment for the maintainer. It never closes, merges,
-# labels, or approves a pull request.
+# Reviews contributor pull requests against CONTRIBUTING.md and posts the
+# results as a comment. A pull request may add several tools; each is checked
+# on its own. Failing submissions are reported as rejected; passing ones are
+# only pending the maintainer's review. It never closes, merges, labels, or
+# approves a pull request.
 #
 # pull_request_target is used so the workflow can comment on pull requests
 # opened from forks. It runs the workflow and script from the base branch;
