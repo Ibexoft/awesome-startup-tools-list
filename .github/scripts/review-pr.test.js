@@ -4,7 +4,7 @@
 
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { analyze, buildComment, run, MARKER } = require('./review-pr.js');
+const { analyze, buildComment, run, MARKER, MAX_ENTRIES } = require('./review-pr.js');
 
 const BASE = `# Awesome list
 
@@ -43,25 +43,59 @@ function pr(lines, { after = '- Plausible - https://plausible.io', remove = [], 
   return { files, baseReadme: BASE, headReadme: head, now: NOW, rdap: oldDomain, site: siteOk };
 }
 
-const status = (result, name) => result.checks.find((c) => c.name === name)?.status;
+// Status of a check: pull-request-level checks first, then the given entry's.
+const status = (result, name, entry = 0) =>
+  (result.checks.find((c) => c.name === name) || result.entries[entry]?.checks.find((c) => c.name === name))?.status;
 
-test('valid single addition is recommended for acceptance', async () => {
+test('valid single addition passes the initial review', async () => {
   const r = await analyze(pr(['- Umami - https://umami.is']));
-  assert.equal(r.verdict, 'accept');
-  assert.equal(r.entry.name, 'Umami');
-  assert.equal(r.entry.category, 'Analytics');
-  assert.ok(r.checks.every((c) => c.status === 'pass'), JSON.stringify(r.checks, null, 2));
+  assert.equal(r.verdict, 'passed');
+  assert.equal(r.entries.length, 1);
+  assert.equal(r.entries[0].name, 'Umami');
+  assert.equal(r.entries[0].category, 'Analytics');
+  assert.ok([...r.checks, ...r.entries[0].checks].every((c) => c.status === 'pass'), JSON.stringify(r, null, 2));
 });
 
-test('multiple tools in one PR are rejected', async () => {
+test('multiple valid tools in one PR pass, each checked on its own', async () => {
   const r = await analyze(pr(['- Umami - https://umami.is', '- Fathom - https://usefathom.com']));
-  assert.equal(r.verdict, 'reject');
-  assert.equal(status(r, 'One tool per PR'), 'fail');
+  assert.equal(r.verdict, 'passed');
+  assert.equal(status(r, 'Additions only'), 'pass');
+  assert.deepEqual(r.entries.map((e) => [e.name, e.status]), [['Umami', 'pass'], ['Fathom', 'pass']]);
 });
 
-test('changes to files other than README.md are rejected', async () => {
+test('one failing tool among several is flagged on its own', async () => {
+  const r = await analyze(pr(['- Umami - https://umami.is', '- MyApp - https://myapp.vercel.app', '- Fathom - https://usefathom.com']));
+  assert.equal(r.verdict, 'issues');
+  assert.deepEqual(r.entries.map((e) => e.status), ['pass', 'fail', 'pass']);
+  assert.equal(status(r, 'Domain', 1), 'fail');
+  const body = buildComment(r, { author: 'someone', repoUrl: 'https://github.com/o/r', branch: 'master' });
+  assert.match(body, /1 of 3 tools does not meet the guidelines/);
+  assert.match(body, /tools marked ❌ above/);
+  assert.match(body, /### ❌ 2\. `MyApp`/);
+  assert.match(body, /### ✅ 1\. `Umami`/);
+});
+
+test('the same tool added twice in one PR is flagged', async () => {
+  const r = await analyze(pr(['- Umami - https://umami.is', '- Umami - https://umami.is/']));
+  assert.equal(status(r, 'Not a duplicate', 0), 'pass');
+  assert.equal(status(r, 'Not a duplicate', 1), 'fail');
+  assert.equal(r.verdict, 'issues');
+});
+
+test(`only the first ${MAX_ENTRIES} tools are checked automatically`, async () => {
+  const lines = Array.from({ length: MAX_ENTRIES + 2 }, (_, i) => `- Tool${i} - https://tool${i}.com`);
+  const r = await analyze(pr(lines));
+  assert.equal(r.entries.length, MAX_ENTRIES);
+  assert.equal(r.unchecked.length, 2);
+  assert.equal(r.verdict, 'manual');
+  const body = buildComment(r, { author: 'someone', repoUrl: 'https://github.com/o/r', branch: 'master' });
+  assert.match(body, /Not checked automatically:\*\*/);
+  assert.match(body, /`- Tool21 - https:\/\/tool21\.com`/);
+});
+
+test('changes to files other than README.md are flagged', async () => {
   const r = await analyze(pr(['- Umami - https://umami.is'], { extraFiles: [{ filename: 'CONTRIBUTING.md', status: 'modified', patch: '+x' }] }));
-  assert.equal(r.verdict, 'reject');
+  assert.equal(r.verdict, 'issues');
   assert.equal(status(r, 'Files changed'), 'fail');
 });
 
@@ -76,33 +110,33 @@ test('entries with a description or wrong separator fail the format check', asyn
   ]) {
     const r = await analyze(pr([line]));
     assert.equal(status(r, 'Format'), 'fail', line);
-    assert.equal(r.verdict, 'reject', line);
+    assert.equal(r.verdict, 'issues', line);
   }
 });
 
-test('platform subdomains are rejected', async () => {
+test('platform subdomains are flagged', async () => {
   for (const url of ['https://myapp.vercel.app', 'https://cool.netlify.app/', 'https://me.github.io/tool']) {
     const r = await analyze(pr([`- MyApp - ${url}`]));
     assert.equal(status(r, 'Domain'), 'fail', url);
-    assert.equal(r.domainFailed, true);
-    assert.equal(r.verdict, 'reject');
+    assert.equal(r.entries[0].domainFailed, true);
+    assert.equal(r.verdict, 'issues');
   }
 });
 
-test('GitHub repository links are rejected', async () => {
+test('GitHub repository links are flagged', async () => {
   const r = await analyze(pr(['- MyTool - https://github.com/someone/mytool']));
   assert.equal(status(r, 'Domain'), 'fail');
-  assert.equal(r.verdict, 'reject');
+  assert.equal(r.verdict, 'issues');
 });
 
-test('tracking and referral parameters are rejected', async () => {
+test('tracking and referral parameters are flagged', async () => {
   for (const url of ['https://umami.is/?utm_source=github', 'https://umami.is/?ref=awesome', 'https://umami.is/?via=me']) {
     const r = await analyze(pr([`- Umami - ${url}`]));
     assert.equal(status(r, 'No tracking/referral'), 'fail', url);
   }
 });
 
-test('duplicate name or URL is rejected', async () => {
+test('duplicate name or URL is flagged', async () => {
   const byName = await analyze(pr(['- supabase - https://supabase.io']));
   assert.equal(status(byName, 'Not a duplicate'), 'fail');
   const byUrl = await analyze(pr(['- Plausible Analytics - https://plausible.io/']));
@@ -112,24 +146,24 @@ test('duplicate name or URL is rejected', async () => {
 test('same host with a different path is only a warning', async () => {
   const r = await analyze(pr(['- Amazon Lambda - https://aws.amazon.com/lambda/']));
   assert.equal(status(r, 'Not a duplicate'), 'warn');
-  assert.equal(r.verdict, 'accept');
+  assert.equal(r.verdict, 'passed');
 });
 
-test('adding a new category heading is rejected', async () => {
+test('adding a new category heading is flagged', async () => {
   const r = await analyze(pr(['### Brand New', '- Umami - https://umami.is']));
   assert.equal(status(r, 'Category'), 'fail');
-  assert.equal(r.verdict, 'reject');
+  assert.equal(r.verdict, 'issues');
 });
 
-test('entry outside any category is rejected', async () => {
+test('entry outside any category is flagged', async () => {
   const r = await analyze(pr(['- Umami - https://umami.is'], { after: '> intro' }));
   assert.equal(status(r, 'Category'), 'fail');
 });
 
-test('removal-only PR needs manual review, not rejection', async () => {
+test('removal-only PR needs manual review', async () => {
   const r = await analyze(pr([], { remove: ['- Firebase - https://firebase.google.com'] }));
   assert.equal(r.verdict, 'manual');
-  assert.equal(r.entry, null);
+  assert.equal(r.entries.length, 0);
 });
 
 test('URL update of an existing entry needs manual review', async () => {
@@ -140,35 +174,37 @@ test('URL update of an existing entry needs manual review', async () => {
   assert.equal(r.verdict, 'manual');
 });
 
-test('new tool mixed with removals is rejected', async () => {
+test('new tool mixed with removals is flagged', async () => {
   const r = await analyze(pr(['- Umami - https://umami.is'], { remove: ['- Firebase - https://firebase.google.com'] }));
-  assert.equal(r.verdict, 'reject');
-  assert.equal(status(r, 'One tool per PR'), 'fail');
+  assert.equal(r.verdict, 'issues');
+  assert.equal(status(r, 'Additions only'), 'fail');
 });
 
 test('recently registered domain fails the domain age check', async () => {
   const r = await analyze({ ...pr(['- NewAI - https://newai.example']), rdap: youngDomain });
   assert.equal(status(r, 'Domain age'), 'fail');
-  assert.equal(r.verdict, 'reject');
+  assert.equal(r.verdict, 'issues');
 });
 
 test('RDAP failure is only a warning', async () => {
   const r = await analyze({ ...pr(['- Umami - https://umami.is']), rdap: rdapFail });
   assert.equal(status(r, 'Domain age'), 'warn');
-  assert.equal(r.verdict, 'accept');
+  assert.equal(r.verdict, 'passed');
 });
 
 test('unreachable site is only a warning', async () => {
   const r = await analyze({ ...pr(['- Umami - https://umami.is']), site: async () => ({ ok: false, error: 'timed out' }) });
   assert.equal(status(r, 'Site reachable'), 'warn');
-  assert.equal(r.verdict, 'accept');
+  assert.equal(r.verdict, 'passed');
 });
 
-test('reject comment addresses the author about featured listings', async () => {
+test('comment with issues addresses the author about featured listings', async () => {
   const r = await analyze(pr(['- MyApp - https://myapp.vercel.app']));
   const body = buildComment(r, { author: 'someone', repoUrl: 'https://github.com/o/r', branch: 'master' });
   assert.ok(body.startsWith(MARKER));
-  assert.match(body, /Recommendation: ❌ Reject/);
+  assert.match(body, /Initial pass: ❌ Issues found/);
+  assert.match(body, /Final review is pending/);
+  assert.doesNotMatch(body, /Recommendation|Accept|Reject/);
   assert.match(body, /Hi @someone/);
   assert.match(body, /support@ibexoft\.com/);
   assert.match(body, /SPONSORS\.md/);
@@ -176,10 +212,13 @@ test('reject comment addresses the author about featured listings', async () => 
   assert.match(body, /cannot be purchased/);
 });
 
-test('accept comment does not include the featured listing message', async () => {
+test('passing comment is an initial pass, not an approval, and links the guidelines', async () => {
   const r = await analyze(pr(['- Umami - https://umami.is']));
   const body = buildComment(r, { author: 'someone', repoUrl: 'https://github.com/o/r', branch: 'master' });
-  assert.match(body, /Accept, pending manual checks/);
+  assert.match(body, /Initial pass: ✅ No issues found by automated checks/);
+  assert.match(body, /not an approval/);
+  assert.match(body, /\(https:\/\/github\.com\/o\/r\/blob\/master\/CONTRIBUTING\.md#review-process\)/);
+  assert.doesNotMatch(body, /Recommendation|Accept|approved/);
   assert.doesNotMatch(body, /@someone/);
   assert.doesNotMatch(body, /support@ibexoft\.com/);
 });

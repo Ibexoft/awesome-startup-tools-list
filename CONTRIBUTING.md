@@ -17,10 +17,15 @@ New or recently launched tools are generally not accepted until they meet the cr
 
 ## How to submit
 
-1. Add one tool per pull request.
-2. Place it in the most relevant existing category.
+1. You may add one or more tools in a pull request. Each tool must meet the inclusion criteria on its own.
+2. Place each tool in the most relevant existing category.
 3. Use the existing format: tool name, a hyphen, then the URL.
 4. Do not add tracking parameters or referral links.
+5. Only add new tools. Do not combine additions with edits, removals, new categories, or other changes.
+
+## Review process
+
+Every pull request receives an automated initial review against the criteria above. The automated review is a preliminary check only and is not an approval. Each pull request then receives a final review by the maintainer, who has sole discretion to accept or decline any submission, in full or in part.
 
 ## Quality cleanup
 
