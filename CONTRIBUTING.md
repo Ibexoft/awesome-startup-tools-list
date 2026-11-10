@@ -25,7 +25,7 @@ New or recently launched tools are generally not accepted until they meet the cr
 
 ## Review process
 
-Every pull request receives an automated initial review against the criteria above. The automated review is a preliminary check only and is not an approval. Each pull request then receives a final review by the maintainer, who has sole discretion to accept or decline any submission, in full or in part.
+Every pull request receives an automated review against the criteria above. Submissions that fail it are rejected. Passing it is not an approval: approval requires a final review by the maintainer, who has sole discretion to accept or decline any submission, in full or in part.
 
 ## Quality cleanup
 

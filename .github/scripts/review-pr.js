@@ -1,10 +1,11 @@
 'use strict';
 
-// Automated initial review of contributor pull requests against
-// CONTRIBUTING.md. A pull request may add several tools; each is checked on
-// its own. Posts (or updates) a single comment with the results. It is an
-// initial pass only: it never closes, merges, labels, or approves a pull
-// request.
+// Automated review of contributor pull requests against CONTRIBUTING.md.
+// A pull request may add several tools; each is checked on its own. Posts (or
+// updates) a single comment with the results. Submissions that fail the
+// checks are reported as rejected; submissions that pass are only pending the
+// maintainer's review, never approved. It never closes, merges, labels, or
+// approves a pull request.
 
 const fs = require('fs');
 const path = require('path');
@@ -337,10 +338,11 @@ async function checkEntry(line, { baseReadme, baseHeadingTexts, headReadme, earl
  * @param {Function} [input.rdap]   async (host) => rdap result
  * @param {Function} [input.site]   async (url) => site check result
  *
- * Returns { verdict, checks, entries, unchecked, notes }. `verdict` is one of
- * 'passed' (every automated check passed), 'issues' (at least one check
- * failed), or 'manual' (nothing that could be checked automatically). It is
- * an initial pass only, never an approval.
+ * Returns { verdict, checks, entries, unchecked, notes }. `verdict` is one of:
+ *   'rejected' - a pull-request-level check failed, or every tool failed
+ *   'partial'  - some tools failed (rejected); the rest are pending review
+ *   'passed'   - every automated check passed; pending review, not approved
+ *   'manual'   - no tool entries to check, or some were not checked
  */
 async function analyze({ files, baseReadme, headReadme, now = new Date(), rdap = rdapLookup, site = siteCheck }) {
   const checks = [];
@@ -412,12 +414,18 @@ async function analyze({ files, baseReadme, headReadme, now = new Date(), rdap =
 }
 
 function finalize(result) {
-  const all = [...result.checks, ...result.entries.flatMap((e) => e.checks)];
-  if (all.some((c) => c.status === 'fail')) result.verdict = 'issues';
-  else if (result.entries.length && !result.unchecked.length) result.verdict = 'passed';
-  else result.verdict = 'manual';
+  const { entries, unchecked } = result;
+  const prFailed = result.checks.some((c) => c.status === 'fail');
+  const failed = entries.filter((e) => e.status === 'fail').length;
+  if (!entries.length) result.verdict = 'manual';
+  else if (prFailed || (failed === entries.length && !unchecked.length)) result.verdict = 'rejected';
+  else if (failed) result.verdict = 'partial';
+  else if (unchecked.length) result.verdict = 'manual';
+  else result.verdict = 'passed';
   return result;
 }
+
+const plural = (n, word) => `${n} ${word}${n === 1 ? '' : 's'}`;
 
 // ---------------------------------------------------------------------------
 // Comment
@@ -440,20 +448,19 @@ function buildComment(result, { author, repoUrl, branch }) {
   const contributing = `${repoUrl}/blob/${branch}/CONTRIBUTING.md`;
   const guidelines = `[contribution guidelines](${contributing}#review-process)`;
   const sponsors = `${repoUrl}/blob/${branch}/SPONSORS.md`;
-  const entries = result.entries;
+  const { entries, verdict } = result;
   const failedEntries = entries.filter((e) => e.status === 'fail');
-  const prFailed = result.checks.some((c) => c.status === 'fail');
-  const out = [MARKER, '## Automated initial review', ''];
+  const pending = entries.length - failedEntries.length + result.unchecked.length;
+  const out = [MARKER, '## Automated review', ''];
 
-  if (result.verdict === 'issues') {
-    const scope = failedEntries.length
-      ? `${failedEntries.length} of ${entries.length} tool${entries.length === 1 ? '' : 's'} do${failedEntries.length === 1 ? 'es' : ''} not meet the guidelines${prFailed ? ', and the pull request has other issues' : ''}`
-      : 'the pull request does not meet the guidelines';
-    out.push(`**Initial pass: ❌ Issues found** (${scope}). Pending final review per our ${guidelines}.`);
-  } else if (result.verdict === 'passed') {
-    out.push(`**Initial pass: ✅ No issues found by automated checks.** This is not an approval; pending final review per our ${guidelines}.`);
+  if (verdict === 'rejected') {
+    out.push(`**❌ Rejected.** This pull request does not meet the ${guidelines}. See the failed checks below.`);
+  } else if (verdict === 'partial') {
+    out.push(`**❌ Partially rejected.** ${plural(failedEntries.length, 'tool')} of ${entries.length + result.unchecked.length} ${failedEntries.length === 1 ? 'does' : 'do'} not meet the ${guidelines} and ${failedEntries.length === 1 ? 'is' : 'are'} rejected (marked ❌ below). The other ${pending === 1 ? 'tool is' : `${pending} tools are`} pending final review; passing the automated checks is not an approval.`);
+  } else if (verdict === 'passed') {
+    out.push(`**✅ Passed automated checks, pending final review** per our ${guidelines}. This is not an approval.`);
   } else {
-    out.push(`**Initial pass: ⚠️ Needs manual review** (some changes could not be checked automatically). Pending final review per our ${guidelines}.`);
+    out.push(`**⚠️ Needs manual review** (some changes could not be checked automatically). Pending final review per our ${guidelines}.`);
   }
   out.push('');
 
@@ -461,7 +468,8 @@ function buildComment(result, { author, repoUrl, branch }) {
 
   entries.forEach((e, i) => {
     const cat = e.category ? ` in ${code(e.category)}` : '';
-    out.push(`### ${ICON[e.status]} ${entries.length > 1 ? `${i + 1}. ` : ''}${code(e.name)} → ${code(e.url || 'no URL')}${cat}`, '');
+    const label = e.status === 'fail' ? '❌ Rejected' : '✅ Passed automated checks';
+    out.push(`### ${label}: ${entries.length > 1 ? `${i + 1}. ` : ''}${code(e.name)} → ${code(e.url || 'no URL')}${cat}`, '');
     out.push(...table(e.checks), '');
   });
 
@@ -474,24 +482,13 @@ function buildComment(result, { author, repoUrl, branch }) {
   if (entries.length) {
     out.push('**Not checked automatically for any tool:** credibility and track record (established, real-world usage, continued availability), and a permanent free plan or free tier (free trials do not qualify).', '');
   }
-  out.push(`<sub>Automated initial review against the ${guidelines}. It is not an approval or a final decision, and no action has been taken on this pull request. This comment updates when new commits are pushed.</sub>`);
+  out.push(`<sub>Automated review against the ${guidelines}. Passing these checks is not an approval. This comment updates when new commits are pushed.</sub>`);
 
-  if (result.verdict === 'issues') {
-    let what;
-    if (failedEntries.length && failedEntries.length < entries.length) {
-      what = `the tools marked ❌ above do not appear to meet the ${guidelines}, so they are unlikely to be added to the curated list. You can remove them, or fix the issues listed, and push again; this review will update`;
-    } else if (failedEntries.length) {
-      what = `this pull request does not appear to meet the ${guidelines} for the reasons listed above, so it is unlikely to be added to the curated list`;
-    } else {
-      what = `this pull request does not appear to meet the ${guidelines} for the reasons listed above. You can fix the issues and push again; this review will update`;
-    }
-    out.push(
-      '',
-      '---',
-      '',
-      `Hi @${author}, thanks for your submission. Based on this initial automated pass, ${what}. Final review is pending.`,
-      '',
-    );
+  if (verdict === 'rejected' || verdict === 'partial') {
+    const what = verdict === 'partial'
+      ? `the tools marked ❌ above do not meet the ${guidelines} and are rejected. Please remove them from this pull request, or fix the issues listed if they can be fixed, and push again; this review will update. The remaining tools are pending final review.`
+      : `this pull request does not meet the ${guidelines} for the reasons listed above, so it is rejected. If the issues can be fixed (for example, the entry format or category), push the fix and this review will update.`;
+    out.push('', '---', '', `Hi @${author}, thanks for your submission. Unfortunately, ${what}`, '');
     if (failedEntries.length) {
       out.push(
         'If you would still like to put your product in front of the founders, indie hackers, and small teams who use this list, you can apply for a **featured listing**:',
