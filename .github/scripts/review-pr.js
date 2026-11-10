@@ -484,27 +484,35 @@ function buildComment(result, { author, repoUrl, branch }) {
   }
   out.push(`<sub>Automated review against the ${guidelines}. Passing these checks is not an approval. This comment updates when new commits are pushed.</sub>`);
 
-  if (verdict === 'rejected' || verdict === 'partial') {
-    const what = verdict === 'partial'
-      ? `the tools marked ❌ above do not meet the ${guidelines} and are rejected. Please remove them from this pull request, or fix the issues listed if they can be fixed, and push again; this review will update. The remaining tools are pending final review.`
-      : `this pull request does not meet the ${guidelines} for the reasons listed above, so it is rejected. If the issues can be fixed (for example, the entry format or category), push the fix and this review will update.`;
-    out.push('', '---', '', `Hi @${author}, thanks for your submission. Unfortunately, ${what}`, '');
-    if (failedEntries.length) {
-      out.push(
-        'If you would still like to put your product in front of the founders, indie hackers, and small teams who use this list, you can apply for a **featured listing**:',
-        '',
-        '- Open to any eligible product, including newer products that do not yet meet the curated list\'s track-record requirement',
-        '- One line in the Featured section at the top of the README, with your product name, link, and a description of up to 15 words, labelled **Sponsored**',
-        '- Limited to 5 featured listings at any time, on monthly, quarterly, or annual terms paid in advance',
-        '- No pull request needed: email **support@ibexoft.com** with the subject line **Featured listing**, and include your product URL, company name, preferred term, and proposed one-line description',
-        '',
-      );
-      if (failedEntries.some((e) => e.domainFailed)) {
-        out.push('Please note that featured listings also require the product to be live and hosted on its own custom domain.', '');
-      }
-      out.push(`Featured listings are separate from the curated list. Payment does not influence pull request reviews, and inclusion in the curated list cannot be purchased. Eligibility and acceptance are at the maintainer's discretion. Full details are in [SPONSORS.md](${sponsors}).`);
-    }
+  // Message to the contributor. Every pull request that adds tools hears
+  // about featured listings, whatever the outcome of the review.
+  if (!entries.length) return out.join('\n').trimEnd() + '\n';
+
+  let message;
+  if (verdict === 'partial') {
+    message = `Unfortunately, the tools marked ❌ above do not meet the ${guidelines} and are rejected. Please remove them from this pull request, or fix the issues listed if they can be fixed, and push again; this review will update. The remaining tools are pending final review.`;
+  } else if (verdict === 'rejected') {
+    message = `Unfortunately, this pull request does not meet the ${guidelines} for the reasons listed above, so it is rejected. If the issues can be fixed (for example, the entry format or category), push the fix and this review will update.`;
+  } else {
+    message = `Your submission is pending final review per our ${guidelines}.`;
   }
+  out.push('', '---', '', `Hi @${author}, thanks for your submission. ${message}`, '');
+
+  out.push(
+    failedEntries.length
+      ? 'If you would still like to put your product in front of the founders, indie hackers, and small teams who use this list, you can apply for a **featured listing**:'
+      : 'If you would also like your product highlighted at the top of the list, in front of the founders, indie hackers, and small teams who use it, you can apply for a **featured listing**. This is optional and has no effect on the review of this pull request:',
+    '',
+    '- Open to any eligible product, including newer products that do not yet meet the curated list\'s track-record requirement',
+    '- One line in the Featured section at the top of the README, with your product name, link, and a description of up to 15 words, labelled **Sponsored**',
+    '- Limited to 5 featured listings at any time, on monthly, quarterly, or annual terms paid in advance',
+    '- No pull request needed: email **support@ibexoft.com** with the subject line **Featured listing**, and include your product URL, company name, preferred term, and proposed one-line description',
+    '',
+  );
+  if (failedEntries.some((e) => e.domainFailed)) {
+    out.push('Please note that featured listings also require the product to be live and hosted on its own custom domain.', '');
+  }
+  out.push(`Featured listings are separate from the curated list. Payment does not influence pull request reviews, and inclusion in the curated list cannot be purchased. Eligibility and acceptance are at the maintainer's discretion. Full details are in [SPONSORS.md](${sponsors}).`);
 
   return out.join('\n').trimEnd() + '\n';
 }

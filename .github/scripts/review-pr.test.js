@@ -223,7 +223,8 @@ test('a failing PR-level check rejects the whole pull request', async () => {
   const body = buildComment(r, { author: 'someone', repoUrl: 'https://github.com/o/r', branch: 'master' });
   assert.match(body, /\*\*❌ Rejected\.\*\*/);
   assert.match(body, /push the fix and this review will update/);
-  assert.doesNotMatch(body, /featured listing/);
+  assert.match(body, /optional and has no effect on the review/);
+  assert.match(body, /support@ibexoft\.com/);
 });
 
 test('a pull request with no new tools needs manual review, not rejection', async () => {
@@ -241,8 +242,12 @@ test('passing comment is pending review, not an approval, and links the guidelin
   assert.match(body, /not an approval/);
   assert.match(body, /\(https:\/\/github\.com\/o\/r\/blob\/master\/CONTRIBUTING\.md#review-process\)/);
   assert.doesNotMatch(body, /Recommendation|Accept|approved/);
-  assert.doesNotMatch(body, /@someone/);
-  assert.doesNotMatch(body, /support@ibexoft\.com/);
+  assert.match(body, /Hi @someone, thanks for your submission\. Your submission is pending final review/);
+  assert.match(body, /highlighted at the top of the list/);
+  assert.match(body, /optional and has no effect on the review of this pull request/);
+  assert.match(body, /support@ibexoft\.com/);
+  assert.match(body, /Payment does not influence pull request reviews/);
+  assert.doesNotMatch(body, /would still like|Unfortunately|custom domain\./);
 });
 
 test('user-provided text is rendered inside code spans', async () => {
