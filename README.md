@@ -271,6 +271,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Google Keep - https://keep.google.com
 - Capacities - https://capacities.io
 - Obsidian - https://obsidian.md
+- AFFiNE - https://affine.pro
 
 ### Journaling
 - DailyWins - https://dailywins.ibexoft.com (by Ibexoft, maintainer of this list)
