@@ -272,6 +272,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Capacities - https://capacities.io
 - Obsidian - https://obsidian.md
 - AFFiNE - https://affine.pro
+- Glasp - https://glasp.co
 
 ### Journaling
 - DailyWins - https://dailywins.ibexoft.com (by Ibexoft, maintainer of this list)
