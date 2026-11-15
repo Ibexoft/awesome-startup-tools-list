@@ -55,6 +55,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 
 ### Maps & Geolocation
 - MapAtlas - https://mapatlas.eu
+- No Stairs Please - https://nostairsplease.com
 
 ### Site Performance Tools
 - Page Gym - https://pagegym.com
