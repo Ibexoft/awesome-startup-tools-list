@@ -273,6 +273,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Obsidian - https://obsidian.md
 - AFFiNE - https://affine.pro
 - Glasp - https://glasp.co
+- GetYouTubeTranscript - https://getyoutubetranscript.com
 
 ### Journaling
 - DailyWins - https://dailywins.ibexoft.com (by Ibexoft, maintainer of this list)
