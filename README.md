@@ -397,6 +397,7 @@ Good for team projects
 - BulkPicTools - https://bulkpictools.com/
 - EnigmaEasel - https://enigmaeasel.com/
 - flow-chart.io (AI based) - https://flow-chart.io
+- BatchSet (bulk image converter, compressor and resizer in the browser) - https://batchset.com/tools/image-compressor
 
 ## Security and Privacy
 
