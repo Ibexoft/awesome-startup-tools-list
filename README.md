@@ -263,6 +263,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Medium - https://medium.com
 - Dev.to - https://dev.to
 
+- HumanPen - https://humanpen.net/
 ## Productivity, Management, Organization
 
 ### Note-taking & Reading
