@@ -210,6 +210,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - My Site Auditor - https://mysiteauditor.com
 - WooBox - https://woobox.com
 - BuzzSumo - https://buzzsumo.com
+- Founder Email Finder - https://founders.intropi.in
 - Ritetag - https://ritetag.com
 - Tagboard - https://tagboard.com
 - Shortstack - https://www.shortstack.com
