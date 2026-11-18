@@ -135,6 +135,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 
 ### Email Services
 - Resend - https://resend.com/
+- Transmitly - https://transmitly.io/
 - Brevo (Ex Sendinblue) - https://www.brevo.com/
 - MailGun - https://www.mailgun.com , https://www.mailgun.com/google
 - SendGrid - https://sendgrid.com
