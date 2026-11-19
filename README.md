@@ -196,6 +196,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Attio - https://attio.com/
 - Dealboard - https://getdealboard.com
 - EventSync - https://eventsync.io
+- Vendo CRM (free CRM built into Vendo AI; replies from email, LinkedIn and website chat become lead cards) - https://vendo-ai.com/crm/
 
 ### Sales & Marketing
 - HubSpot - https://www.hubspot.com
