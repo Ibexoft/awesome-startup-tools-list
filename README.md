@@ -52,6 +52,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Cloudflare - https://www.cloudflare.com/
 - ClouDNS - https://cloudns.net/
 - Let's Encrypt - https://letsencrypt.org/
+- BrandShield - https://brand.shipbastion.com
 
 ### Maps & Geolocation
 - MapAtlas - https://mapatlas.eu
