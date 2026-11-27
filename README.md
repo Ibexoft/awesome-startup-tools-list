@@ -186,6 +186,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
 - Odoo Accounting - https://www.odoo.com/app/accounting
+- Kitovo - https://www.kitovo.app/receipt-generator/
 
 ### CRM
 - HubSpot CRM - https://www.hubspot.com/products/crm
