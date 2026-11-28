@@ -182,6 +182,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 ### ERP / Business Management
 - Odoo - https://www.odoo.com
 - Bitrix24 - https://www.bitrix24.com
+- ChinaBrandPath Importer Workbench (Free browser-local WCO HS code lookup, DDP/CIF/FOB landed cost calculator, LCL hidden-fee audit & ISO 2859-1 AQL planner) - https://tools.chinabrandpath.com
 
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
