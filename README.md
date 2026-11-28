@@ -228,6 +228,7 @@ This is a curated list of tools for everything from productivity to hosting to d
 - Make - https://www.make.com
 - IFTTT - https://ifttt.com
 - n8n - https://n8n.io
+- MindPal - https://mindpal.space
 
 ### Team Chat & Communication
 - Slack - https://slack.com
